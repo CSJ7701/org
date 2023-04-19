@@ -1,0 +1,114 @@
+* Inbox
+
+** TODO Update Org Keybindings 
+  [2023-04-02 Sun 13:53]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/emacs.org::*Immediate Node Creation][Immediate Node Creation]]
+
+** TODO Grade Kyle's Bullets 
+  [2023-04-17 Mon 09:35]
+  [[file:~/.dotfiles/.emacs.d/start.org::+ATTR_ORG: :width 1000]]
+
+* School 
+** STUDY Study Polar Form and Complex                                :study: 
+  [2023-03-31 Fri 09:24]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** STUDY Study for CCN
+DEADLINE: <2023-03-21 Tue>
+  [2023-03-15 Wed 13:59]
+  [[file:~/.emacs.d/OrgFiles/Tasks.org::*Inbox][Inbox]]
+
+  
+** STUDY Study For SST
+DEADLINE: <2023-03-17 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:01]
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:00]
+:END:
+  [2023-03-15 Wed 14:00]
+  [[file:~/.emacs.d/OrgFiles/Tasks.org::*Inbox][Inbox]]
+
+** DONE Finish SST Problem Set
+CLOSED: [2023-04-04 Tue 22:22] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-04 Tue 22:22]
+:END:
+
+** HOMEWORK Redo SST Homework Units 1-5
+DEADLINE: <2023-04-02 Sun>
+
+** DONE Work on Ships Project. 2 Definitions and Cruise Ship History 
+CLOSED: [2023-04-05 Wed 22:02] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 22:02]
+:END:
+  [2023-04-02 Sun 21:18]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/OrgFiles/Class Notes/CCN.org::*6.4.1 Link Layer Addressing and ARP][6.4.1 Link Layer Addressing and ARP]]
+
+** DONE DCCS Project 
+CLOSED: [2023-04-04 Tue 22:22] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-04 Tue 22:22]
+:END:
+  [2023-04-03 Mon 18:32]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** HOMEWORK Morals and Ethics Presentation 
+DEADLINE: <2023-04-19 Wed>
+  [2023-04-03 Mon 18:33]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE SST Homework  
+CLOSED: [2023-04-05 Wed 20:04] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 20:04]
+:END:
+  [2023-04-05 Wed 17:06]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE CCN Quizzes 
+CLOSED: [2023-04-05 Wed 22:02] DEADLINE: <2023-04-05 Wed>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 22:02]
+:END:
+  [2023-04-05 Wed 17:06]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE CCN Lab Report 
+CLOSED: [2023-04-16 Sun 13:11] DEADLINE: <2023-04-06 Thu>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:11]
+:END:
+  [2023-04-05 Wed 17:13]
+
+** HOMEWORK DCCS Project due Wednesday 
+  [2023-04-13 Thu 08:35]
+  [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
+
+** DONE Bullets  
+CLOSED: [2023-04-16 Sun 13:11] DEADLINE: <2023-04-16 Sun>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:11]
+:END:
+  [2023-04-13 Thu 08:36]
+  [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
+
+** DONE SST Homework 
+CLOSED: [2023-04-16 Sun 13:09]
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:09]
+:END:
+  [2023-04-16 Sun 13:09]
+
+** DONE CCN Notes 
+CLOSED: [2023-04-16 Sun 13:09]
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:09]
+:END:
+  [2023-04-16 Sun 13:09]
+
+** HOMEWORK Finish Training Quizzes 
+DEADLINE: <2023-04-17 Mon>
+  [2023-04-17 Mon 09:35]
+  [[file:~/.dotfiles/.emacs.d/start.org::+ATTR_ORG: :width 1000]]
+

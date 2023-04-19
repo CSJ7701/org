@@ -1,0 +1,120 @@
+* Archive
+
+** DONE Test Refile
+CLOSED: [2023-03-15 Wed 14:02]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-03-15 Wed 14:02]
+:END:
+  [2023-03-15 Wed 14:01]
+  [[file:~/.emacs.d/OrgFiles/Tasks.org::*Inbox][Inbox]]
+
+l
+** DONE Finish Ships Homework
+CLOSED: [2023-03-31 Fri 09:00] DEADLINE: <2023-03-31 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:00]
+:END:
+
+** DONE Finish CCN Notes 
+CLOSED: [2023-03-31 Fri 09:00] DEADLINE: <2023-03-31 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:00]
+:END:
+  [2023-03-30 Thu 18:25]
+
+** DONE Add "Study" agenda status/others for school.              :workflow: 
+  [2023-03-31 Fri 09:23]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE SST Homework 
+CLOSED: [2023-04-03 Mon 18:12] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-03 Mon 18:12]
+:END:
+  [2023-04-02 Sun 14:31]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE SST Homework
+CLOSED: [2023-04-03 Mon 18:13] DEADLINE: <2023-04-05 Wed>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-03 Mon 18:13]
+:END:
+  [2023-04-03 Mon 16:44]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE DCCS Homework 
+CLOSED: [2023-04-03 Mon 18:31] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-03 Mon 18:31]
+:END:
+  [2023-04-02 Sun 14:31]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE DCCS Homework  
+CLOSED: [2023-04-03 Mon 18:31] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-03 Mon 18:31]
+:END:
+  [2023-04-03 Mon 16:45]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Finish CCN Notes
+CLOSED: [2023-04-02 Sun 22:03] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-02 Sun 22:03]
+:END:
+  [2023-03-31 Fri 13:32]
+
+** DONE SST Homework 
+CLOSED: [2023-04-18 Tue 07:24] DEADLINE: <2023-04-19 Wed>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-18 Tue 07:24]
+:END:
+  [2023-04-17 Mon 16:26]
+
+** DONE CCN Notes 
+CLOSED: [2023-04-18 Tue 07:24] DEADLINE: <2023-04-19 Wed>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-18 Tue 07:24]
+:END:
+  [2023-04-17 Mon 16:26]
+
+** DONE Follow up on [[mu4e:msgid:CH2PR17MB357543E51CE3C14D641EFD08CD989@CH2PR17MB3575.namprd17.prod.outlook.com][Christian Johnson Tax Returns 2022]] 
+ CLOSED: [2023-04-18 Tue 07:56] SCHEDULED:<2023-04-16 Sun>
+ :LOGBOOK:
+ - State "DONE"       from "TODO"       [2023-04-18 Tue 07:56]
+ :END:
+ DEADLINE:<2023-04-18 Tue> 
+ From: Laura Thomas On: 2023-04-13T15:06:20
+
+** DONE Follow up on [[mu4e:msgid:010001877c002afb-3bbbf470-02bf-4303-ae34-a07293166012-000000@email.amazonses.com][Commonwealth Business Services has sent you the document 'Johnson Christian 2022 Signature Pages' to sign]] 
+ CLOSED: [2023-04-18 Tue 07:56] SCHEDULED:<2023-04-16 Sun>
+ :LOGBOOK:
+ - State "DONE"       from "TODO"       [2023-04-18 Tue 07:56]
+ :END:
+ DEADLINE:<2023-04-18 Tue> 
+ From: RightSignature com On: 2023-04-13T15:03:18
+
+** DONE Read [[mu4e:msgid:PH7PR12MB59288130BC8BCF99A8FF9F31AD949@PH7PR12MB5928.namprd12.prod.outlook.com][having a bad day?  read this]] 
+ CLOSED: [2023-04-18 Tue 07:56] SCHEDULED:<2023-04-16 Sun>
+ :LOGBOOK:
+ - State "DONE"       from "TODO"       [2023-04-18 Tue 07:56]
+ :END:
+ DEADLINE:<2023-04-18 Tue> 
+ From: David McPartland On: 2023-04-09T09:33:56 
+** DONE SST Problem Set 
+CLOSED: [2023-04-18 Tue 10:03] DEADLINE: <2023-04-04 Tue>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-18 Tue 10:03]
+:END:
+  [2023-04-03 Mon 16:45]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Morals and Ethics Bullets  
+CLOSED: [2023-04-16 Sun 18:21] DEADLINE: <2023-04-17 Mon>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 18:21]
+:END:
+  [2023-04-13 Thu 08:36]
+  [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
+
