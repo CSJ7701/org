@@ -1,0 +1,11 @@
+#+title: %<%Y-%m-%d>
+
+
+* Daily Log
+
+
+** What went well?
+
+** What didn't?
+
+** What can I change?

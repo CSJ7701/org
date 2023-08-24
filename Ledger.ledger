@@ -1,2 +1,70 @@
-2023/04/17 * Opening Balance
+2023/06/08 * Opening Balance
+    Assets:Bank:Navy Federal                $7670.43
+    Liabilities:Amex                           $0.00
+    Liabilities:GTCC                        -$666.79
+    Equity:Opening Balances
+    
+2023/06/09 * Blizzard Entertainment
+    Expenses:Personal:Video Games             $69.99
     Assets:Bank:Navy Federal
+    
+2023/06/14 * Paycheck
+    Assets:Bank:Navy Federal                 $280.00
+    Income:Paycheck
+    
+2023/06/15 * Quik-Stop
+    Expenses:General                          $26.36
+    Assets:Bank:Navy Federal
+    
+2023/06/15 * Uber
+    Expenses:Transportation                   $28.99
+    Assets:Bank:Navy Federal
+    
+2023/06/16 * Ft. Bliss Uniform Shop
+    Expenses:Military                          $6.29
+    Assets:Bank:Navy Federal
+    
+2023/06/16 * Amex
+    Liabilities:Amex                        $1260.00
+    Assets:Bank:Navy Federal
+    
+2023/06/20 * Replika AI Chat-bot, Pandora, Spotify
+    Expenses:Subscriptions                    $69.99
+    Expenses:Subscriptions                     $4.99
+        Expenses:Subscriptions                     $4.99
+    Assets:Bank:Navy Federal
+
+2023/06/20 * Trip to El Paso
+    Expenses:Food:Junk                         $2.49 ; Subway
+    Expenses:Activities:Top Golf              $21.64
+    Expenses:Shopping:Souvenirs               $13.49 ; Billy the kid store
+    Assets:Bank:Navy Federal
+
+2023/06/21 * Trip to El Paso
+    Expenses:General                          $13.82
+    Assets:Bank:Navy Federal
+
+2023/06/22 * Home from El Paso
+    Expenses:Food:Junk                        $10.02 ; Chick-Fil-A
+    Expenses:Transportation                   $11.98
+    Liabilities:GTCC                         $666.79
+    Assets:Bank:Navy Federal
+
+2023/06/26 * Libo with Dan and Ian
+    Expenses:Food:Restaurant                  $30.29
+    Expenses:Food:Cadet Store                 $14.91
+    Assets:Bank:Navy Federal
+
+2023/06/29 *
+    Expenses:Food:Cadet Store                 $10.02
+    Assets:Investments:IRA                  $1000.00
+    Assets:Bank:Navy Federal                 $280.00
+    Income:Paycheck                         $-280.00
+    Assets:Bank:Navy Federal               $-1010.02
+
+2023/06/30 * Cadet Store
+    Expenses:Food:Cadet Store                  $1.44
+    Assets:Bank:Navy Federal                   $0.28
+    Assets:Bank:Navy Federal                  $-1.44
+    Income:Interest                           $-0.28
+

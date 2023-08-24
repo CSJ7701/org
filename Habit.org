@@ -1,0 +1,118 @@
+#+STARTUP: content
+#+TODO: HABIT(!) | FINISHED(!)
+#+TODO: MONTHLY(!) | FINISHED(!)
+
+* Daily
+** HABIT Make Bed
+SCHEDULED: <2023-08-24 Thu .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-08-23 Wed 12:45]
+:STYLE:    habit
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-08-23 Wed 12:45]
+- State "FINISHED"   from "HABIT"      [2023-08-22 Tue 07:57]
+- State "FINISHED"   from "HABIT"      [2023-08-21 Mon 07:55]
+- State "FINISHED"   from "HABIT"      [2023-08-18 Fri 15:11]
+- State "FINISHED"   from "HABIT"      [2023-08-17 Thu 10:56]
+- State "FINISHED"   from "HABIT"      [2023-08-16 Wed 11:58]
+- State "FINISHED"   from "HABIT"      [2023-08-14 Mon 07:50]
+- State "FINISHED"   from "HABIT"      [2023-08-14 Mon 07:50]
+- State "FINISHED"   from "HABIT"      [2023-08-14 Mon 07:50]
+- State "FINISHED"   from "HABIT"      [2023-08-14 Mon 07:50]
+- State "FINISHED"   from "HABIT"      [2023-08-14 Mon 07:50]
+- State "FINISHED"   from "HABIT"      [2023-08-13 Sun 18:04]
+- State "FINISHED"   from "HABIT"      [2023-08-02 Wed 20:17]
+- State "FINISHED"   from "HABIT"      [2023-08-01 Tue 06:23]
+- State "FINISHED"   from "HABIT"      [2023-07-30 Sun 08:03]
+- State "FINISHED"   from "HABIT"      [2023-07-29 Sat 11:52]
+- State "FINISHED"   from "HABIT"      [2023-07-28 Fri 12:04]
+- State "FINISHED"       from "HABIT"       [2023-07-27 Thu 15:44]
+:END:
+
+** HABIT Journal
+SCHEDULED: <2023-07-30 Sun .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-07-29 Sat 20:02]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-07-29 Sat 20:02]
+- State "DONE"       from "HABITS"     [2023-07-28 Fri 11:55]
+:END:
+
+* Weekly
+** HABIT Laundry
+SCHEDULED: <2023-08-28 Mon .+1w>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-08-21 Mon 10:53]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-08-21 Mon 10:53]
+- State "FINISHED"   from "HABIT"      [2023-08-13 Sun 18:04]
+- State "FINISHED"   from "HABIT"      [2023-07-30 Sun 08:11]
+:END:
+
+** HABIT Clean
+SCHEDULED: <2023-08-28 Mon .+1w>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-08-21 Mon 07:55]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-08-21 Mon 07:55]
+- State "FINISHED"   from "HABIT"      [2023-08-13 Sun 18:04]
+- State "FINISHED"   from "HABIT"      [2023-08-06 Sun 10:53]
+- State "FINISHED"   from "HABIT"      [2023-07-30 Sun 08:22]
+:END:
+
+* Monthly
+** HABIT Paycheck/Budget
+SCHEDULED: <2023-09-01 Fri +1m>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-08-02 Wed 20:19]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-08-02 Wed 20:19]
+:END:
+
+** HABIT Paycheck/Budget
+SCHEDULED: <2023-08-15 Tue +1m>
+:PROPERTIES:
+:STYLE:    habit
+:END:
+** HABIT Organize Notes
+SCHEDULED: <2023-08-19 Sat ++4w/5w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-07-27 Thu 21:04]
+:STYLE:    habit
+:END:
+:LOGBOOK:
+- State "DONE"       from "HABITS"     [2023-07-27 Thu 21:04]
+- State "HABITS"     from              [2023-07-27 Thu 21:04]
+- State "DONE"       from "HABITS"     [2023-07-27 Thu 20:59]
+:END:
+** HABIT Reflect/Set Goals
+SCHEDULED: <2023-08-29 Tue>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-07-31 Mon 10:41]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-07-31 Mon 10:41]
+:END:
+
+* Goals
+** MONTHLY Go To Church
+SCHEDULED: <2023-08-20 Sun ++1w>-<2023-08-27 Sun>
+:PROPERTIES:
+:STYLE:    habit
+:LAST_REPEAT: [2023-08-16 Wed 11:57]
+:END:
+:LOGBOOK:
+- State "FINISHED"   from "MONTHLY"    [2023-08-16 Wed 11:57]
+- State "FINISHED"   from "MONTHLY"    [2023-08-06 Sun 10:53]
+:END:
+

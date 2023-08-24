@@ -118,3 +118,676 @@ CLOSED: [2023-04-16 Sun 18:21] DEADLINE: <2023-04-17 Mon>
   [2023-04-13 Thu 08:36]
   [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
 
+** DONE Update Org Keybindings 
+CLOSED: [2023-05-16 Tue 09:43]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-16 Tue 09:43]
+:END:
+  [2023-04-02 Sun 13:53]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/emacs.org::*Immediate Node Creation][Immediate Node Creation]]
+
+*** DONE Grade Kyle's Bullets 
+CLOSED: [2023-05-16 Tue 09:43]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-16 Tue 09:43]
+:END:
+  [2023-04-17 Mon 09:35]
+  [[file:~/.dotfiles/.emacs.d/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Study Polar Form and Complex                                 :study: 
+CLOSED: [2023-05-16 Tue 09:43]
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2023-05-16 Tue 09:43]
+:END:
+  [2023-03-31 Fri 09:24]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Study for CCN
+CLOSED: [2023-05-16 Tue 09:44] DEADLINE: <2023-03-21 Tue>
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2023-05-16 Tue 09:44]
+:END:
+  [2023-03-15 Wed 13:59]
+  [[file:~/.emacs.d/OrgFiles/Tasks.org::*Inbox][Inbox]]
+
+  
+** DONE Study For SST
+CLOSED: [2023-05-16 Tue 09:44] DEADLINE: <2023-03-17 Fri>
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2023-05-16 Tue 09:44]
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:01]
+- State "DONE"       from "TODO"       [2023-03-31 Fri 09:00]
+:END:
+  [2023-03-15 Wed 14:00]
+  [[file:~/.emacs.d/OrgFiles/Tasks.org::*Inbox][Inbox]]
+
+** DONE Finish SST Problem Set
+CLOSED: [2023-04-04 Tue 22:22] DEADLINE: <2023-04-03 Mon>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-04 Tue 22:22]
+:END:
+
+** DONE Redo SST Homework Units 1-5
+CLOSED: [2023-05-16 Tue 09:44] DEADLINE: <2023-04-02 Sun>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-05-16 Tue 09:44]
+:END:
+
+** DONE Work on Ships Project. 2 Definitions and Cruise Ship History 
+CLOSED: [2023-04-05 Wed 22:02] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 22:02]
+:END:
+  [2023-04-02 Sun 21:18]
+  [[file:c:/Users/Christian/Documents/GitHub/Home/OrgFiles/Class Notes/CCN.org::*6.4.1 Link Layer Addressing and ARP][6.4.1 Link Layer Addressing and ARP]]
+
+** DONE DCCS Project 
+CLOSED: [2023-04-04 Tue 22:22] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-04 Tue 22:22]
+:END:
+  [2023-04-03 Mon 18:32]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Morals and Ethics Presentation 
+CLOSED: [2023-05-16 Tue 09:44] DEADLINE: <2023-04-19 Wed>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-05-16 Tue 09:44]
+:END:
+  [2023-04-03 Mon 18:33]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE SST Homework  
+CLOSED: [2023-04-05 Wed 20:04] DEADLINE: <2023-04-07 Fri>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 20:04]
+:END:
+  [2023-04-05 Wed 17:06]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE CCN Quizzes 
+CLOSED: [2023-04-05 Wed 22:02] DEADLINE: <2023-04-05 Wed>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-05 Wed 22:02]
+:END:
+  [2023-04-05 Wed 17:06]
+  [[file:~/Github/Home/Config/Emacs/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE CCN Lab Report 
+CLOSED: [2023-04-16 Sun 13:11] DEADLINE: <2023-04-06 Thu>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:11]
+:END:
+  [2023-04-05 Wed 17:13]
+
+** DONE DCCS Project due Wednesday 
+CLOSED: [2023-05-16 Tue 09:44]
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-05-16 Tue 09:44]
+:END:
+  [2023-04-13 Thu 08:35]
+  [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
+
+** DONE Bullets  
+CLOSED: [2023-04-16 Sun 13:11] DEADLINE: <2023-04-16 Sun>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:11]
+:END:
+  [2023-04-13 Thu 08:36]
+  [[file:~/Github/Home/OrgFiles/Personal/Tasks.org::*Redo SST Homework Units 1-5][Redo SST Homework Units 1-5]]
+
+** DONE SST Homework 
+CLOSED: [2023-04-16 Sun 13:09]
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:09]
+:END:
+  [2023-04-16 Sun 13:09]
+
+** DONE CCN Notes 
+CLOSED: [2023-04-16 Sun 13:09]
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-04-16 Sun 13:09]
+:END:
+  [2023-04-16 Sun 13:09]
+
+** DONE Finish Training Quizzes 
+CLOSED: [2023-05-16 Tue 09:44] DEADLINE: <2023-04-17 Mon>
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-05-16 Tue 09:44]
+:END:
+  [2023-04-17 Mon 09:35]
+  [[file:~/.dotfiles/.emacs.d/start.org::+ATTR_ORG: :width 1000]]
+
+** DONE Call Mom about luggage and work 
+CLOSED: [2023-06-16 Fri 15:31] DEADLINE: <2023-06-12 Mon 13:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-16 Fri 15:31]
+:END:
+  [2023-06-12 Mon 07:26]
+
+** DONE Testing 
+CLOSED: [2023-06-23 Fri 18:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:50]
+:END:
+  [2023-06-23 Fri 17:58]
+
+** DONE Testing 
+CLOSED: [2023-06-23 Fri 18:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:50]
+:END:
+  [2023-06-23 Fri 17:58]
+
+** DONE Test 
+CLOSED: [2023-06-23 Fri 18:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:50]
+:END:
+  [2023-06-23 Fri 18:09]
+
+** DONE Leadership Coaching Meeting
+CLOSED: [2023-06-23 Fri 18:50]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:50]
+:END:
+ <2023-05-24 Wed 20:00> 
+ :PROPERTIES: 
+ :ORG-TIMED-ALERTS: 
+ :END: 
+
+** DONE Teams Reminder for Leadership Coach 
+CLOSED: [2023-06-23 Fri 18:51]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:51]
+:END:
+ <2023-05-23 Tue 13:00> 
+ :PROPERTIES: 
+ :ORG-TIMED-ALERTS: 
+ :END: 
+
+** DONE Meeting on Teams 
+CLOSED: [2023-06-23 Fri 18:51]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:51]
+:END:
+ <2023-05-24 Wed 18:30> 
+ :PROPERTIES: 
+ :ORG-TIMED-ALERTS: 
+ :END: 
+
+** DONE This is a test
+CLOSED: [2023-06-22 Thu 19:40] DEADLINE: <2023-06-16 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-22 Thu 19:40]
+:END:
+
+
+** DONE Fix org templates 
+CLOSED: [2023-06-23 Fri 18:52] DEADLINE: <2023-06-24 Sat>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-23 Fri 18:52]
+:END:
+  [2023-06-23 Fri 12:32]
+
+** DONE Write quote on clipboard 
+CLOSED: [2023-06-25 Sun 21:02] DEADLINE: <2023-06-24 Sat>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-25 Sun 21:02]
+:END:
+  [2023-06-23 Fri 12:32]
+
+** DONE Move Diablo Icon to lutris folder 
+CLOSED: [2023-06-25 Sun 21:03]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-25 Sun 21:03]
+:END:
+  [2023-06-24 Sat 07:21]
+  [[file:~/.local/share/applications/net.lutris.diablo-iv-3.desktop]]
+** DONE Add desktop files for QtWebFlix - Hulu, Netflix, HBOMax 
+CLOSED: [2023-06-29 Thu 17:17]
+:LOGBOOK:
+- State "DONE"       from "LOW"        [2023-06-29 Thu 17:17]
+:END:
+  [2023-05-17 Wed 17:51]
+  [[file:~/.dotfiles/.config/hypr/hyprland.conf]]
+
+** DONE Fix Roam Tag Issue 
+CLOSED: [2023-06-28 Wed 15:29]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-28 Wed 15:29]
+:END:
+  [2023-05-19 Fri 19:22]
+  [[file:~/roam/20230519184155-survival_pack.org:::PROPERTIES:]]
+
+** DONE Testing ql 
+CLOSED: [2023-06-26 Mon 12:22]
+:LOGBOOK:
+- State "DONE"       from "FOLLOW UP"  [2023-06-26 Mon 12:22]
+:END:
+  [2023-06-26 Mon 12:06]
+
+** DONE
+** DONE Haircut 
+CLOSED: [2023-07-02 Sun 12:08] DEADLINE: <2023-06-30 Fri>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-02 Sun 12:08]
+:END:
+  [2023-06-25 Sun 23:26]
+
+** DONE Follow up on [[mu4e:msgid:010001898f0225e2-5c901710-059f-40ed-a9c0-cf4f92e949cc-000000@email.amazonses.com][u/timmymayes replied to your post in r/emacs]] 
+ CLOSED: [2023-07-26 Wed 09:57] SCHEDULED:<2023-07-25 Tue>
+ :LOGBOOK:
+ - State "DONE"       from "DONE"       [2023-07-27 Thu 15:44]
+ - State "DONE"       from "TODO"       [2023-07-26 Wed 09:57]
+ :END:
+ DEADLINE:<2023-07-27 Thu> 
+ From: Reddit On: 2023-07-25T17:43:49 
+
+** DONE TEST TIME
+CLOSED: [2023-07-29 Sat 06:59] SCHEDULED: <2023-07-28 Fri 20:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-29 Sat 06:59]
+:END:
+** DONE Grab stuff for kayaking with David
+CLOSED: [2023-07-29 Sat 07:31] DEADLINE: <2023-07-29 Fri 08:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-29 Sat 07:31]
+:END:
+
+** CANC Form for Doc Crilly
+CLOSED: [2023-06-23 Fri 21:41] DEADLINE: <2023-05-23 Tue>
+:LOGBOOK:
+- State "CANC"       from "HOMEWORK"   [2023-06-23 Fri 21:41]
+:END:
+  [2023-05-22 Mon 11:04]
+  [[file:~/.dotfiles/.emacs.d/emacs.org::*Basic Org Config][Basic Org Config]]
+
+* DONE Test
+CLOSED: [2023-07-28 Fri 11:51]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-28 Fri 11:51
+:ARCHIVE_FILE: ~/org/Tasks.org
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-28 Fri 11:51]
+- State "DONE"       from "TODO"       [2023-07-28 Fri 11:49]
+- State "DONE"       from "TODO"       [2023-07-28 Fri 11:49]
+- State "DONE"       from "TODO"       [2023-07-28 Fri 11:47]
+:END:
+
+
+* DONE Test range
+CLOSED: [2023-07-29 Sat 07:45]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-29 Sat 07:45
+:ARCHIVE_FILE: ~/org/Tasks.org
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-29 Sat 07:45]
+:END:
+<2023-07-28 Fri 15:00-17:00>
+
+* DONE STARTPAGE TEST
+CLOSED: [2023-07-31 Mon 10:48]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-05 Sat 06:43
+:ARCHIVE_FILE: ~/roam/20230729080958-emacs_startpage.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Emacs Startpage
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Emacs Project
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-31 Mon 10:48]
+:END:
+
+
+* DONE Silver Star Training
+CLOSED: [2023-08-17 Thu 10:56] SCHEDULED: <2023-08-16 Wed 07:00-08:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:56]
+:END:
+
+
+* DONE PFE
+CLOSED: [2023-08-17 Thu 10:56] SCHEDULED: <2023-08-16 Wed 08:00-08:45>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:56]
+:END:
+
+
+* DONE CER Entry
+CLOSED: [2023-08-17 Thu 10:56] SCHEDULED: <2023-08-16 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:56]
+:END:
+
+
+* DONE Divo Meeting
+CLOSED: [2023-08-17 Thu 10:56] SCHEDULED: <2023-08-16 Wed 10:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:56]
+:END:
+
+
+* DONE Link in the Chain reception
+CLOSED: [2023-08-17 Thu 10:56] SCHEDULED: <2023-08-16 Wed 15:00-16:00>
+:PROPERTIES:
+:LOCATION: Alumni Center
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:56]
+:END:
+
+
+* DONE Campus Safety Brief
+CLOSED: [2023-08-17 Thu 10:57] SCHEDULED: <2023-08-17 Thu 07:00-08:00>
+:PROPERTIES:
+:LOCATION: Dimick
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:57]
+:END:
+
+
+* DONE CGC Address
+CLOSED: [2023-08-17 Thu 10:57] SCHEDULED: <2023-08-17 Thu 09:30-10:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 11:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 10:57]
+:END:
+
+
+* DONE Convocation
+CLOSED: [2023-08-17 Thu 17:44] SCHEDULED: <2023-08-17 Thu 14:00-15:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 17:44
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-17 Thu 17:44]
+:END:
+
+
+* DONE DOT TEST
+CLOSED: [2023-07-31 Mon 10:46]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 19:29
+:ARCHIVE_FILE: ~/roam/20230729081016-dotfiles.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Dotfiles
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Emacs Project
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-31 Mon 10:46]
+:END:
+
+
+* DONE Redo Rofi Config 
+CLOSED: [2023-08-17 Thu 19:29]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 19:29
+:ARCHIVE_FILE: ~/roam/20230729081016-dotfiles.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Dotfiles
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Emacs Project
+:END:
+:LOGBOOK:
+- State "DONE"       from "LOW"        [2023-08-17 Thu 19:29]
+:END:
+  [2023-05-17 Wed 17:52]
+  [[file:~/.dotfiles/.config/hypr/hyprland.conf]]
+
+
+* DONE Fix Lockscreen - Either make it darker, or find a way to make it more aesthetic. 
+CLOSED: [2023-08-17 Thu 19:30]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-17 Thu 19:30
+:ARCHIVE_FILE: ~/roam/20230729081016-dotfiles.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Dotfiles
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Emacs Project
+:END:
+:LOGBOOK:
+- State "DONE"       from "DEFER"      [2023-08-17 Thu 19:30]
+- State "DEFER"      from "TODO"       [2023-07-31 Mon 10:46] \\
+  This may not be solveable - current solution is to turn off the monitors at night; should probably just turn off the PC.
+:END:
+  [2023-06-24 Sat 07:24]
+
+
+* DONE Activities Fair
+CLOSED: [2023-08-18 Fri 15:11] SCHEDULED: <2023-08-18 Thu 11:00-13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-18 Fri 15:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-18 Fri 15:12]
+- State "DONE"       from              [2023-08-18 Fri 15:11]
+:END:
+
+* DONE Field Day
+CLOSED: [2023-08-18 Fri 15:11] SCHEDULED: <2023-08-18 Thu 07:00-08:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-18 Fri 15:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/Cap week
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-18 Fri 15:12]
+- State "DONE"       from              [2023-08-18 Fri 15:11]
+:END:
+
+
+* DONE This is a test 
+CLOSED: [2023-08-21 Mon 10:23] SCHEDULED: <2023-08-23 20:23--2023-08-23 21:21>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-21 Mon 10:23
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Appointments
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointments
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-21 Mon 10:23]
+:END:
+
+
+* DONE Test
+CLOSED: [2023-08-21 Mon 07:55] SCHEDULED: <2023-08-20 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-21 Mon 10:23
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Reminders
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-21 Mon 10:23]
+- State "DONE"       from              [2023-08-21 Mon 07:55]
+:END:
+
+* DONE Antennas and Propogation                                 :Appointment:
+CLOSED: [2023-08-22 Tue 07:34] SCHEDULED: <2023-08-21 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-08-22 Tue 07:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:36]
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:35]
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:34]
+- State "DONE"       from              [2023-08-22 Tue 07:34]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-08-22 Tue 07:34] SCHEDULED: <2023-08-21 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-08-22 Tue 07:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Probablilty Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:36]
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:35]
+- State "DONE"       from              [2023-08-22 Tue 07:34]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-08-22 Tue 07:34] SCHEDULED: <2023-08-21 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-22 Tue 07:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:36]
+- State "DONE"       from "DONE"       [2023-08-22 Tue 07:35]
+- State "DONE"       from              [2023-08-22 Tue 07:34]
+:END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-08-23 Wed 09:35] SCHEDULED: <2023-08-22 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:ARCHIVE_TIME: 2023-08-23 Wed 09:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-23 Wed 09:36]
+- State "DONE"       from              [2023-08-23 Wed 09:35]
+:END:
+
+
+* DONE Operating Systems Lab
+CLOSED: [2023-08-23 Wed 09:35] SCHEDULED: <2023-08-22 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:ARCHIVE_TIME: 2023-08-23 Wed 09:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-23 Wed 09:35]
+:END:
+
+
+* DONE THis is a TeSt 
+ CLOSED: [2023-08-22 Tue 07:56] SCHEDULED: <2023-08-22 Tue 20:23-21:23>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-23 Wed 09:36
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "DONE"       [2023-08-22 Tue 07:57]
+ - State "DONE"       from              [2023-08-22 Tue 07:56]
+ :END:
+
+
+* DONE This is a test 
+ CLOSED: [2023-08-22 Tue 07:56] SCHEDULED: <2023-08-21 Mon 20:23-21:23>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-23 Wed 09:36
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from              [2023-08-22 Tue 07:56]
+ :END:
+

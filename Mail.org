@@ -8,6 +8,6 @@
 - [[mu4e:query:flag:flagged][Flagged Emails]]
 - [[mu4e:query:prio:high][High Priority]]
 
-
-* Follow Up
+ 
+* Follow Up 
 * Read Later

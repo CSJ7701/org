@@ -1,0 +1,1552 @@
+
+
+* Homework
+
+** HOMEWORK Form for Doc Crilly 
+DEADLINE: <2023-07-01 Sat>
+  [2023-06-22 Thu 19:35]
+** HOMEWORK Linear Worksheet #1 
+ DEADLINE: <2023-08-25 Fri>
+** HOMEWORK Sign up for OS textbook 
+ DEADLINE: <2023-08-25 Fri>
+** HOMEWORK Prob Theory Homework 
+ DEADLINE: <2023-08-25 Fri>
+** HOMEWORK Econ Book - need subscription to do homework? 
+ DEADLINE: <2023-08-25 Fri>
+** HOMEWORK Antennas Homework
+ DEADLINE: <2023-08-24 Thu>
+* Project
+
+* Study
+
+* Schedule :Appointment:
+# For school schedule, set up cusotm column view with location, etc
+** 2/c Spring Semester
+*** Monday
+**** Antennas
+***** Antennas and Propogation
+SCHEDULED: <2023-08-28 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-04 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-11 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-18 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-25 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-02 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-09 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-16 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-23 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-30 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-06 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-13 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-20 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-27 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-12-04 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+**** Linear Circuits
+***** Linear Circuits
+SCHEDULED: <2023-08-28 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-04 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-11 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-18 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-25 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-02 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-09 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-16 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-23 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-30 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-06 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-13 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-20 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-27 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-12-04 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+**** Probablilty Theory
+***** Probability Theory
+SCHEDULED: <2023-08-28 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-04 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-11 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-18 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-25 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-02 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-09 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-16 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-23 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-30 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-06 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-13 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-20 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-27 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+***** Probability Theory
+SCHEDULED: <2023-12-04 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+*** Tuesday
+**** Essentials of Economics
+***** Essentials of Economics
+SCHEDULED: <2023-08-29 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-05 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-12 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-19 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-26 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-03 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-10 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-17 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-24 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-31 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-07 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-14 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-21 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-28 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-12-05 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+**** Operating Systems
+***** Operating Systems Lab
+SCHEDULED: <2023-08-29 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-09-05 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-09-12 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-09-19 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-09-26 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-10-03 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-10-10 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-10-17 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-10-24 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-10-31 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-11-07 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-11-14 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-11-21 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-11-28 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+***** Operating Systems Lab
+SCHEDULED: <2023-12-05 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Wednesday
+**** Antennas
+***** DONE Antennas and Propogation
+CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
+- State "DONE"       from              [2023-08-23 Wed 09:37]
+:END:
+
+***** Antennas and Propogation
+SCHEDULED: <2023-08-30 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-06 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-13 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-20 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-27 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-04 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-11 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-18 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-25 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-01 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-08 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-15 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-22 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-29 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-12-06 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+**** Linear Circuits
+***** DONE Linear Circuits
+CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
+- State "DONE"       from              [2023-08-23 Wed 09:37]
+:END:
+
+***** Linear Circuits
+SCHEDULED: <2023-08-30 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-06 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-13 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-20 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-27 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-04 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-11 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-18 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-25 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-01 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-08 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-15 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-22 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-29 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-12-06 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+**** Operating Systems
+***** Operating Systems
+SCHEDULED: <2023-08-23 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-08-30 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-06 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-13 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-20 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-27 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-04 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-11 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-18 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-25 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-01 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-08 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-15 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-22 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-29 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+***** Operating Systems
+SCHEDULED: <2023-12-06 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+**** Probability Theory
+***** Probability Theory
+SCHEDULED: <2023-08-23 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-08-30 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-06 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-13 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-20 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-09-27 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-04 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-11 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-18 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-10-25 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-01 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-08 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-15 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-22 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-11-29 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+***** Probability Theory
+SCHEDULED: <2023-12-06 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+*** Thursday
+**** Essentials of Economics
+***** Essentials of Economics
+SCHEDULED: <2023-08-24 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-08-31 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-07 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-14 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-21 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-09-28 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-05 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-12 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-19 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-10-26 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-02 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-09 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-16 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-23 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-11-30 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+***** Essentials of Economics
+SCHEDULED: <2023-12-07 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+**** Linear Circuits
+***** Linear Circuits Lab
+SCHEDULED: <2023-08-24 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-08-31 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-09-07 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-09-14 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-09-21 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-09-28 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-10-05 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-10-12 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-10-19 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-10-26 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-11-02 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-11-09 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-11-16 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-11-23 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-11-30 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits Lab
+SCHEDULED: <2023-12-07 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+**** Antennas
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-08-24 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-08-31 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-09-07 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-09-14 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-09-21 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-09-28 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-10-05 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-10-12 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-10-19 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-10-26 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-11-02 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-11-09 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-11-16 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-11-23 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-11-30 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+***** Antennas and Propogation Lab
+SCHEDULED: <2023-12-07 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:END:
+*** Friday
+**** Antennas
+***** Antennas and Propogation
+SCHEDULED: <2023-08-25 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-01 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-08 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-15 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-22 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-09-29 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-06 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-13 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-20 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-10-27 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-03 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-10 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-17 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-11-24 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+***** Antennas and Propogation
+SCHEDULED: <2023-12-01 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:END:
+**** Linear Circuits
+***** Linear Circuits
+SCHEDULED: <2023-08-25 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-01 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-08 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-15 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-22 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-09-29 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-06 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-13 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-20 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-10-27 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-03 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-10 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-17 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-11-24 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+***** Linear Circuits
+SCHEDULED: <2023-12-01 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+**** Operating Systems
+***** Operating Systems
+SCHEDULED: <2023-08-25 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-01 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-08 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-15 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-22 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-09-29 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-06 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-13 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-20 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-10-27 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-03 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-10 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-17 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-11-24 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Operating Systems
+SCHEDULED: <2023-12-01 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+**** Probability Theory
+***** Probability Theory
+SCHEDULED: <2023-08-25 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-09-01 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-09-08 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-09-15 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-09-22 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-09-29 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-10-06 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-10-13 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-10-20 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-10-27 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-11-03 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-11-10 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-11-17 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-11-24 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+***** Probability Theory
+SCHEDULED: <2023-12-01 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+

@@ -1,0 +1,84 @@
+; ************************************
+; Defining Ledger Accounts
+; Sorted by section
+; ************************************
+
+; --- Assets ---
+account Assets:NavyFederal               ; Navy Federal account details
+account Assets:IRA                       ; Individual Retirement Account
+account Assets:Savings                   ; Savings account (optional)
+account Assets:Checking                  ; Checking account (optional)
+account Assets:Investments               ; Investment account (optional)
+
+; --- Income ---
+account Income:Paycheck                  ; Regular income from paychecks
+account Income:Interest                  ; Income from interest earned
+account Income:Reimbursement             ; Reimbursements received
+account Income:Bonuses                   ; Bonuses and additional income (optional)
+account Income:Rental                    ; Rental income (optional)
+
+; --- Taxes (Government) ---
+account Taxes:Medicare                   ; Medicare taxes withheld
+account Taxes:SocialSecurity             ; Social Security taxes withheld
+account Taxes:FederalIncome              ; Federal income taxes withheld
+account Taxes:StateIncome                ; State income taxes withheld
+
+; --- Deductions ---
+account Deductions:Employer:SGLI         ; Military life insurance (employer)
+account Deductions:Employer:TSGLI        ; Traumatic Injury (employer)
+account Deductions:Employer:CGES         ; CG Exchange (employer)
+account Deductions:Employer:ActivityFees ; Athletic and cadet (employer)
+account Deductions:Employer:ICA          ; Clothing Allowance (employer)
+account Deductions:Personal:Charity      ; Charitable donations (personal)
+
+; --- Liabilities ---
+account Liabilities:Amex                 ; American Express credit card balance
+account Liabilities:GTCC                 ; Government Travel Charge Card balance
+account Liabilities:Mortgage            ; Mortgage balance (optional)
+account Liabilities:Loans               ; Other personal loans or debts
+
+; --- Expenses ---
+
+; Living Expenses
+account Expenses:Living:Rent            ; Rent expenses
+account Expenses:Living:Utilities       ; Utility bills
+account Expenses:Living:Groceries       ; Grocery expenses
+account Expenses:Living:DiningOut       ; Dining out expenses
+
+; Personal Expenses
+account Expenses:Personal:Healthcare    ; Healthcare expenses
+account Expenses:Personal:Entertainment ; Entertainment expenses
+account Expenses:Personal:Education     ; Education-related expenses
+account Expenses:Personal:Clothing      ; Clothing expenses
+
+; Transportation
+account Expenses:Transportation:Fuel              ; Fuel expenses
+account Expenses:Transportation:PublicTransport   ; Public transportation expenses
+account Expenses:Transportation:CarMaintenance    ; Car maintenance expenses
+account Expenses:Transportation:Other             ; Other transportation expenses
+
+; Travel
+account Expenses:Travel:Lodging         ; Lodging expenses during travel
+account Expenses:Travel:Tickets         ; Travel tickets (e.g., flight, train)
+account Expenses:Travel:Meals           ; Meals during travel
+account Expenses:Travel:Activities      ; Activity expenses during travel
+account Expenses:Travel:Souvenirs       ; Souvenirs purchased during travel
+account Expenses:Travel:Other           ; Other travel-related expenses
+
+; Subscriptions
+account Expenses:Subscriptions         ; Subscription expenses (e.g., streaming, magazines)
+
+; Military Expenses
+account Expenses:Military:Uniforms      ; Uniform expenses
+account Expenses:Military:Reimbursable  ; Reimbursable expenses
+account Expenses:Military:Other         ; Other military-related expenses
+
+; Shopping
+account Expenses:Shopping:Electronics   ; Electronics purchases
+account Expenses:Shopping:HomeGoods     ; Home goods purchases
+account Expenses:Shopping:Hobbies       ; Hobby-related expenses
+account Expenses:Shopping:Gifts         ; Gift expenses
+account Expenses:Shopping:Misc ; Miscellaneous shopping expenses
+
+; --- Budget ---
+account Budget                         ; Budget account
