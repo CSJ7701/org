@@ -1,23 +1,5 @@
 
 * Duty
 
-** DONE SS2 OOD
-CLOSED: [2023-06-27 Tue 12:20] DEADLINE: <2023-06-26 Mon>
-:LOGBOOK:
-- State "DONE"       from "DUTY"       [2023-06-27 Tue 12:20]
-:END:
-Check in with Katz.
-Send a morning Email
-Send an IFN Reminder Email, plus extras as necessary
-Callouts, then done?
-  [2023-06-25 Sun 23:11]
-
 * General
-
-** DONE Buy bobby pins for collar 
-CLOSED: [2023-06-27 Tue 21:21] DEADLINE: <2023-06-27 Tue>
-:LOGBOOK:
-- State "DONE"       from "NEXT"       [2023-06-27 Tue 21:21]
-:END:
-  [2023-06-24 Sat 07:26]
 

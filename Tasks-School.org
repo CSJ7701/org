@@ -5,16 +5,63 @@
 ** HOMEWORK Form for Doc Crilly 
 DEADLINE: <2023-07-01 Sat>
   [2023-06-22 Thu 19:35]
-** HOMEWORK Linear Worksheet #1 
- DEADLINE: <2023-08-25 Fri>
-** HOMEWORK Sign up for OS textbook 
- DEADLINE: <2023-08-25 Fri>
-** HOMEWORK Prob Theory Homework 
- DEADLINE: <2023-08-25 Fri>
-** HOMEWORK Econ Book - need subscription to do homework? 
- DEADLINE: <2023-08-25 Fri>
-** HOMEWORK Antennas Homework
- DEADLINE: <2023-08-24 Thu>
+** HOMEWORK Antennas 1.2                                          :Antennas: 
+ DEADLINE: <2023-08-28 Mon>
+** HOMEWORK OS Homework :OS:
+ DEADLINE: <2023-08-29 Tue>
+ Quiz 0, Quiz 1, Homework 0, Week 1 Feedback
+** HOMEWORK Linear hw 2 :Linear:
+ DEADLINE: <2023-09-01 Fri>
+** HOMEWORK Econ Ch 1-2 :Econ:
+ DEADLINE: <2023-09-26 Tue>
+** HOMEWORK Econ Ch 3 :Econ:
+ DEADLINE: <2023-09-26 Tue>
+** HOMEWORK Econ Ch 5 :Econ:
+ DEADLINE: <2023-09-26 Tue>
+** HOMEWORK Econ Ch 6-7 :Econ:
+ DEADLINE: <2023-09-26 Tue>
+** HOMEWORK Econ Ch 10                                                :Econ:
+ DEADLINE: <2023-09-26 Tue>
+** HOMEWORK Antennas 1.3 :Antennas:
+DEADLINE: <2023-09-01 Fri>
+** HOMEWORK Antennas 2.1 :Antennas:
+DEADLINE: <2023-09-07 Thu>
+** HOMEWORK Antennas 2.2 :Antennas: 
+ DEADLINE: <2023-09-12 Tue>
+** HOMEWORK Antennas 2.3 :Antennas: 
+ DEADLINE: <2023-09-16 Sat>
+** HOMEWORK Antennas 2.4 :Antennas: 
+ DEADLINE: <2023-09-19 Tue>
+** HOMEWORK Antennas 2.5 :Antennas: 
+ DEADLINE: <2023-09-23 Sat>
+** HOMEWORK Antennas 4.1 :Antennas: 
+ DEADLINE: <2023-10-03 Tue>
+** HOMEWORK Antennas 4.2 :Antennas: 
+ DEADLINE: <2023-10-04 Wed>
+** HOMEWORK Antennas 5 :Antennas: 
+ DEADLINE: <2023-10-10 Tue>
+** HOMEWORK Antennas 6 :Antennas: 
+ DEADLINE: <2023-10-20 Fri>
+** HOMEWORK Antennas 7 :Antennas: 
+ DEADLINE: <2023-10-24 Tue>
+** HOMEWORK Antennas 9.1 :Antennas: 
+ DEADLINE: <2023-11-21 Tue>
+** HOMEWORK Antennas 9.2 :Antennas: 
+ DEADLINE: <2023-11-29 Wed>
+** HOMEWORK Antennas 9.3 :Antennas: 
+ DEADLINE: <2023-12-05 Tue>
+** HOMEWORK Antennas 17 :Antennas: 
+ DEADLINE: <2023-11-01 Wed>
+** HOMEWORK Antennas 18 :Antennas: 
+ DEADLINE: <2023-10-10 Tue>
+** HOMEWORK Antennas 19 :Antennas: 
+ DEADLINE: <2023-11-15 Wed>
+** HOMEWORK Antennas 20 :Antennas: 
+ DEADLINE: <2023-11-19 Sun>
+** HOMEWORK Antennas 21 :Antennas: 
+ DEADLINE: <2023-12-01 Fri>
+** HOMEWORK Antennas 22 :Antennas: 
+ DEADLINE: <2023-12-03 Sun>
 * Project
 
 * Study
@@ -481,17 +528,6 @@ SCHEDULED: <2023-12-05 Tue 09:00-12:05>
 :END:
 *** Wednesday
 **** Antennas
-***** DONE Antennas and Propogation
-CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 08:00-08:50>
-:PROPERTIES:
-:LOCATION: M210
-:TEACHER:  Dr Paul Crilly
-:END:
-:LOGBOOK:
-- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
-- State "DONE"       from              [2023-08-23 Wed 09:37]
-:END:
-
 ***** Antennas and Propogation
 SCHEDULED: <2023-08-30 Wed 08:00-08:50>
 :PROPERTIES:
@@ -583,17 +619,6 @@ SCHEDULED: <2023-12-06 Wed 08:00-08:50>
 :TEACHER:  Dr Paul Crilly
 :END:
 **** Linear Circuits
-***** DONE Linear Circuits
-CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 09:00-09:50>
-:PROPERTIES:
-:LOCATION: M210
-:TEACHER:  Dr Richard Hartnett
-:END:
-:LOGBOOK:
-- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
-- State "DONE"       from              [2023-08-23 Wed 09:37]
-:END:
-
 ***** Linear Circuits
 SCHEDULED: <2023-08-30 Wed 09:00-09:50>
 :PROPERTIES:
@@ -686,12 +711,6 @@ SCHEDULED: <2023-12-06 Wed 09:00-09:50>
 :END:
 **** Operating Systems
 ***** Operating Systems
-SCHEDULED: <2023-08-23 Wed 10:00-10:50>
-:PROPERTIES:
-:TEACHER:  Dr Mohamed Elwakil
-:LOCATION: M234
-:END:
-***** Operating Systems
 SCHEDULED: <2023-08-30 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
@@ -782,12 +801,6 @@ SCHEDULED: <2023-12-06 Wed 10:00-10:50>
 :LOCATION: M234
 :END:
 **** Probability Theory
-***** Probability Theory
-SCHEDULED: <2023-08-23 Wed 11:00-11:50>
-:PROPERTIES:
-:LOCATION: S140
-:TEACHER:  Dr Katherine Krystinik
-:END:
 ***** Probability Theory
 SCHEDULED: <2023-08-30 Wed 11:00-11:50>
 :PROPERTIES:
@@ -881,12 +894,6 @@ SCHEDULED: <2023-12-06 Wed 11:00-11:50>
 *** Thursday
 **** Essentials of Economics
 ***** Essentials of Economics
-SCHEDULED: <2023-08-24 Thu 08:00-08:50>
-:PROPERTIES:
-:TEACHER:  LT Gina Martfield
-:LOCATION: S133
-:END:
-***** Essentials of Economics
 SCHEDULED: <2023-08-31 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
@@ -978,12 +985,6 @@ SCHEDULED: <2023-12-07 Thu 08:00-08:50>
 :END:
 **** Linear Circuits
 ***** Linear Circuits Lab
-SCHEDULED: <2023-08-24 Thu 09:25-12:05>
-:PROPERTIES:
-:LOCATION: M210
-:TEACHER:  Dr Richard Hartnett
-:END:
-***** Linear Circuits Lab
 SCHEDULED: <2023-08-31 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
@@ -1074,12 +1075,6 @@ SCHEDULED: <2023-12-07 Thu 09:25-12:05>
 :TEACHER:  Dr Richard Hartnett
 :END:
 **** Antennas
-***** Antennas and Propogation Lab
-SCHEDULED: <2023-08-24 Thu 13:00-15:40>
-:PROPERTIES:
-:LOCATION: M213
-:TEACHER:  Dr Paul Crilly
-:END:
 ***** Antennas and Propogation Lab
 SCHEDULED: <2023-08-31 Thu 13:00-15:40>
 :PROPERTIES:

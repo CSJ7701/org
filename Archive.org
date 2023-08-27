@@ -791,3 +791,495 @@ CLOSED: [2023-08-23 Wed 09:35] SCHEDULED: <2023-08-22 Tue 09:00-12:05>
  - State "DONE"       from              [2023-08-22 Tue 07:56]
  :END:
 
+
+* DONE Operating Systems
+CLOSED: [2023-08-25 Fri 07:57] SCHEDULED: <2023-08-23 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 07:57]
+- State "DONE"       from              [2023-08-25 Fri 07:57]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-08-25 Fri 07:57] SCHEDULED: <2023-08-23 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 07:57]
+- State "DONE"       from              [2023-08-25 Fri 07:57]
+:END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-08-25 Fri 07:57] SCHEDULED: <2023-08-24 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 07:57]
+- State "DONE"       from              [2023-08-25 Fri 07:57]
+:END:
+
+
+* DONE Linear Circuits Lab
+CLOSED: [2023-08-25 Fri 07:57] SCHEDULED: <2023-08-24 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 07:57]
+- State "DONE"       from              [2023-08-25 Fri 07:57]
+:END:
+
+
+* DONE Antennas and Propogation Lab
+CLOSED: [2023-08-25 Fri 07:57] SCHEDULED: <2023-08-24 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 07:57]
+- State "DONE"       from              [2023-08-25 Fri 07:57]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-08-25 Fri 07:57
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
+- State "DONE"       from              [2023-08-23 Wed 09:37]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-08-23 Wed 09:37] SCHEDULED: <2023-08-23 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-25 Fri 07:58
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-23 Wed 10:27]
+- State "DONE"       from              [2023-08-23 Wed 09:37]
+:END:
+
+
+* DONE Prob Theory Homework 
+ CLOSED: [2023-08-25 Fri 11:14] DEADLINE: <2023-08-25 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-25 Fri 11:23
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "DONE"       [2023-08-25 Fri 11:23]
+ - State "DONE"       from "TODO"       [2023-08-25 Fri 11:14]
+ - State "DONE"       from "HOMEWORK"   [2023-08-25 Fri 11:11]
+ - State "DONE"       from "TODO"       [2023-08-25 Fri 09:51]
+ - State "DONE"       from "HOMEWORK"   [2023-08-24 Thu 19:16]
+ :END:
+
+
+* DONE Haircut 
+ CLOSED: [2023-08-25 Fri 20:32] SCHEDULED: <2023-08-23 Wed 14:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-25 Fri 20:33
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TODO"       [2023-08-25 Fri 20:32]
+ - State "DONE"       from "TODO"       [2023-08-25 Fri 20:09]
+ - State "DONE"       from              [2023-08-25 Fri 09:48]
+ :END:
+
+
+* DONE TESTING ARCHIVE 
+CLOSED: [2023-08-25 Fri 20:34]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 20:34
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 20:34]
+:END:
+ [[file:~/.dotfiles/.emacs.d/emacs.org::*Org Auto Archive Completed Tasks][Org Auto Archive Completed Tasks]]
+
+
+* DONE Testing  
+CLOSED: [2023-08-25 Fri 20:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 20:36
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 20:36]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 20:36]
+:END:
+
+
+* DONE Test Archive 
+CLOSED: [2023-08-25 Fri 21:00]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 21:05
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:00]
+:END:
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 21:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 21:47
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:47]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:45]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:38]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:38]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:37]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:33]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:32]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:29]
+:END:
+
+
+* TODO Test 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 22:18
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: TODO
+:END:
+ [[file:~/org/Tasks-School.org::*OS Homework][OS Homework]]
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 22:19]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-25 Fri 22:20
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:19]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:19]
+:END:
+ [[file:~/.dotfiles/.emacs.d/emacs.org::*Org Auto Archive Completed Tasks][Org Auto Archive Completed Tasks]]
+
+
+* DONE Testing Archive 
+CLOSED: [2023-08-25 Fri 20:46]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:29
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 20:55]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 20:46]
+:END:
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 21:11]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:29
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:11]
+:END:
+
+
+* DONE Antennas Homework
+ CLOSED: [2023-08-24 Thu 18:45] DEADLINE: <2023-08-24 Thu>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-26 Sat 18:29
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-24 Thu 18:45]
+ :END:
+
+* DONE SS2 OOD
+CLOSED: [2023-06-27 Tue 12:20] DEADLINE: <2023-06-26 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:29
+:ARCHIVE_FILE: ~/org/Tasks-Work.org
+:ARCHIVE_OLPATH: Duty
+:ARCHIVE_CATEGORY: Tasks-Work
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DUTY"       [2023-06-27 Tue 12:20]
+:END:
+Check in with Katz.
+Send a morning Email
+Send an IFN Reminder Email, plus extras as necessary
+Callouts, then done?
+  [2023-06-25 Sun 23:11]
+
+
+* DONE Buy bobby pins for collar 
+CLOSED: [2023-06-27 Tue 21:21] DEADLINE: <2023-06-27 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:29
+:ARCHIVE_FILE: ~/org/Tasks-Work.org
+:ARCHIVE_OLPATH: General
+:ARCHIVE_CATEGORY: Tasks-Work
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2023-06-27 Tue 21:21]
+:END:
+  [2023-06-24 Sat 07:26]
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 21:06]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:30
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-25 Fri 21:06]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 21:06]
+:END:
+
+
+* DONE Test 
+CLOSED: [2023-08-26 Sat 18:30]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:30
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:30]
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:17]
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:16]
+:END:
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 22:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:37
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:36]
+- State "DONE"       from "DONE"       [2023-08-25 Fri 22:36]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:32]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:32]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:29]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:28]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+:END:
+ [[file:~/.dotfiles/.emacs.d/emacs.org::*Org Auto Archive Completed Tasks][Org Auto Archive Completed Tasks]]
+
+
+* DONE Test 
+CLOSED: [2023-08-26 Sat 18:37]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:37
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:37]
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:37]
+:END:
+
+
+* DONE Test 
+CLOSED: [2023-08-25 Fri 22:36]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:38
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:36]
+- State "DONE"       from "DONE"       [2023-08-25 Fri 22:36]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:32]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:32]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:29]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:28]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+- State "DONE"       from "TODO"       [2023-08-25 Fri 22:23]
+:END:
+ [[file:~/.dotfiles/.emacs.d/emacs.org::*Org Auto Archive Completed Tasks][Org Auto Archive Completed Tasks]]
+
+
+* DONE Test 
+CLOSED: [2023-08-26 Sat 18:38]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-26 Sat 18:39
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2023-08-26 Sat 18:39]
+- State "DONE"       from "TODO"       [2023-08-26 Sat 18:38]
+:END:
+
+
+* DONE Linear Worksheet #1 
+ CLOSED: [2023-08-27 Sun 13:02] DEADLINE: <2023-08-25 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-27 Sun 13:02
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-27 Sun 13:02]
+ :END:
+
+
+* DONE Sign up for OS textbook 
+ CLOSED: [2023-08-27 Sun 13:07] DEADLINE: <2023-08-25 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-27 Sun 13:07
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-27 Sun 13:07]
+ :END:
+
+
+* DONE Econ Book - need subscription to do homework? 
+ CLOSED: [2023-08-27 Sun 13:18] DEADLINE: <2023-08-25 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-27 Sun 13:18
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-27 Sun 13:18]
+ :END:
+
+
+* DONE Prob Theory 2.1-2.4                                             :Prob:
+ CLOSED: [2023-08-27 Sun 16:27] DEADLINE: <2023-08-28 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-27 Sun 16:27
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-27 Sun 16:27]
+ :END:
+
