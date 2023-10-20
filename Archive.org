@@ -1283,3 +1283,1683 @@ CLOSED: [2023-08-26 Sat 18:38]
  - State "DONE"       from "HOMEWORK"   [2023-08-27 Sun 16:27]
  :END:
 
+
+* DONE OS Homework                                                       :OS:
+ CLOSED: [2023-08-28 Mon 14:48] DEADLINE: <2023-08-29 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-28 Mon 14:48
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-28 Mon 14:48]
+ :END:
+ Quiz 0, Quiz 1, Homework 0, Week 1 Feedback
+
+* DONE Antennas and Propogation
+CLOSED: [2023-08-30 Wed 09:13] SCHEDULED: <2023-08-28 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-08-30 Wed 09:13
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 09:13]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-08-30 Wed 09:13] SCHEDULED: <2023-08-28 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-30 Wed 09:13
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 09:13]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-08-30 Wed 09:13] SCHEDULED: <2023-08-28 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-08-30 Wed 09:13
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Probablilty Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 09:13]
+:END:
+
+
+* DONE Antennas 1.2                                                :Antennas: 
+ CLOSED: [2023-08-30 Wed 09:14] DEADLINE: <2023-08-28 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-30 Wed 09:14
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-30 Wed 09:14]
+ :END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-08-30 Wed 10:33] SCHEDULED: <2023-08-29 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:ARCHIVE_TIME: 2023-08-30 Wed 10:33
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:33]
+:END:
+
+
+* DONE Operating Systems Lab
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-29 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-25 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-25 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-25 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-25 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-30 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-30 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-08-30 Wed 10:34] SCHEDULED: <2023-08-30 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:ARCHIVE_TIME: 2023-08-30 Wed 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-08-30 Wed 10:34]
+:END:
+
+
+* DONE Homework 5                                                :ProbTheory: 
+ CLOSED: [2023-08-31 Thu 09:54] DEADLINE: <2023-09-01 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-08-31 Thu 09:54
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-08-31 Thu 09:54]
+ :END:
+ p48 - 18,22, p52 - 87,89,96,99
+
+* DONE Linear hw 2                                                   :Linear:
+ CLOSED: [2023-09-01 Fri 10:46] DEADLINE: <2023-09-01 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-01 Fri 10:46
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-01 Fri 10:46]
+ :END:
+
+
+* DONE Antennas 1.3                                                :Antennas:
+CLOSED: [2023-09-01 Fri 10:46] DEADLINE: <2023-09-01 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-01 Fri 10:46
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-01 Fri 10:46]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-01 Fri 11:01] SCHEDULED: <2023-08-30 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:ARCHIVE_TIME: 2023-09-01 Fri 11:01
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-01 Fri 11:01]
+:END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-09-01 Fri 11:01] SCHEDULED: <2023-08-31 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:ARCHIVE_TIME: 2023-09-01 Fri 11:01
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-01 Fri 11:01]
+:END:
+
+
+* DONE Linear Circuits Lab
+CLOSED: [2023-09-01 Fri 11:01] SCHEDULED: <2023-08-31 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-01 Fri 11:01
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-01 Fri 11:01]
+:END:
+
+
+* DONE Antennas and Propogation Lab
+CLOSED: [2023-09-01 Fri 11:01] SCHEDULED: <2023-08-31 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-01 Fri 11:01
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-01 Fri 11:01]
+:END:
+
+
+* DONE Homework 6                                                :ProbTheory:
+CLOSED: [2023-09-04 Mon 13:19] DEADLINE: <2023-09-06 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-04 Mon 13:19
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-04 Mon 13:19]
+:END:
+p52 - 100, 104, 106, 108, 110
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-04 Mon 15:34] SCHEDULED: <2023-09-01 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:ARCHIVE_TIME: 2023-09-04 Mon 15:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 15:34]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-04 Mon 15:34] SCHEDULED: <2023-09-01 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-04 Mon 15:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 15:34]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-09-04 Mon 15:34] SCHEDULED: <2023-09-01 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:ARCHIVE_TIME: 2023-09-04 Mon 15:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 15:34]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-04 Mon 15:34] SCHEDULED: <2023-09-01 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-09-04 Mon 15:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 15:34]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-04 Mon 16:36] SCHEDULED: <2023-09-04 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-04 Mon 16:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 16:36]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-04 Mon 16:36] SCHEDULED: <2023-09-04 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-04 Mon 16:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 16:36]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-04 Mon 16:36] SCHEDULED: <2023-09-04 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-09-04 Mon 16:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Probablilty Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-04 Mon 16:36]
+:END:
+
+
+* DONE OS Quiz
+CLOSED: [2023-09-05 Tue 14:23]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-05 Tue 14:23
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "QUIZ"       [2023-09-05 Tue 14:23]
+:END:
+Covering material from wednesday and friday class
+ DEADLINE: <2023-09-05 Tue>
+
+* DONE Essentials of Economics
+CLOSED: [2023-09-05 Tue 14:24] SCHEDULED: <2023-09-05 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:ARCHIVE_TIME: 2023-09-05 Tue 14:24
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-05 Tue 14:24]
+:END:
+
+
+* DONE Operating Systems Lab
+CLOSED: [2023-09-05 Tue 14:24] SCHEDULED: <2023-09-05 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:ARCHIVE_TIME: 2023-09-05 Tue 14:24
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-05 Tue 14:24]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-06 Wed 14:53] SCHEDULED: <2023-09-06 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-06 Wed 14:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-06 Wed 14:53]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-06 Wed 14:53] SCHEDULED: <2023-09-06 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-06 Wed 14:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-06 Wed 14:53]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-09-06 Wed 14:53] SCHEDULED: <2023-09-06 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:ARCHIVE_TIME: 2023-09-06 Wed 14:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-06 Wed 14:53]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-06 Wed 14:53] SCHEDULED: <2023-09-06 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:ARCHIVE_TIME: 2023-09-06 Wed 14:53
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-06 Wed 14:53]
+:END:
+
+
+* DONE RPT 
+ CLOSED: [2023-09-06 Wed 14:53] SCHEDULED: <2023-09-06 Wed 12:00-13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-06 Wed 14:53
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from              [2023-09-06 Wed 14:53]
+ :END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-07 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Linear Circuits Lab
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-07 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Antennas and Propogation Lab
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-07 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-08 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-08 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-09-08 Fri 10:49] SCHEDULED: <2023-09-08 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:ARCHIVE_TIME: 2023-09-08 Fri 10:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-08 Fri 10:49]
+:END:
+
+
+* DONE Antennas 2.1                                                :Antennas:
+CLOSED: [2023-09-08 Fri 20:54] DEADLINE: <2023-09-07 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-08 Fri 20:54
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-08 Fri 20:54]
+:END:
+
+
+* DONE Homework 7                                                :ProbTheory:
+CLOSED: [2023-09-08 Fri 20:59] DEADLINE: <2023-09-08 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-08 Fri 20:59
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-08 Fri 20:59]
+:END:
+p72 - 2,3,6,12,13 p106 - 84,85
+
+* DONE Homework 8                                                :ProbTheory:
+CLOSED: [2023-09-09 Sat 20:54] DEADLINE: <2023-09-11 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-09 Sat 20:54
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-09 Sat 20:54]
+:END:
+p80 - 17, 18, 22, 24, 29, 32 p106 - 91, 93, 94
+
+* DONE Lab 0 Report                                                :Antennas: 
+CLOSED: [2023-09-11 Mon 08:06] DEADLINE: <2023-09-11 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-11 Mon 08:06
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-11 Mon 08:06]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-11 Mon 09:12] SCHEDULED: <2023-09-11 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-11 Mon 09:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-11 Mon 09:12]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-11 Mon 09:12] SCHEDULED: <2023-09-11 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-11 Mon 09:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-11 Mon 09:12]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-11 Mon 09:12] SCHEDULED: <2023-09-08 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-09-11 Mon 09:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-11 Mon 09:12]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-12 Tue 19:49] SCHEDULED: <2023-09-11 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ORG-TIMED-ALERTS: 15
+:ARCHIVE_TIME: 2023-09-12 Tue 19:49
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday/Probablilty Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-12 Tue 19:49]
+:END:
+
+
+* DONE Exam 1                                                    :ProbTheory:
+CLOSED: [2023-09-13 Wed 19:36] DEADLINE: <2023-09-13 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-13 Wed 19:36
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Study
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TEST"       [2023-09-13 Wed 19:36]
+:END:
+
+
+* DONE Make Prob Theory Study Sheet 
+ CLOSED: [2023-09-13 Wed 19:36] DEADLINE: <2023-09-13 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-13 Wed 19:36
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-13 Wed 19:36]
+ :END:
+
+
+* DONE Antennas 2.2                                                :Antennas: 
+ CLOSED: [2023-09-14 Thu 08:02] DEADLINE: <2023-09-12 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-14 Thu 08:02
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-14 Thu 08:02]
+ :END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-09-14 Thu 08:03] SCHEDULED: <2023-09-12 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:ARCHIVE_TIME: 2023-09-14 Thu 08:03
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:03]
+:END:
+
+
+* DONE Operating Systems Lab
+CLOSED: [2023-09-14 Thu 08:06] SCHEDULED: <2023-09-12 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:ARCHIVE_TIME: 2023-09-14 Thu 08:06
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:06]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-14 Thu 08:07] SCHEDULED: <2023-09-13 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-14 Thu 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:07]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-14 Thu 08:07] SCHEDULED: <2023-09-20 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-14 Thu 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:07]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-14 Thu 08:07] SCHEDULED: <2023-09-13 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-14 Thu 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:07]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-09-14 Thu 08:07] SCHEDULED: <2023-09-13 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:ARCHIVE_TIME: 2023-09-14 Thu 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:07]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-14 Thu 08:07] SCHEDULED: <2023-09-13 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:ARCHIVE_TIME: 2023-09-14 Thu 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-14 Thu 08:07]
+:END:
+
+
+* DONE Budget Meeting 
+ CLOSED: [2023-09-17 Sun 11:47] SCHEDULED: <2023-09-15 Fri 14:00>
+ :PROPERTIES:
+ :PEOPLE:   Mom
+ :ARCHIVE_TIME: 2023-09-17 Sun 11:47
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from              [2023-09-17 Sun 11:47]
+ :END:
+
+
+* DONE Essentials of Economics
+CLOSED: [2023-09-17 Sun 11:50] SCHEDULED: <2023-09-14 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:ARCHIVE_TIME: 2023-09-17 Sun 11:50
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Essentials of Economics
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:50]
+:END:
+
+
+* DONE Linear Circuits Lab
+CLOSED: [2023-09-17 Sun 11:50] SCHEDULED: <2023-09-14 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-17 Sun 11:50
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:50]
+:END:
+
+
+* DONE Antennas and Propogation Lab
+CLOSED: [2023-09-17 Sun 11:50] SCHEDULED: <2023-09-14 Thu 13:00-15:40>
+:PROPERTIES:
+:LOCATION: M213
+:TEACHER:  Dr Paul Crilly
+:ARCHIVE_TIME: 2023-09-17 Sun 11:50
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:50]
+:END:
+
+
+* DONE Antennas and Propogation
+CLOSED: [2023-09-17 Sun 11:50] SCHEDULED: <2023-09-15 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  Dr Paul Crilly
+:LOCATION: M210
+:ARCHIVE_TIME: 2023-09-17 Sun 11:50
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Antennas
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:50]
+:END:
+
+
+* DONE Linear Circuits
+CLOSED: [2023-09-17 Sun 11:50] SCHEDULED: <2023-09-15 Fri 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:ARCHIVE_TIME: 2023-09-17 Sun 11:50
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Linear Circuits
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:50]
+:END:
+
+
+* DONE Operating Systems
+CLOSED: [2023-09-17 Sun 11:51] SCHEDULED: <2023-09-15 Fri 10:00-10:50>
+:PROPERTIES:
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:ARCHIVE_TIME: 2023-09-17 Sun 11:51
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Operating Systems
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:51]
+:END:
+
+
+* DONE Probability Theory
+CLOSED: [2023-09-17 Sun 11:51] SCHEDULED: <2023-09-15 Fri 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:ARCHIVE_TIME: 2023-09-17 Sun 11:51
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Probability Theory
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-09-17 Sun 11:51]
+:END:
+
+
+* DONE Antennas 2.3                                                :Antennas: 
+ CLOSED: [2023-09-17 Sun 11:56] DEADLINE: <2023-09-16 Sat>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-17 Sun 11:56
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-17 Sun 11:56]
+ :END:
+
+
+* DONE Lab 2 Report                                                :Antennas: 
+ CLOSED: [2023-09-18 Mon 08:00] DEADLINE: <2023-09-18 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-18 Mon 08:00
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-18 Mon 08:00]
+ :END:
+
+
+* DONE Dental Appointment 
+ CLOSED: [2023-09-18 Mon 18:52] SCHEDULED: <2023-09-18 Mon 13:40>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-18 Mon 18:52
+ :ARCHIVE_FILE: ~/org/Tasks-Personal.org
+ :ARCHIVE_OLPATH: Appointments
+ :ARCHIVE_CATEGORY: Tasks-Personal
+ :ARCHIVE_TODO: DONE
+ :ARCHIVE_ITAGS: Appointments
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from              [2023-09-18 Mon 18:52]
+ :END:
+
+
+* DONE Lab Homework                                                      :OS: 
+ CLOSED: [2023-09-18 Mon 20:19] DEADLINE: <2023-09-19 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-18 Mon 20:19
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-18 Mon 20:19]
+ :END:
+
+
+* DONE Econ Project Meeting
+CLOSED: [2023-09-19 Tue 08:58] DEADLINE: <2023-09-19 Tue 09:00>
+:PROPERTIES:
+:LOCATION: M210
+:PEOPLE:   Luke Myers
+:ARCHIVE_TIME: 2023-09-19 Tue 08:58
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "EVENT"      [2023-09-19 Tue 08:58]
+:END:
+
+ DEADLINE: <2023-09-19 Tue>
+
+* DONE Linear Homework                                               :Linear: 
+CLOSED: [2023-09-20 Wed 07:22] DEADLINE: <2023-09-20 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-20 Wed 07:22
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-20 Wed 07:22]
+:END:
+
+
+* DONE Homework 9                                                :ProbTheory:
+CLOSED: [2023-09-20 Wed 09:11] DEADLINE: <2023-09-20 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-20 Wed 09:11
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-20 Wed 09:11]
+:END:
+p90 - 49, 50, 51, 58, 68 p106 - 100, 101
+
+* DONE Antennas 2.4                                                :Antennas: 
+ CLOSED: [2023-09-21 Thu 14:51] DEADLINE: <2023-09-19 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-21 Thu 14:51
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-21 Thu 14:51]
+ :END:
+
+
+* DONE Homework 10                                               :ProbTheory:
+CLOSED: [2023-09-21 Thu 20:09] DEADLINE: <2023-09-22 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-21 Thu 20:09
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-21 Thu 20:09]
+:END:
+p100 - 69a-b, 74a, 76 p106 - 105a-b
+
+* DONE Antennas 2.5                                                :Antennas: 
+ CLOSED: [2023-09-21 Thu 20:09] DEADLINE: <2023-09-23 Sat>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-21 Thu 20:09
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-21 Thu 20:09]
+ :END:
+
+
+* DONE Econ Ch 1-2                                                     :Econ:
+ CLOSED: [2023-09-24 Sun 17:09] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-24 Sun 17:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-24 Sun 17:09]
+ :END:
+
+
+* DONE Econ Ch 3                                                       :Econ:
+ CLOSED: [2023-09-24 Sun 17:10] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-24 Sun 17:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-24 Sun 17:10]
+ :END:
+
+
+* DONE Econ Ch 5                                                       :Econ:
+ CLOSED: [2023-09-24 Sun 17:10] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-24 Sun 17:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-24 Sun 17:10]
+ :END:
+
+
+* DONE Econ Ch 6-7                                                     :Econ:
+ CLOSED: [2023-09-24 Sun 17:10] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-24 Sun 17:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-24 Sun 17:10]
+ :END:
+
+
+* DONE Econ Ch 10                                                      :Econ:
+ CLOSED: [2023-09-24 Sun 17:10] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-24 Sun 17:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-24 Sun 17:10]
+ :END:
+
+
+* DONE Homework 11                                               :ProbTheory:
+CLOSED: [2023-09-25 Mon 15:31] DEADLINE: <2023-09-25 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-25 Mon 15:31
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-25 Mon 15:31]
+:END:
+p100 - 82 p106 - 104, 107, 109
+
+* DONE OS Homework 2 
+ CLOSED: [2023-09-26 Tue 09:20] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-26 Tue 09:20
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-26 Tue 09:20]
+ :END:
+
+
+* DONE OS Homework 
+ CLOSED: [2023-09-26 Tue 09:20] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-26 Tue 09:20
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-26 Tue 09:20]
+ :END:
+
+
+* DONE OS Quiz 
+ CLOSED: [2023-09-26 Tue 15:10] DEADLINE: <2023-09-26 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-26 Tue 15:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2023-09-26 Tue 15:10]
+ :END:
+
+
+* DONE Antennas 4.1                                                :Antennas: 
+ CLOSED: [2023-09-27 Wed 13:58] DEADLINE: <2023-09-27 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-27 Wed 13:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-27 Wed 13:58]
+ :END:
+
+
+* DONE Homework 12                                               :ProbTheory:
+CLOSED: [2023-09-27 Wed 13:58] DEADLINE: <2023-09-27 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-27 Wed 13:58
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-27 Wed 13:58]
+:END:
+p120 - 7, 8, 9 p142 - 62, 65, 69
+
+* DONE Antennas 4.2                                                :Antennas: 
+ CLOSED: [2023-09-28 Thu 20:20] DEADLINE: <2023-09-29 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-09-28 Thu 20:20
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-09-28 Thu 20:20]
+ :END:
+
+
+* DONE Homework 13                                               :ProbTheory:
+CLOSED: [2023-09-28 Thu 20:20] DEADLINE: <2023-09-29 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-28 Thu 20:20
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-09-28 Thu 20:20]
+:END:
+p129 - 18, 19, 23, 29, 31 p142 - 74, 75
+
+* DONE Lab Reports 2 and 3 
+ CLOSED: [2023-10-02 Mon 15:14] DEADLINE: <2023-10-02 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-02 Mon 15:14
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-02 Mon 15:14]
+ :END:
+
+
+* DONE OS Homework 3 
+ CLOSED: [2023-10-02 Mon 15:14] DEADLINE: <2023-10-03 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-02 Mon 15:14
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-02 Mon 15:14]
+ :END:
+
+
+* DONE Homework 14                                               :ProbTheory:
+CLOSED: [2023-10-02 Mon 15:14] DEADLINE: <2023-10-02 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-02 Mon 15:14
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-02 Mon 15:14]
+:END:
+p129 - 33-36
+
+* DONE Homework 15                                               :ProbTheory:
+CLOSED: [2023-10-03 Tue 15:39] DEADLINE: <2023-10-04 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-03 Tue 15:39
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-03 Tue 15:39]
+:END:
+p129 - 37, 38, 40
+
+* DONE Homework 16                                               :ProbTheory:
+CLOSED: [2023-10-06 Fri 08:07] DEADLINE: <2023-10-06 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-06 Fri 08:07
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-06 Fri 08:07]
+:END:
+p139 - 42, 46, 48, 49, 51 p142 - 79, 80
+
+* DONE Antennas 5                                                  :Antennas: 
+ CLOSED: [2023-10-09 Mon 07:43] DEADLINE: <2023-10-06 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-09 Mon 07:43
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-09 Mon 07:43]
+ :END:
+
+
+* DONE Gambling reading 
+ CLOSED: [2023-10-09 Mon 07:43] DEADLINE: <2023-10-06 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-09 Mon 07:43
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-09 Mon 07:43]
+ :END:
+
+
+* DONE Homework 17                                               :ProbTheory:
+CLOSED: [2023-10-10 Tue 13:03] DEADLINE: <2023-10-10 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-10 Tue 13:03
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-10 Tue 13:03]
+:END:
+p139 - 56, 58, 60 p142 - 85
+
+* DONE Lab Report 
+ CLOSED: [2023-10-10 Tue 13:04] DEADLINE: <2023-10-10 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-10 Tue 13:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-10 Tue 13:04]
+ :END:
+
+
+* DONE Homework 18                                               :ProbTheory:
+CLOSED: [2023-10-11 Wed 18:59] DEADLINE: <2023-10-11 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-11 Wed 18:59
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-11 Wed 18:59]
+:END:
+p171 - 40, 41, 43, 44, 54
+
+* DONE OS Homework 
+ CLOSED: [2023-10-11 Wed 18:59] DEADLINE: <2023-10-13 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-11 Wed 18:59
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-11 Wed 18:59]
+ :END:
+
+
+* DONE Linear Homework 
+ CLOSED: [2023-10-16 Mon 14:39] DEADLINE: <2023-10-13 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-16 Mon 14:39
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-16 Mon 14:39]
+ :END:
+
+
+* DONE Homework 19                                               :ProbTheory:
+CLOSED: [2023-10-17 Tue 20:09] DEADLINE: <2023-10-18 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-17 Tue 20:09
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-10-17 Tue 20:09]
+:END:
+p163 - 20,21 p171 - 57, 58, 59
+
+* DONE Exam 2                                                    :ProbTheory:
+CLOSED: [2023-10-17 Tue 20:09] DEADLINE: <2023-10-13 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-17 Tue 20:09
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Study
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TEST"       [2023-10-17 Tue 20:09]
+:END:
+
+
+* DONE Linear Lab Report 
+ CLOSED: [2023-10-19 Thu 07:50] DEADLINE: <2023-10-18 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-19 Thu 07:50
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-19 Thu 07:50]
+ :END:
+
+
+* DONE Antennas 6                                                  :Antennas: 
+ CLOSED: [2023-10-19 Thu 19:35] DEADLINE: <2023-10-20 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-10-19 Thu 19:35
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-10-19 Thu 19:35]
+ :END:
+

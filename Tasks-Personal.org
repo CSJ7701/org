@@ -2,5 +2,13 @@
 ** GOAL Journal Daily 
   [2023-06-28 Wed 22:26]
 
+** TODO Internship Application 
+SCHEDULED: <2023-10-23 Mon>
+
 * Appointments :Appointments:
+** Flu Shot 
+ SCHEDULED: <2023-10-23 Mon 13:30>
+ :PROPERTIES:
+ :LOCATION: Clinic Rear Entrance
+ :END:
 * Reminders
