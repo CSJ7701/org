@@ -2,59 +2,14 @@
 
 * Homework
 
-** HOMEWORK Form for Doc Crilly 
-DEADLINE: <2023-07-01 Sat>
-  [2023-06-22 Thu 19:35]
-** HOMEWORK Antennas 7 :Antennas: 
- DEADLINE: <2023-10-24 Tue>
 ** HOMEWORK Antennas 9.1 :Antennas: 
  DEADLINE: <2023-11-21 Tue>
-** HOMEWORK Antennas 9.2 :Antennas: 
- DEADLINE: <2023-11-29 Wed>
 ** HOMEWORK Antennas 9.3 :Antennas: 
  DEADLINE: <2023-12-05 Tue>
-** HOMEWORK Antennas 17 :Antennas: 
- DEADLINE: <2023-11-01 Wed>
-** HOMEWORK Antennas 18 :Antennas: 
- DEADLINE: <2023-11-10 Fri>
-** HOMEWORK Antennas 19 :Antennas: 
- DEADLINE: <2023-11-15 Wed>
-** HOMEWORK Antennas 20 :Antennas: 
- DEADLINE: <2023-11-19 Sun>
 ** HOMEWORK Antennas 21 :Antennas: 
  DEADLINE: <2023-12-01 Fri>
 ** HOMEWORK Antennas 22 :Antennas: 
  DEADLINE: <2023-12-03 Sun>
-** HOMEWORK Homework 20 :ProbTheory:
-DEADLINE: <2023-10-23 Mon>
-p171 - 63, 64, 65, 68, 70, 83, 85
-** HOMEWORK  Homework 21 :ProbTheory:
-DEADLINE: <2023-10-25 Wed>
-p202 - 50 p183 - 1,3,4
-** HOMEWORK Homework 22 :ProbTheory:
-DEADLINE: <2023-10-27 Fri>
-p183 - 10 p202 - 52-55, 59
-** HOMEWORK Homework 23 :ProbTheory:
-DEADLINE: <2023-10-30 Mon>
-p202 - 58, 60 p183 - 19, 26
-** HOMEWORK Homework 24 :ProbTheory:
-DEADLINE: <2023-11-01 Wed>
-p202 - 63, 64, 66, 71, 73
-** HOMEWORK Homework 25 :ProbTheory:
-DEADLINE: <2023-11-03 Fri>
-p193 - 36, 37, 38, 41
-** HOMEWORK Homework 26 :ProbTheory:
-DEADLINE: <2023-11-06 Mon>
-p202 - 76, 78, 80
-** HOMEWORK Homework 27 :ProbTheory:
-DEADLINE: <2023-11-13 Mon>
-p197 - 47, 48, Handout
-** HOMEWORK Homework 28 :ProbTheory:
-DEADLINE: <2023-11-15 Wed>
-p208 - 1-3
-** HOMEWORK Homework 29 :ProbTheory:
-DEADLINE: <2023-11-17 Fri>
-p208 - 4, 5b, 8 p228 - 50, 52
 ** HOMEWORK Homework 30 :ProbTheory:
 DEADLINE: <2023-11-27 Mon>
 p222 - 16, 17, 18, 36, 38
@@ -69,27 +24,16 @@ DEADLINE: <2023-12-04 Mon>
 p256 - 65b, 66b, 68, 69, 70
 ** STUDY Review EE1
 Voltage Dividers, Resistors, Capacitors, Inductors
-** HOMEWORK Antennas Lab Report 
- DEADLINE: <2023-10-23 Mon>
-** TEST Antennas Exam 
- DEADLINE: <2023-10-25 Wed>
-** HOMEWORK OS Homework 
- DEADLINE: <2023-10-24 Tue>
-** HOMEWORK Linesr Homework 
- DEADLINE: <2023-10-20 Fri>
-** HOMEWORK Gambling Problems 
- DEADLINE: <2023-10-20 Fri>
- Craps
+** HOMEWORK Hartnett - Help with project 
+ DEADLINE: <2023-11-27 Mon 10:00>
 * Project
 
 * Study
 
-** TEST Exam 3 :ProbTheory:
-DEADLINE: <2023-11-06 Mon>
 ** TEST Exam 4 :ProbTheory:
 DEADLINE: <2023-12-06 Wed>
-
-
+** TEST Econ Exam 
+ DEADLINE: <2023-11-21 Tue>
 * Appointments
 
 * Schedule :Appointment:
