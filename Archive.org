@@ -3391,3 +3391,1354 @@ p208 - 4, 5b, 8 p228 - 50, 52
  - State "DONE"       from "HOMEWORK"   [2023-11-27 Mon 08:05]
  :END:
 
+
+* DONE Pick up SDB's 
+CLOSED: [2023-11-28 Tue 15:09] SCHEDULED: <2023-11-27 Mon 13:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-28 Tue 15:09
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-28 Tue 15:09]
+:END:
+
+
+* DONE Econ Exam 
+ CLOSED: [2023-11-28 Tue 15:09] DEADLINE: <2023-11-21 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-11-28 Tue 15:09
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2023-11-28 Tue 15:09]
+ :END:
+
+
+* DONE Hartnett - Help with project 
+ CLOSED: [2023-11-28 Tue 15:12] DEADLINE: <2023-11-27 Mon 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-11-28 Tue 15:12
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-11-28 Tue 15:12]
+ :END:
+
+
+* DONE Homework 30                                               :ProbTheory:
+CLOSED: [2023-11-28 Tue 15:12] DEADLINE: <2023-11-27 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-28 Tue 15:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-11-28 Tue 15:12]
+:END:
+p222 - 16, 17, 18, 36, 38
+
+* DONE Antennas 9.1                                                :Antennas: 
+ CLOSED: [2023-11-28 Tue 21:58] DEADLINE: <2023-11-21 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-11-28 Tue 21:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-11-28 Tue 21:58]
+ :END:
+
+
+* DONE Homework 31                                               :ProbTheory:
+CLOSED: [2023-11-29 Wed 08:00] DEADLINE: <2023-11-29 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-29 Wed 08:00
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-11-29 Wed 08:00]
+:END:
+p226 - 43-46 p228 - 58, 63
+
+* DONE Haircut 
+CLOSED: [2023-11-30 Thu 18:48] SCHEDULED: <2023-11-29 Wed 14:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-30 Thu 18:48
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-30 Thu 18:48]
+:END:
+
+
+* DONE Homework 32                                               :ProbTheory:
+CLOSED: [2023-12-02 Sat 16:10] DEADLINE: <2023-12-01 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-02 Sat 16:10
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "FOLLOW UP"  [2023-12-02 Sat 16:10]
+:END:
+p239 - 4 p256 - 65a, 66a
+
+* DONE Antennas 21                                                 :Antennas: 
+ CLOSED: [2023-12-02 Sat 16:10] DEADLINE: <2023-12-01 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-12-02 Sat 16:10
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-12-02 Sat 16:10]
+ :END:
+
+
+* DONE Antennas 22                                                 :Antennas: 
+ CLOSED: [2023-12-02 Sat 16:11] DEADLINE: <2023-12-03 Sun>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-12-02 Sat 16:11
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-12-02 Sat 16:11]
+ :END:
+
+
+* DONE Antennas 9.3                                                :Antennas: 
+ CLOSED: [2023-12-02 Sat 16:12] DEADLINE: <2023-12-05 Tue>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-12-02 Sat 16:12
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-12-02 Sat 16:12]
+ :END:
+
+
+* DONE Linear Homework 
+ CLOSED: [2023-12-03 Sun 23:30] DEADLINE: <2023-12-04 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2023-12-03 Sun 23:30
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2023-12-03 Sun 23:30]
+ :END:
+
+
+* DONE Exam 4                                                    :ProbTheory:
+CLOSED: [2023-12-06 Wed 18:01] DEADLINE: <2023-12-06 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:01
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Study
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TEST"       [2023-12-06 Wed 18:01]
+:END:
+
+
+* DONE Homework 33                                               :ProbTheory:
+CLOSED: [2023-12-06 Wed 18:04] DEADLINE: <2023-12-04 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:04
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2023-12-06 Wed 18:04]
+:END:
+p256 - 65b, 66b, 68, 69, 70
+
+* DONE Review EE1
+CLOSED: [2023-12-06 Wed 18:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:04
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2023-12-06 Wed 18:04]
+:END:
+Voltage Dividers, Resistors, Capacitors, Inductors
+
+* DONE Antennas
+CLOSED: [2023-12-06 Wed 18:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:04
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:04]
+:END:
+
+** Antennas and Propogation
+SCHEDULED: <2023-09-18 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:ORG-TIMED-ALERTS: 15
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-09-25 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-02 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-09 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-16 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-23 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-30 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-06 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-13 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-20 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-27 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-12-04 Mon 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+
+* DONE Linear Circuits
+CLOSED: [2023-12-06 Wed 18:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:04
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:04]
+:END:
+
+** Linear Circuits
+SCHEDULED: <2023-09-18 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-09-25 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-02 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-09 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-16 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-23 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-30 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-06 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-13 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-20 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-27 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-12-04 Mon 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+
+* DONE Probablilty Theory
+CLOSED: [2023-12-06 Wed 18:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:04
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Monday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:04]
+:END:
+
+** Probability Theory
+SCHEDULED: <2023-09-18 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-09-25 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-02 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-09 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-16 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-23 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-30 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-06 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-13 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-20 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-27 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+** Probability Theory
+SCHEDULED: <2023-12-04 Mon 11:00-11:50>
+:PROPERTIES:
+:TEACHER:  Dr Katherine Krystinik
+:LOCATION: S140
+:END:
+
+* DONE Tuesday
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Essentials of Economics
+*** Essentials of Economics
+SCHEDULED: <2023-09-19 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-09-26 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-10-03 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-10-10 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-10-17 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-10-24 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-10-31 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-11-07 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-11-14 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-11-21 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-11-28 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+*** Essentials of Economics
+SCHEDULED: <2023-12-05 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Operating Systems
+*** Operating Systems Lab
+SCHEDULED: <2023-09-19 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-09-26 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-10-03 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-10-10 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-10-17 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-10-24 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-10-31 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-11-07 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-11-14 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-11-21 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-11-28 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+*** Operating Systems Lab
+SCHEDULED: <2023-12-05 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+
+* DONE Essentials of Economics
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Essentials of Economics
+SCHEDULED: <2023-09-19 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-09-26 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-03 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-10 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-17 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-24 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-31 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-07 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-14 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-21 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-28 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-12-05 Tue 08:00-08:50>
+:PROPERTIES:
+:LOCATION: S133
+:TEACHER:  LT Gina Martfield
+:END:
+
+* DONE Operating Systems
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Tuesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Operating Systems Lab
+SCHEDULED: <2023-09-19 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-09-26 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-10-03 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-10-10 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-10-17 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-10-24 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-10-31 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-11-07 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-11-14 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-11-21 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-11-28 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+** Operating Systems Lab
+SCHEDULED: <2023-12-05 Tue 09:00-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Mr. Ethan Gold
+:END:
+
+* DONE Antennas
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Antennas and Propogation
+SCHEDULED: <2023-09-20 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-09-27 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-04 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-11 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-18 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-10-25 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-01 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-08 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-15 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-22 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-11-29 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+** Antennas and Propogation
+SCHEDULED: <2023-12-06 Wed 08:00-08:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Paul Crilly
+:END:
+
+* DONE Linear Circuits
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Linear Circuits
+SCHEDULED: <2023-09-27 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-04 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-11 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-18 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-10-25 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-01 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-08 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-15 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-22 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-11-29 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits
+SCHEDULED: <2023-12-06 Wed 09:00-09:50>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+
+* DONE Operating Systems
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Operating Systems
+SCHEDULED: <2023-09-20 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-09-27 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-10-04 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-10-11 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-10-18 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-10-25 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-11-01 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-11-08 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-11-15 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-11-22 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-11-29 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+** Operating Systems
+SCHEDULED: <2023-12-06 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M234
+:END:
+
+* DONE Probability Theory
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Wednesday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Probability Theory
+SCHEDULED: <2023-09-20 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-09-27 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-04 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-11 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-18 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-10-25 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-01 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-08 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-15 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-22 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-11-29 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+** Probability Theory
+SCHEDULED: <2023-12-06 Wed 11:00-11:50>
+:PROPERTIES:
+:LOCATION: S140
+:TEACHER:  Dr Katherine Krystinik
+:END:
+
+* DONE Essentials of Economics
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Essentials of Economics
+SCHEDULED: <2023-09-21 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-09-28 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-05 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-12 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-19 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-10-26 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-02 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-09 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-16 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-23 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-11-30 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+** Essentials of Economics
+SCHEDULED: <2023-12-07 Thu 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Gina Martfield
+:LOCATION: S133
+:END:
+
+* DONE Linear Circuits
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Thursday
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2023-12-06 Wed 18:05]
+:END:
+
+** Linear Circuits Lab
+SCHEDULED: <2023-09-21 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-09-28 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-10-05 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-10-12 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-10-19 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-10-26 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-11-02 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-11-09 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-11-16 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-11-23 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-11-30 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+** Linear Circuits Lab
+SCHEDULED: <2023-12-07 Thu 09:25-12:05>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Richard Hartnett
+:END:
+
+* DONE Review EE1
+CLOSED: [2023-12-06 Wed 18:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-06 Wed 18:05
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2023-12-06 Wed 18:05]
+:END:
+Voltage Dividers, Resistors, Capacitors, Inductors
+
+* DONE Uninstall R 
+CLOSED: [2023-12-21 Thu 13:47]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-21 Thu 13:47
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-12-21 Thu 13:47]
+:END:
+

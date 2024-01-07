@@ -2,38 +2,10 @@
 
 * Homework
 
-** HOMEWORK Antennas 9.1 :Antennas: 
- DEADLINE: <2023-11-21 Tue>
-** HOMEWORK Antennas 9.3 :Antennas: 
- DEADLINE: <2023-12-05 Tue>
-** HOMEWORK Antennas 21 :Antennas: 
- DEADLINE: <2023-12-01 Fri>
-** HOMEWORK Antennas 22 :Antennas: 
- DEADLINE: <2023-12-03 Sun>
-** HOMEWORK Homework 30 :ProbTheory:
-DEADLINE: <2023-11-27 Mon>
-p222 - 16, 17, 18, 36, 38
-** HOMEWORK Homework 31                                         :ProbTheory:
-DEADLINE: <2023-11-29 Wed>
-p226 - 43-46 p228 - 58, 63
-** HOMEWORK Homework 32 :ProbTheory:
-DEADLINE: <2023-12-01 Fri>
-p239 - 4 p256 - 65a, 66a
-** HOMEWORK Homework 33 :ProbTheory:
-DEADLINE: <2023-12-04 Mon>
-p256 - 65b, 66b, 68, 69, 70
-** STUDY Review EE1
-Voltage Dividers, Resistors, Capacitors, Inductors
-** HOMEWORK Hartnett - Help with project 
- DEADLINE: <2023-11-27 Mon 10:00>
 * Project
 
 * Study
 
-** TEST Exam 4 :ProbTheory:
-DEADLINE: <2023-12-06 Wed>
-** TEST Econ Exam 
- DEADLINE: <2023-11-21 Tue>
 * Appointments
 
 * Schedule :Appointment:
@@ -42,6 +14,9 @@ DEADLINE: <2023-12-06 Wed>
 :END:
 # For school schedule, set up cusotm column view with location, etc
 ** 2/c Spring Semester
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
 *** Monday
 **** Antennas
 ***** Antennas and Propogation

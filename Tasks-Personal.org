@@ -3,14 +3,9 @@
   [2023-06-28 Wed 22:26]
 
 ** TODO Call USAA 
-SCHEDULED: <2023-12-01 Fri>
+SCHEDULED: <2023-12-04 Mon>
 
-** TODO Pick up SDB's 
-SCHEDULED: <2023-11-27 Mon 13:30>
-
-** TODO Haircut 
-SCHEDULED: <2023-11-29 Wed 14:00>
-
+** TODO Fix Travel 
 * Appointments                                            :Appointments:
 * Reminders
 

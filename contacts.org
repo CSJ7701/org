@@ -1,0 +1,31 @@
+* Christian Johnson
+:PROPERTIES:
+:NAME: Christian Johnson
+:GROUP: ME
+:PHONE: 8047670742
+:ADDRESS_HOME: 17189 Tyler Station Rd, Beaverdam VA 23015
+:ADDRESS_WORK: 31 Mohegan Ave, New London CT 06320
+:EMAIL_PERSONAL: Shipley7701@gmail.com
+:EMAIL_WORK: Christian.S.Johnson@uscga.edu
+:END:
+
+* Tracey Miller
+:PROPERTIES:
+:NAME: Tracey Miller
+:GROUP: Family
+:PHONE: 7038811846
+:ADDRESS_HOME: 17189 Tyler Station Rd, Beaverdam VA 23015
+:EMAIL_PERSONAL: ???
+:EMAIL_WORK: Tmiller@Credostrategies.org
+:END:
+
+* Kevin Johnson
+:PROPERTIES:
+:NAME: Kevin Johnson
+:GROUP: Family
+:PHONE: 2026640742
+:ADDRESS_HOME: ?
+:ADDRESS_WORK: ?
+:EMAIL_PERSONAL: kevinsjohnson@gmail.com
+:EMAIL_WORK: ?
+:END:

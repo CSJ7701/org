@@ -4,12 +4,20 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2023-11-28 Tue .+1d>
+SCHEDULED: <2023-12-26 Tue .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-27 Mon 08:05]
+:LAST_REPEAT: [2023-12-25 Mon 16:53]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-25 Mon 16:53]
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:26]
+- State "FINISHED"   from "HABIT"      [2023-12-05 Tue 16:52]
+- State "FINISHED"   from "HABIT"      [2023-12-03 Sun 23:30]
+- State "FINISHED"   from "HABIT"      [2023-12-02 Sat 16:13]
+- State "FINISHED"   from "HABIT"      [2023-11-30 Thu 18:48]
+- State "FINISHED"   from "HABIT"      [2023-11-29 Wed 08:01]
+- State "FINISHED"   from "HABIT"      [2023-11-28 Tue 15:09]
 - State "FINISHED"   from "HABIT"      [2023-11-27 Mon 08:05]
 - State "FINISHED"   from "HABIT"      [2023-11-26 Sun 08:12]
 - State "FINISHED"   from "HABIT"      [2023-11-19 Sun 08:54]
@@ -91,12 +99,15 @@ SCHEDULED: <2023-11-28 Tue .+1d>
 :END:
 
 ** HABIT Journal
-SCHEDULED: <2023-11-27 Mon .+1d>
+SCHEDULED: <2023-12-22 Fri .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-11-26 Sun 08:12]
+:LAST_REPEAT: [2023-12-21 Thu 10:26]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:26]
+- State "FINISHED"   from "HABIT"      [2023-12-05 Tue 16:52]
+- State "FINISHED"   from "HABIT"      [2023-12-02 Sat 16:13]
 - State "FINISHED"   from "HABIT"      [2023-11-26 Sun 08:12]
 - State "FINISHED"   from "HABIT"      [2023-11-19 Sun 08:54]
 - State "FINISHED"   from "HABIT"      [2023-11-13 Mon 15:10]
@@ -111,12 +122,14 @@ SCHEDULED: <2023-11-27 Mon .+1d>
 
 * Weekly
 ** HABIT Laundry
-SCHEDULED: <2023-12-03 Sun .+1w>
+SCHEDULED: <2023-12-28 Thu .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-11-26 Sun 08:12]
+:LAST_REPEAT: [2023-12-21 Thu 10:26]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:26]
+- State "FINISHED"   from "HABIT"      [2023-12-03 Sun 23:30]
 - State "FINISHED"   from "HABIT"      [2023-11-26 Sun 08:12]
 - State "FINISHED"   from "HABIT"      [2023-11-14 Tue 20:06]
 - State "FINISHED"   from "HABIT"      [2023-11-07 Tue 13:54]
@@ -135,12 +148,14 @@ SCHEDULED: <2023-12-03 Sun .+1w>
 :END:
 
 ** HABIT Clean
-SCHEDULED: <2023-12-03 Sun .+1w>
+SCHEDULED: <2023-12-28 Thu .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-11-26 Sun 08:12]
+:LAST_REPEAT: [2023-12-21 Thu 10:27]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:26]
+- State "FINISHED"   from "HABIT"      [2023-12-03 Sun 23:30]
 - State "FINISHED"   from "HABIT"      [2023-11-26 Sun 08:12]
 - State "FINISHED"   from "HABIT"      [2023-11-13 Mon 15:10]
 - State "FINISHED"   from "HABIT"      [2023-11-05 Sun 07:25]
@@ -161,56 +176,63 @@ SCHEDULED: <2023-12-03 Sun .+1w>
 
 * Monthly
 ** HABIT Paycheck/Budget
-SCHEDULED: <2023-10-01 Sun +1m>
+SCHEDULED: <2023-11-01 Wed +1m>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-09-17 Sun 11:52]
+:LAST_REPEAT: [2023-12-21 Thu 10:27]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:27]
 - State "FINISHED"   from "HABIT"      [2023-09-17 Sun 11:52]
 - State "FINISHED"   from "HABIT"      [2023-08-02 Wed 20:19]
 :END:
 
 ** HABIT Paycheck/Budget
-SCHEDULED: <2023-10-15 Sun +1m>
+SCHEDULED: <2023-11-15 Wed +1m>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-09-17 Sun 11:53]
+:LAST_REPEAT: [2023-12-21 Thu 10:27]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:27]
 - State "FINISHED"   from "HABIT"      [2023-09-17 Sun 11:53]
 - State "FINISHED"   from "HABIT"      [2023-09-17 Sun 11:47]
 :END:
 
 ** HABIT Organize Notes
-SCHEDULED: <2023-08-19 Sat ++4w/5w>
+SCHEDULED: <2024-01-06 Sat ++4w/5w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-07-27 Thu 21:04]
+:LAST_REPEAT: [2023-12-21 Thu 10:27]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:27]
 - State "DONE"       from "HABITS"     [2023-07-27 Thu 21:04]
 - State "HABITS"     from              [2023-07-27 Thu 21:04]
 - State "DONE"       from "HABITS"     [2023-07-27 Thu 20:59]
 :END:
 ** HABIT Reflect/Set Goals
-SCHEDULED: <2023-08-29 Tue ++30d/31d>
+SCHEDULED: <2023-12-27 Wed ++30d/31d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-07-31 Mon 10:41]
+:LAST_REPEAT: [2023-12-21 Thu 10:27]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:27]
 - State "FINISHED"   from "HABIT"      [2023-07-31 Mon 10:41]
 :END:
 
 * Goals
 ** MONTHLY Go To Church
-SCHEDULED: <2023-11-19 Sun ++1w>-<2023-08-27 Sun>
+SCHEDULED: <2023-12-31 Sun ++1w>-<2023-08-27 Sun>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2023-11-13 Mon 15:10]
+:LAST_REPEAT: [2023-12-25 Mon 16:53]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "MONTHLY"    [2023-12-25 Mon 16:53]
+- State "FINISHED"   from "MONTHLY"    [2023-12-21 Thu 10:27]
+- State "FINISHED"   from "MONTHLY"    [2023-12-03 Sun 23:30]
 - State "FINISHED"   from "MONTHLY"    [2023-11-13 Mon 15:10]
 - State "FINISHED"   from "MONTHLY"    [2023-11-07 Tue 13:54]
 - State "FINISHED"   from "MONTHLY"    [2023-10-29 Sun 19:57]

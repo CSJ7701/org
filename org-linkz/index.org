@@ -1,0 +1,49 @@
+#+TITLE: Linkz
+#+HTML_DOCTYPE: html5
+#+OPTIONS: toc:1 num:nil val:nil html-style:nil H:1 tags:nil
+#+HTML_HEAD: <link rel="stylesheet" href="css/theme.css">
+#+HTML_HEAD: <script src="js/jquery-3.3.1.min.js"></script>
+#+HTML_HEAD: <script src="js/jquery.searchable.js"></script>
+#+HTML_HEAD: <script src="js/smooth-scroll.js"></script>
+#+HTML_HEAD: <script src="js/main.js"></script>
+#+HTML: <input id="search">
+#+HTML_CONTAINER: wrapper
+#+HTML_CONTAINER_CLASS: cntclass
+
+* INBOX
+** [[https://vid.puffyan.us/][Invidious - search]] [2023-12-04 Mon 17:29]
+** [[http://portfolio/][Christian Johnson | Student]] [2023-12-06 Wed 15:25]
+** [[https://www.youtube.com/watch?v=jl5yUEdekEM][Python Resume Projects - You Can Finish in a Weekend - YouTube]] [2023-12-13 Wed 21:44]
+* Favorites                                                          :Header:
+** [[https://chat.openai.com/][ChatGPT]] [2023-12-01 Fri 14:56]
+* Productivity                                                       :Header:
+** [[https://login.microsoftonline.us/common/oauth2/authorize?client_id=9d0586d7-1bd5-4761-816f-9ecdcc198c8e&redirect_uri=https%3A%2F%2Fwww.ohome.apps.mil%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=638370546972133691.MjI0NTdhNDAtNDk5ZC00MDNkLTkxZGItOGYyNTA2MDgwNTFmOTk3MzZjOGYtNWI3Yi00YWVmLWE4NWUtYTc3ODk4Y2JhOTRl&ui_locales=en-US&mkt=en-US&msafed=0&client-request-id=a4a1a019-7710-470d-98f3-4499730fa76c&state=qn3cvqT195DuKsC12DaHqtaDp4RLFZiS7IWa55C29aae1s24mUOP-pIWWIQsWxkShtWqItfyQRe9V5zfLK3qmEaQC_nuUdx71rWAxYSC4WHw8Hin5Q5JQnj09Ltj_3eQPJpb28TjcmO-dJPNzeQgSps-LtdRtyERm8RlfUU52J4cFBGYSgpA_H8sqfiNiTFFc49ps0ug-6qJ5nxq_PhIvgedOl8YzaGz99x6H_rRf-uxU0YAwT3hKjz6rg0DpvyMQaOIJQdgXo_mMupt6no9L-D3Il9TmEjqfI399mw2zTDBF-RiMWAZhinxx_QMQ_7J_sIEqo2J4X9tvTrOOHPNDnOklsWywTX35xcPdNxBecc&x-client-SKU=ID_NET6_0&x-client-ver=6.34.0.0][Office 365]] [2023-12-01 Fri 14:14]
+* Work                                                               :Header:
+** [[https://login.microsoftonline.us/common/oauth2/authorize?client_id=9d0586d7-1bd5-4761-816f-9ecdcc198c8e&redirect_uri=https%3A%2F%2Fwww.ohome.apps.mil%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=638370546972133691.MjI0NTdhNDAtNDk5ZC00MDNkLTkxZGItOGYyNTA2MDgwNTFmOTk3MzZjOGYtNWI3Yi00YWVmLWE4NWUtYTc3ODk4Y2JhOTRl&ui_locales=en-US&mkt=en-US&msafed=0&client-request-id=a4a1a019-7710-470d-98f3-4499730fa76c&state=qn3cvqT195DuKsC12DaHqtaDp4RLFZiS7IWa55C29aae1s24mUOP-pIWWIQsWxkShtWqItfyQRe9V5zfLK3qmEaQC_nuUdx71rWAxYSC4WHw8Hin5Q5JQnj09Ltj_3eQPJpb28TjcmO-dJPNzeQgSps-LtdRtyERm8RlfUU52J4cFBGYSgpA_H8sqfiNiTFFc49ps0ug-6qJ5nxq_PhIvgedOl8YzaGz99x6H_rRf-uxU0YAwT3hKjz6rg0DpvyMQaOIJQdgXo_mMupt6no9L-D3Il9TmEjqfI399mw2zTDBF-RiMWAZhinxx_QMQ_7J_sIEqo2J4X9tvTrOOHPNDnOklsWywTX35xcPdNxBecc&x-client-SKU=ID_NET6_0&x-client-ver=6.34.0.0][.MIL Email]]
+** [[https://hcm.direct-access.uscg.mil/psp/HCPRD/?cmd=login&languageCd=ENG&][Direct Access]] [2023-12-01 Fri 14:14]
+** [[https://home.cards.citidirect.com/CommercialCard/login?locale=en][Citi Commercial Cards]] [2023-12-01 Fri 14:14]
+** School                                                           :Header:
+*** [[https://regis.uscga.edu/][REGIS]] [2023-12-01 Fri 14:08]
+*** [[https://cgaportal.uscga.edu/Pages/default.aspx][CGA Portal]] [2023-12-01 Fri 14:08]
+*** [[https://cer.uscga.edu/][CER]] [2023-12-01 Fri 14:08]
+*** [[https://uscga.desire2learn.com/d2l/login?sessionExpired=0&target=%2fd2l%2fhome][D2L]] [2023-12-01 Fri 14:14]
+* Personal                                                           :Header:
+** Finance                                                          :Header:
+*** [[https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?SessionTimeOut=y&ReturnUrl=%2fclientapps%2faccounts%2fsummary%2f%3fShowUN%3dYES][Charles Schwab]] [2023-12-01 Fri 14:05]
+*** [[https://main.yhlsoft.com/auth/users/sign_in?scope=auth&is_timeout=1&redirect_uri=https%3A%2F%2Fmain.yhlsoft.com%2Fwebportal%2F%3Fbranch_id%3Dcfec3863-b2aa-4b60-84ad-f62c106922ba#/home/overview][Piedmont Wealth Management]] [2023-12-01 Fri 14:06]
+*** [[https://www.americanexpress.com/en-us/account/login][American Express US]] [2023-12-01 Fri 14:06]
+** Recreation                                                       :Header:
+*** [[https://app.plex.tv/desktop/#!/][Plex]] [2023-12-01 Fri 14:56]
+*** [[https://auth.max.com/profile-picker?flow=login][Max]] [2023-12-01 Fri 14:57]
+*** [[https://www.dishanywhere.com/networks/sec_network_529][DISH Anywhere]] [2023-12-01 Fri 14:57]
+** Study                                                            :Header:
+*** [[https://lifeat.io/room/L4IXhzXFv3HQqoLf?host=Christian%27s+Room&space=17][LifeAt Spaces]] [2023-12-01 Fri 14:08]
+*** [[https://www.ambient-mixer.com/][Ambient Mixer]] [2023-12-01 Fri 14:07]
+* COMMENT Local Variables
+# local variables:
+# eval: (add-hook 'after-save-hook (lambda () (org-html-export-to-html t)) t t)
+# org-refile-allow-creating-parent-nodes: 'confirm
+# org-refile-use-outline-path: t
+# org-outline-path-complete-in-steps: nil
+# org-refile-targets: ((nil . (:tag . "Header")))
+# end:
