@@ -4,7 +4,8 @@
 ; ************************************
 
 ; --- Assets ---
-account Assets:NavyFederal               ; Navy Federal account details
+account Assets:NavyFederal               ; Navy Federal Bank Account
+account Assets:USAA                      ; USAA Bank Account
 account Assets:IRA                       ; Individual Retirement Account
 account Assets:Savings                   ; Savings account (optional)
 account Assets:Checking                  ; Checking account (optional)

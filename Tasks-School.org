@@ -1,19 +1,337 @@
 
 
 * Homework
-
+** HOMEWORK Signed Standing Orders/Nav Standards                       :MWO:
+ DEADLINE: <2024-01-22 Mon 08:00>
+** HOMEWORK M. L. Research Prompt                                      :MWO:
+ DEADLINE: <2024-01-29 Mon 08:00>
+** HOMEWORK Homework 1                                                 :DSP:
+ DEADLINE: <2024-01-24 Wed 10:00>
+** HOMEWORK Homework 2                                                 :DSP:
+ DEADLINE: <2024-01-31 Wed 10:00>
+** HOMEWORK Homework 3                                                 :DSP:
+ DEADLINE: <2024-02-07 Wed 10:00>
+** HOMEWORK Homework 4                                                 :DSP:
+ DEADLINE: <2024-02-14 Wed 10:00>
+** HOMEWORK Homework 5                                                 :DSP:
+ DEADLINE: <2024-02-28 Wed 10:00>
+** HOMEWORK Lab 1                                                      :DSP:
+ DEADLINE: <2024-02-12 Mon 10:00>
+** HOMEWORK Lab 2                                                      :DSP:
+ DEADLINE: <2024-03-04 Mon 10:00>
+** HOMEWORK Homework 6                                                 :DSP:
+ DEADLINE: <2024-03-20 Wed 10:00>
+** HOMEWORK Project Selection Due                                      :DSP:
+ DEADLINE: <2024-03-22 Fri 10:00>
+** HOMEWORK Lab 3                                                      :DSP:
+ DEADLINE: <2024-04-08 Mon 10:00>
+** HOMEWORK Paper Draft Due                                            :DSP:
+ DEADLINE: <2024-04-22 Mon 10:00>
+** HOMEWORK Finish Software Engineering Schedule       :SoftwareEngineering:
+ DEADLINE: <2024-01-17 Wed 19:00>
+** HOMEWORK Pre Lab Quiz                                          :Controls:
+ DEADLINE: <2024-01-23 Tue 08:00>
+** HOMEWORK Lab 1                                                 :Controls:
+ DEADLINE: <2024-01-30 Tue 13:00>
+** HOMEWORK Pre Lab 2 Quiz                                        :Controls:
+ DEADLINE: <2024-02-06 Tue 08:00>
+** HOMEWORK Lab 2 Due                                             :Controls:
+ DEADLINE: <2024-02-27 Tue 13:00>
+** HOMEWORK Pre Lab 3 Quiz Due                                    :Controls:
+ DEADLINE: <2024-03-05 Tue 08:00>
+** HOMEWORK Lab 3 Due                                             :Controls:
+ DEADLINE: <2024-03-08 Fri 13:00>
+** HOMEWORK Pre Lab 4 Quiz Due                                    :Controls:
+ DEADLINE: <2024-03-19 Tue 08:00>
+** HOMEWORK Lab 4 Due                                             :Controls:
+ DEADLINE: <2024-03-26 Tue 13:00>
+** HOMEWORK Pre Lab 5 Quiz Due                                    :Controls:
+ DEADLINE: <2024-04-09 Tue 08:00>
+** HOMEWORK Lab 5 Due                                             :Controls:
+ DEADLINE: <2024-04-16 Tue 13:00>
+** HOMEWORK Pre Lab 6 Quiz Due                                    :Controls:
+ DEADLINE: <2024-04-23 Tue 08:00>
+** HOMEWORK Lab 6 Due                                             :Controls:
+ DEADLINE: <2024-04-30 Tue 13:00>
+** HOMEWORK Chapter 1                                             :Controls:
+ DEADLINE: <2024-01-17 Wed>
+** HOMEWORK Chapter 2.1-2.2                                       :Controls:
+ DEADLINE: <2024-01-19 Fri>
+** HOMEWORK Chapter 2.3                                           :Controls:
+ DEADLINE: <2024-01-22 Mon>
+** HOMEWORK Chapter 2.4                                           :Controls:
+ DEADLINE: <2024-01-24 Wed>
+** HOMEWORK Chapter 2.5                                           :Controls:
+ DEADLINE: <2024-01-26 Fri>
+** HOMEWORK Chapter 2.6                                           :Controls:
+ DEADLINE: <2024-01-29 Mon>
+** HOMEWORK Chapter 2.7                                           :Controls:
+ DEADLINE: <2024-01-31 Wed>
+** HOMEWORK Chapter 2.8                                           :Controls:
+ DEADLINE: <2024-02-02 Fri>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-02-05 Mon>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-02-07 Wed>
+** HOMEWORK Chapter 3.1-3.5                                       :Controls:
+ DEADLINE: <2024-02-14 Wed>
+** HOMEWORK Chapter 3.6                                           :Controls:
+ DEADLINE: <2024-02-16 Fri>
+** HOMEWORK Chapter 4.1-4.5                                       :Controls:
+ DEADLINE: <2024-02-20 Tue>
+** HOMEWORK Chapter 4.6-4.7                                       :Controls:
+ DEADLINE: <2024-02-21 Wed>
+** HOMEWORK 5.4-5.5                                               :Controls:
+ DEADLINE: <2024-02-23 Fri>
+** HOMEWORK Chapter 5.5                                           :Controls:
+ DEADLINE: <2024-02-26 Mon>
+** HOMEWORK Chapter 6.1-6.2                                       :Controls:
+ DEADLINE: <2024-02-28 Wed>
+** HOMEWORK Chapter 6.1-6.3                                       :Controls:
+ DEADLINE: <2024-03-01 Fri>
+** HOMEWORK Chapter 6.4                                           :Controls:
+ DEADLINE: <2024-03-04 Mon>
+** HOMEWORK Chapter 7.1-7.2                                       :Controls:
+ DEADLINE: <2024-03-06 Wed>
+** HOMEWORK Chapter 7.3-7.4                                       :Controls:
+ DEADLINE: <2024-03-08 Fri>
+** HOMEWORK Chapter 7.5                                           :Controls:
+ DEADLINE: <2024-03-18 Mon>
+** HOMEWORK Chapter 8                                             :Controls:
+ DEADLINE: <2024-03-25 Mon>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-03-25 Mon>
+** HOMEWORK Chapter 8                                             :Controls:
+ DEADLINE: <2024-03-27 Wed>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-03-27 Wed>
+** HOMEWORK Chapter 9                                             :Controls:
+ DEADLINE: <2024-04-01 Mon>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-01 Mon>
+** HOMEWORK Chapter 9                                             :Controls:
+ DEADLINE: <2024-03-29 Fri>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-03-29 Fri>
+** HOMEWORK Chapter 9                                             :Controls:
+ DEADLINE: <2024-04-03 Wed>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-03 Wed>
+** HOMEWORK Chapter 9                                             :Controls:
+ DEADLINE: <2024-04-08 Mon>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-08 Mon>
+** HOMEWORK Chapter 9                                             :Controls:
+ DEADLINE: <2024-04-10 Wed>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-10 Wed>
+** HOMEWORK Chapter 10.1 and 10.7                                 :Controls:
+ DEADLINE: <2024-04-12 Fri>
+** HOMEWORK Chapter 10.8 and 10.10                                :Controls:
+ DEADLINE: <2024-04-15 Mon>
+** HOMEWORK Chapter 11                                            :Controls:
+ DEADLINE: <2024-04-17 Wed>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-17 Wed>
+** HOMEWORK Chapter 11                                            :Controls:
+ DEADLINE: <2024-04-19 Fri>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-19 Fri>
+** HOMEWORK Chapter 11                                            :Controls:
+ DEADLINE: <2024-04-22 Mon>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-22 Mon>
+** HOMEWORK Chapter 11                                            :Controls:
+ DEADLINE: <2024-04-24 Wed>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-24 Wed>
+** HOMEWORK Chapter 11                                            :Controls:
+ DEADLINE: <2024-04-26 Fri>
+** HOMEWORK Handout                                               :Controls:
+ DEADLINE: <2024-04-26 Fri>
+** HOMEWORK Chapter 1.1-1.2                            :SoftwareEngineering:
+ DEADLINE: <2024-01-17 Wed>
+** HOMEWORK Chapter 2.1-2.3                            :SoftwareEngineering:
+ DEADLINE: <2024-01-19 Fri>
+** HOMEWORK Chapter 4.1-4.5                            :SoftwareEngineering:
+DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
+** HOMEWORK Chapter 5.3 and 7.1                        :SoftwareEngineering:
+ DEADLINE: <2024-01-29 Mon>-<2024-02-09 Fri>
+** HOMEWORK VP                                         :SoftwareEngineering:
+ DEADLINE: <2024-01-29 Mon>-<2024-02-23 Fri>
+** HOMEWORK Chapter 5.4                                :SoftwareEngineering:
+ DEADLINE: <2024-02-12 Mon>-<2024-02-23 Fri>
+** HOMEWORK Chapter 25.1-25.4                          :SoftwareEngineering:
+ DEADLINE: <2024-02-26 Mon>-<2024-03-04 Mon>
+** HOMEWORK Chapter 7.2                                :SoftwareEngineering:
+ DEADLINE: <2024-03-18 Mon>-<2024-03-22 Fri>
+** HOMEWORK Chapter 8.1-8.4                            :SoftwareEngineering:
+ DEADLINE: <2024-03-25 Mon>-<2024-03-29 Fri>
+** HOMEWORK Chapter 24.1-24.3 and Webpages             :SoftwareEngineering:
+ DEADLINE: <2024-04-01 Mon>-<2024-04-03 Wed>
+** HOMEWORK Chapter 13.1-13.3                          :SoftwareEngineering:
+ DEADLINE: <2024-04-08 Mon>-<2024-04-12 Fri>
+** HOMEWORK Chapter 6.1-6.4                            :SoftwareEngineering:
+ DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
+** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
+ DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
+** HOMEWORK Enter Nav Lab Locations                                    :MWO:
+ DEADLINE: <2024-01-18 Thu>
+** HOMEWORK Finish DSP Schedule                                        :DSP:
+ DEADLINE: <2024-01-18 Thu>
+** HOMEWORK Finish Discrete Schedule                              :Discrete:
+ DEADLINE: <2024-01-18 Thu>
 * Project
-
+** PROJECT Project Phase 1                             :SoftwareEngineering:
+ DEADLINE: <2024-01-26 Fri 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Proposal
+ :END:
+** PROJECT Project Phase 2                             :SoftwareEngineering:
+ DEADLINE: <2024-02-09 Fri 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Requirements
+ :END:
+** PROJECT Project Phase 3                             :SoftwareEngineering:
+ DEADLINE: <2024-03-01 Fri 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Design 1
+ :END:
+** PROJECT Project Phase 4                             :SoftwareEngineering:
+ DEADLINE: <2024-03-29 Fri 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Test Plan
+ :END:
+** PROJECT Project Phase 5                             :SoftwareEngineering:
+ DEADLINE: <2024-04-25 Thu 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Presentation and Code
+ :END:
+** PROJECT Project Progress Report                     :SoftwareEngineering:
+ DEADLINE: <2024-03-07 Thu 14:00>
+** PROJECT Project Progress Report 2                   :SoftwareEngineering:
+ DEADLINE: <2024-04-04 Thu>
+** PROJECT Project Demos                               :SoftwareEngineering:
+ DEADLINE: <2024-04-25 Thu>
 * Study
-
+** TEST Exam 1                                                         :MWO:
+ SCHEDULED: <2024-02-14 Wed 08:00>
+** TEST Exam 2                                                         :MWO:
+ SCHEDULED: <2024-03-25 Mon 08:00>
+** TEST Exam 3                                                         :MWO:
+ SCHEDULED: <2024-04-15 Mon 08:00>
+** TEST Exam 4                                                         :MWO:
+ SCHEDULED: <2024-05-01 Wed 08:00>
+** TEST Exam 1                                                         :DSP:
+ DEADLINE: <2024-02-16 Fri 10:00>
+ :PROPERTIES:
+ :DESCRIPTION: Lectures 1-10
+ :END:
+** TEST Exam 2                                                         :DSP:
+ SCHEDULED: <2024-03-25 Mon 10:00>
+ :PROPERTIES:
+ :DESCRIPTION: Lectures 11-20
+ :END:
+** QUIZ Quiz 1                                                         :MWO:
+ SCHEDULED: <2024-01-22 Mon 08:00>
+** QUIZ Quiz 2                                                         :MWO:
+ SCHEDULED: <2024-01-29 Mon 08:00>
+** QUIZ Quiz 3                                                         :MWO:
+ SCHEDULED: <2024-02-02 Fri 08:00>
+** QUIZ Quiz 4                                                         :MWO:
+ SCHEDULED: <2024-02-09 Fri 08:00>
+** QUIZ Quiz 5                                                         :MWO:
+ SCHEDULED: <2024-02-16 Fri 08:00>
+** QUIZ Quiz 6                                                         :MWO:
+ SCHEDULED: <2024-02-23 Fri 08:00>
+** QUIZ Quiz 8                                                         :MWO:
+ SCHEDULED: <2024-03-08 Fri 08:00>
+** QUIZ Quiz 9                                                         :MWO:
+ SCHEDULED: <2024-03-18 Mon 08:00>
+** QUIZ Quiz 10                                                        :MWO:
+ SCHEDULED: <2024-04-08 Mon 08:00>
+** QUIZ Quiz 1                                                    :Controls:
+ DEADLINE: <2024-01-26 Fri 13:00>
+** QUIZ Quiz 2                                                    :Controls:
+ DEADLINE: <2024-02-02 Fri 13:00>
+** QUIZ Quiz 3                                                    :Controls:
+DEADLINE: <2024-02-09 Fri 13:00>
+** QUIZ Quiz 4                                                    :Controls:
+ DEADLINE: <2024-02-16 Fri 13:00>
+** QUIZ Quiz 5                                                    :Controls:
+ DEADLINE: <2024-02-23 Fri 13:00>
+** QUIZ Quiz 6                                                    :Controls:
+ DEADLINE: <2024-03-01 Fri 13:00>
+** QUIZ Quiz 7                                                    :Controls:
+ DEADLINE: <2024-03-29 Fri 13:00>
+** QUIZ Quiz 9                                                    :Controls:
+ DEADLINE: <2024-04-10 Wed 13:00>
+** QUIZ Quiz 9                                                    :Controls:
+ DEADLINE: <2024-04-19 Fri 13:00>
+** QUIZ Quiz 10                                                   :Controls:
+ DEADLINE: <2024-04-26 Fri 13:00>
+** QUIZ Quiz 1                                         :SoftwareEngineering:
+ DEADLINE: <2024-01-22 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Software Engineering and Processes
+ :END:
+** QUIZ Quiz 2                                         :SoftwareEngineering:
+ DEADLINE: <2024-01-29 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Requirements Specification and Modeling
+ :END:
+** QUIZ Quiz 3                                         :SoftwareEngineering:
+ DEADLINE: <2024-02-05 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Use Cases and Use Case Diagrams
+ :END:
+** QUIZ Quiz 4                                         :SoftwareEngineering:
+ DEADLINE: <2024-02-12 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Class Diagrams
+ :END:
+** QUIZ Quiz 5                                         :SoftwareEngineering:
+ DEADLINE: <2024-02-20 Tue 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Sequence Diagrams
+ :END:
+** QUIZ Quiz 6                                         :SoftwareEngineering:
+ DEADLINE: <2024-02-26 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: State Machine Diagrams
+ :END:
+** QUIZ Quiz 7                                         :SoftwareEngineering:
+ DEADLINE: <2024-03-25 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Design Patterns
+ :END:
+** QUIZ Quiz 8                                         :SoftwareEngineering:
+ DEADLINE: <2024-04-01 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Software Testing
+ :END:
+** QUIZ Quiz 9                                         :SoftwareEngineering:
+ DEADLINE: <2024-04-08 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Software Quality
+ :END:
+** QUIZ Quiz 10                                        :SoftwareEngineering:
+ DEADLINE: <2024-04-22 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Architectural Design
+ :END:
+** TEST Midterm Exam                                   :SoftwareEngineering:
+ DEADLINE: <2024-03-08 Fri>
 * Appointments
 
 * Schedule :Appointment:
+# Use org-clone-subtree-with-time-shift
+# It will ask for a number of clones to produce
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :END:
 # For school schedule, set up cusotm column view with location, etc
-** 2/c Spring Semester
+** 2/c Fall Semester
 :PROPERTIES:
 :VISIBILITY: folded
 :END:
@@ -1172,3 +1490,2267 @@ SCHEDULED: <2023-12-01 Fri 11:00-11:50>
 :LOCATION: S140
 :END:
 
+
+** 2/c Spring Semester
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+*** Monday
+**** Maritime Watch Officer
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-15 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-22 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-29 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-05 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-12 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-19 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-26 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-04 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-11 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-18 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-25 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-01 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-08 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-15 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-22 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-29 Mon 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Discrete Mathematics
+***** Discrete Mathematics
+SCHEDULED: <2024-01-15 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-01-22 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-01-29 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-05 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-12 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-19 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-26 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-04 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-11 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-18 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-25 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-01 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-08 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-15 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-22 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-29 Mon 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Digital Signal Processing
+***** Digital Signal Processing
+SCHEDULED: <2024-01-15 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-01-22 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-01-29 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-02-05 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-02-12 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-02-19 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-02-26 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-03-04 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-03-11 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-03-18 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-03-25 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-04-01 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-04-08 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-04-15 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-04-22 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+***** Digital Signal Processing
+SCHEDULED: <2024-04-29 Mon 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+**** Automatic Control Systems
+***** Automatic Control Systems
+SCHEDULED: <2024-01-15 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-01-22 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-01-29 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-02-05 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-02-12 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-02-19 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-02-26 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-03-04 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-03-11 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-03-18 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-03-25 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-04-01 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-04-08 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-04-15 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-04-22 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems
+SCHEDULED: <2024-04-29 Mon 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Software Engineering
+***** Software Engineering
+SCHEDULED: <2024-01-15 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-01-22 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-01-29 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-05 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-12 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-19 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-26 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-04 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-11 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-18 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-25 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-01 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-08 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-15 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-22 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-29 Mon 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Personal Defense 2
+***** Personal Defense 2
+SCHEDULED: <2024-01-15 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-01-22 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-01-29 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-05 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-12 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-19 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-26 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-03-04 Mon 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+*** Tuesday
+**** Tennis
+***** Tennis
+SCHEDULED: <2024-03-19 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-03-26 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-02 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-09 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-16 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-23 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-30 Tue 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+**** Automatic Control Systems Lab
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-01-16 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-01-23 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-01-30 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-02-06 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-02-13 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-02-20 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-02-27 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-03-05 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-03-12 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-03-19 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-03-26 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-04-02 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-04-09 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-04-16 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-04-23 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Automatic Control Systems Lab
+SCHEDULED: <2024-04-30 Tue 13:00-15:40>
+:PROPERTIES:
+:TEACHER:  Dr Tooran Emami
+:LOCATION: M213
+:ORG-TIMED-ALERTS: 15
+:END:
+*** Wednesday
+**** Maritime Watch Officer
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-17 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-24 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-31 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-07 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-14 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-21 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-28 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-06 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-13 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-20 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-27 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-03 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-10 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-17 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-24 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-05-01 Wed 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Discrete Mathematics
+***** Discrete Mathematics
+SCHEDULED: <2024-01-17 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-01-24 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-01-31 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-07 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-14 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-21 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-28 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-06 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-13 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-20 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-27 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-03 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-10 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-17 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-24 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-05-01 Wed 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Digital Signal Processing
+***** Digital Signal Processing
+SCHEDULED: <2024-01-17 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-01-24 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-01-31 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-07 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-14 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-21 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-28 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-06 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-13 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-20 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-27 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-03 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-10 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-17 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-24 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-05-01 Wed 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+**** Automatic Control Systems
+***** Automatic Control Systems
+SCHEDULED: <2024-01-17 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-01-24 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-01-31 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-07 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-14 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-21 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-28 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-06 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-13 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-20 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-27 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-03 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-10 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-17 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-24 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-05-01 Wed 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+**** Software Engineering
+***** Software Engineering
+SCHEDULED: <2024-01-17 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-01-24 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-01-31 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-07 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-14 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-21 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-28 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-06 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-13 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-20 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-27 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-03 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-10 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-17 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-24 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-05-01 Wed 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Personal Defense 2
+***** Personal Defense 2
+SCHEDULED: <2024-01-17 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-01-24 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-01-31 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-07 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-14 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-21 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-02-28 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Personal Defense 2
+SCHEDULED: <2024-03-06 Wed 14:50-15:40>
+:PROPERTIES:
+:LOCATION: BWR
+:TEACHER:  Mr. Ulysses Grant
+:ORG-TIMED-ALERTS: 15
+:END:
+*** Thursday
+**** Tennis
+***** Tennis
+SCHEDULED: <2024-03-21 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-03-28 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-04 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-11 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-18 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+***** Tennis
+SCHEDULED: <2024-04-25 Thu 08:00-09:15>
+:PROPERTIES:
+:TEACHER:  Ms. Suzanne Behme
+:ORG-TIMED-ALERTS: 15
+:LOCATION: ATC
+:END:
+**** Maritime Watch Officer Lab
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-01-18 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-01-25 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-02-01 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-02-08 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-02-15 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-02-22 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-02-29 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-03-07 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-03-14 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-03-21 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-03-28 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-04-04 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-04-11 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-04-18 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer Lab
+SCHEDULED: <2024-04-25 Thu 09:25-12:05>
+:PROPERTIES:
+:TEACHER:  CW04 Ian Christian
+:LOCATION: NONE
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Software Engineering Lab
+***** Software Engineering Lab
+SCHEDULED: <2024-01-18 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-01-25 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-02-01 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-02-08 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-02-15 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-02-22 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-02-29 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-03-07 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-03-14 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-03-21 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-03-28 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-04-04 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-04-11 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-04-18 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+***** Software Engineering Lab
+SCHEDULED: <2024-04-25 Thu 13:00-15:40>
+:PROPERTIES:
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M234
+:TEACHER:  Dr Mohamed Elwakil
+:END:
+*** Friday
+**** Maritime Watch Officer
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-19 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-01-26 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-02 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-09 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-16 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-02-23 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-01 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-08 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-15 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-22 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-03-29 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-05 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-12 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-19 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Maritime Watch Officer
+SCHEDULED: <2024-04-26 Fri 08:00-08:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick O'Shaughnessy
+:LOCATION: Y002
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Discrete Mathematics
+***** Discrete Mathematics
+SCHEDULED: <2024-01-19 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-01-26 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-02 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-09 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-16 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-02-23 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-01 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-08 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-15 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-22 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-03-29 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-05 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-12 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-19 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Discrete Mathematics
+SCHEDULED: <2024-04-26 Fri 09:00-09:50>
+:PROPERTIES:
+:TEACHER:  Dr Jillian McLeod
+:LOCATION: S134
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Digital Signal Processing
+***** Digital Signal Processing
+SCHEDULED: <2024-01-19 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-01-26 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-02 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-09 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-16 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-02-23 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-01 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-08 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-15 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-22 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-03-29 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-05 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-12 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-19 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+***** Digital Signal Processing
+SCHEDULED: <2024-04-26 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:END:
+
+**** Automatic Control Systems
+***** Automatic Control Systems
+SCHEDULED: <2024-01-19 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-01-26 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-02 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-09 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-16 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-02-23 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-01 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-08 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-15 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-22 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-03-29 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-05 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-12 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-19 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+***** Automatic Control Systems
+SCHEDULED: <2024-04-26 Fri 12:50-13:40>
+:PROPERTIES:
+:LOCATION: M210
+:TEACHER:  Dr Tooran Emami
+:ORG-TIMED-ALERTS: 15
+:END:
+
+**** Software Engineering
+***** Software Engineering
+SCHEDULED: <2024-01-19 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-01-26 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-02 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-09 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-16 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-02-23 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-01 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-08 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-15 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-22 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-03-29 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-05 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-12 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-19 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Software Engineering
+SCHEDULED: <2024-04-26 Fri 13:50-14:40>
+:PROPERTIES:
+:TEACHER:  Dr Mohamed Elwakil
+:LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:

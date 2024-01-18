@@ -2,9 +2,6 @@
 ** GOAL Journal Daily 
   [2023-06-28 Wed 22:26]
 
-** TODO Call USAA 
-SCHEDULED: <2023-12-04 Mon>
-
 ** TODO Fix Travel 
 * Appointments                                            :Appointments:
 * Reminders
