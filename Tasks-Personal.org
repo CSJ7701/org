@@ -3,6 +3,13 @@
   [2023-06-28 Wed 22:26]
 
 ** TODO Fix Travel 
+
+** TODO Jostens Ring Payment 
+ [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
+
+** TODO Pay into IRA 
+ [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
+
 * Appointments                                            :Appointments:
 * Reminders
 
