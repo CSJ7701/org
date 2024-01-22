@@ -4,12 +4,13 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2024-01-18 Thu .+1d>
+SCHEDULED: <2024-01-23 Tue .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-01-17 Wed 12:44]
+:LAST_REPEAT: [2024-01-22 Mon 07:05]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-01-22 Mon 07:05]
 - State "FINISHED"   from "HABIT"      [2024-01-17 Wed 12:44]
 - State "FINISHED"   from "HABIT"      [2023-12-25 Mon 16:53]
 - State "FINISHED"   from "HABIT"      [2023-12-21 Thu 10:26]
@@ -232,12 +233,13 @@ SCHEDULED: <2024-01-26 Fri ++30d/31d>
 
 * Goals
 ** MONTHLY Go To Church
-SCHEDULED: <2024-01-21 Sun ++1w>-<2023-08-27 Sun>
+SCHEDULED: <2024-01-28 Sun ++1w>-<2023-08-27 Sun>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-01-17 Wed 12:44]
+:LAST_REPEAT: [2024-01-22 Mon 07:05]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "MONTHLY"    [2024-01-22 Mon 07:05]
 - State "FINISHED"   from "MONTHLY"    [2024-01-17 Wed 12:44]
 - State "FINISHED"   from "MONTHLY"    [2023-12-25 Mon 16:53]
 - State "FINISHED"   from "MONTHLY"    [2023-12-21 Thu 10:27]

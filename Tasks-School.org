@@ -145,10 +145,6 @@
  DEADLINE: <2024-04-26 Fri>
 ** HOMEWORK Handout                                               :Controls:
  DEADLINE: <2024-04-26 Fri>
-** HOMEWORK Chapter 1.1-1.2                            :SoftwareEngineering:
- DEADLINE: <2024-01-17 Wed>
-** HOMEWORK Chapter 2.1-2.3                            :SoftwareEngineering:
- DEADLINE: <2024-01-19 Fri>
 ** HOMEWORK Chapter 4.1-4.5                            :SoftwareEngineering:
 DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
 ** HOMEWORK Chapter 5.3 and 7.1                        :SoftwareEngineering:
