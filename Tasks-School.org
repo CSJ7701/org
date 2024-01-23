@@ -25,8 +25,6 @@
  DEADLINE: <2024-04-08 Mon 10:00>
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
-** HOMEWORK Pre Lab Quiz                                          :Controls:
- DEADLINE: <2024-01-23 Tue 08:00>
 ** HOMEWORK Lab 1                                                 :Controls:
  DEADLINE: <2024-01-30 Tue 13:00>
 ** HOMEWORK Pre Lab 2 Quiz                                        :Controls:
@@ -165,10 +163,6 @@ DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Chapter 1.1-1.3                                            :DSP:
- DEADLINE: <2024-01-17 Wed>
-** HOMEWORK Schaums 101-106                                            :DSP:
- DEADLINE: <2024-01-17 Wed>
 ** HOMEWORK Chapter 2.1-2.4                                            :DSP:
  DEADLINE: <2024-01-19 Fri>-<2024-01-22 Mon>
 ** HOMEWORK Schaums 1-18                                               :DSP:
@@ -3808,5 +3802,62 @@ SCHEDULED: <2024-04-26 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
+:ORG-TIMED-ALERTS: 15
+:END:
+**** Directed Study
+***** Directed Study
+SCHEDULED: <2024-01-26 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-02-02 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-02-09 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-02-16 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-02-23 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-03-01 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-03-08 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
+:ORG-TIMED-ALERTS: 15
+:END:
+***** Directed Study
+SCHEDULED: <2024-03-15 Fri 14:50-15:40>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:LOCATION: None
 :ORG-TIMED-ALERTS: 15
 :END:

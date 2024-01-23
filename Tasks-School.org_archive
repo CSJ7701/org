@@ -150,3 +150,45 @@ Archived entries from file /home/csj7701/org/Tasks-School.org
  - State "DONE"       from "HOMEWORK"   [2024-01-22 Mon 09:00]
  :END:
 
+
+* DONE Pre Lab Quiz                                                :Controls:
+ CLOSED: [2024-01-23 Tue 06:58] DEADLINE: <2024-01-23 Tue 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-23 Tue 06:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-23 Tue 06:58]
+ :END:
+
+
+* DONE Chapter 1.1-1.3                                                  :DSP:
+ CLOSED: [2024-01-23 Tue 06:58] DEADLINE: <2024-01-17 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-23 Tue 06:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-23 Tue 06:58]
+ :END:
+
+
+* DONE Schaums 101-106                                                  :DSP:
+ CLOSED: [2024-01-23 Tue 12:02] DEADLINE: <2024-01-17 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-23 Tue 12:02
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-23 Tue 12:02]
+ :END:
+
