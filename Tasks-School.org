@@ -47,8 +47,6 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 2.1-2.2                                       :Controls:
- DEADLINE: <2024-01-19 Fri>
 ** HOMEWORK Chapter 2.3                                           :Controls:
  DEADLINE: <2024-01-22 Mon>
 ** HOMEWORK Chapter 2.4                                           :Controls:

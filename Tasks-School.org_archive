@@ -192,3 +192,17 @@ Archived entries from file /home/csj7701/org/Tasks-School.org
  - State "DONE"       from "HOMEWORK"   [2024-01-23 Tue 12:02]
  :END:
 
+
+* DONE Chapter 2.1-2.2                                             :Controls:
+ CLOSED: [2024-01-23 Tue 18:19] DEADLINE: <2024-01-19 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-23 Tue 18:19
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-23 Tue 18:19]
+ :END:
+
