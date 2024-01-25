@@ -161,12 +161,8 @@ DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Chapter 2.1-2.4                                            :DSP:
- DEADLINE: <2024-01-19 Fri>-<2024-01-22 Mon>
 ** HOMEWORK Schaums 1-18                                               :DSP:
  DEADLINE: <2024-01-19 Fri>-<2024-01-22 Mon>
-** HOMEWORK Chapter 2.1-2.4                                            :DSP:
- DEADLINE: <2024-01-22 Mon>
 ** HOMEWORK Chapter 2.5-2.6                                            :DSP:
  DEADLINE: <2024-01-24 Wed>
 ** HOMEWORK Chapter 3.5-3.6                                            :DSP:
