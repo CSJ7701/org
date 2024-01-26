@@ -277,8 +277,6 @@ DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  :PROPERTIES:
  :DESCRIPTION: Lectures 11-20
  :END:
-** QUIZ Quiz 1                                                         :MWO:
- SCHEDULED: <2024-01-22 Mon 08:00>
 ** QUIZ Quiz 2                                                         :MWO:
  SCHEDULED: <2024-01-29 Mon 08:00>
 ** QUIZ Quiz 3                                                         :MWO:

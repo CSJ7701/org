@@ -263,3 +263,17 @@ Archived entries from file /home/csj7701/org/Tasks-School.org
  - State "DONE"       from "PROJECT"    [2024-01-25 Thu 16:54]
  :END:
 
+
+* DONE Quiz 1                                                           :MWO:
+ CLOSED: [2024-01-26 Fri 09:18] SCHEDULED: <2024-01-22 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-26 Fri 09:18
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-01-26 Fri 09:18]
+ :END:
+
