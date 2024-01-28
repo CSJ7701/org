@@ -15,6 +15,7 @@
 ** [[http://portfolio/][Christian Johnson | Student]] [2023-12-06 Wed 15:25]
 ** [[https://www.youtube.com/watch?v=jl5yUEdekEM][Python Resume Projects - You Can Finish in a Weekend - YouTube]] [2023-12-13 Wed 21:44]
 ** [[https://developerlife.com/2021/01/19/fish-scripting-manual/][fish shell scripting manual | developerlife.com]] [2024-01-15 Mon 09:40]
+** [[http://192.168.1.172:8686/][Lidarr]] [2024-01-28 Sun 14:24]
 * Favorites                                                          :Header:
 ** [[https://chat.openai.com/][ChatGPT]] [2023-12-01 Fri 14:56]
 * Productivity                                                       :Header:

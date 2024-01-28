@@ -333,3 +333,31 @@ Archived entries from file /home/csj7701/org/Tasks-School.org
  - State "DONE"       from "HOMEWORK"   [2024-01-27 Sat 15:27]
  :END:
 
+
+* DONE Chapter 4.1-4.5                                  :SoftwareEngineering:
+CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-01-28 Sun 10:34
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Homework
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "HOMEWORK"   [2024-01-28 Sun 10:34]
+:END:
+
+
+* DONE Chapter 2.4                                                 :Controls:
+ CLOSED: [2024-01-28 Sun 12:41] DEADLINE: <2024-01-24 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-28 Sun 12:41
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-28 Sun 12:41]
+ :END:
+
