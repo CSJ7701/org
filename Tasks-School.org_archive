@@ -277,3 +277,59 @@ Archived entries from file /home/csj7701/org/Tasks-School.org
  - State "DONE"       from "QUIZ"       [2024-01-26 Fri 09:18]
  :END:
 
+
+* DONE Homework 1                                                       :DSP:
+ CLOSED: [2024-01-27 Sat 10:35] DEADLINE: <2024-01-26 Fri 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-27 Sat 10:35
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-27 Sat 10:35]
+ :END:
+
+
+* DONE Quiz 1                                                      :Controls:
+ CLOSED: [2024-01-27 Sat 10:35] DEADLINE: <2024-01-26 Fri 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-27 Sat 10:35
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-01-27 Sat 10:35]
+ :END:
+
+
+* DONE M. L. Research Prompt                                            :MWO:
+ CLOSED: [2024-01-27 Sat 10:36] DEADLINE: <2024-01-29 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-27 Sat 10:36
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-27 Sat 10:36]
+ :END:
+
+
+* DONE Chapter 2.3                                                 :Controls:
+ CLOSED: [2024-01-27 Sat 15:27] DEADLINE: <2024-01-22 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-27 Sat 15:27
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-27 Sat 15:27]
+ :END:
+
