@@ -151,8 +151,6 @@
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Chapter 2.5-2.6                                            :DSP:
- DEADLINE: <2024-01-24 Wed>
 ** HOMEWORK Chapter 3.5-3.6                                            :DSP:
  DEADLINE: <2024-01-26 Fri>
 ** HOMEWORK Schaums Chapter 4                                          :DSP:
@@ -301,15 +299,6 @@ DEADLINE: <2024-02-09 Fri 13:00>
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 2                                         :SoftwareEngineering:
- DEADLINE: <2024-01-29 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: Requirements Specification and Modeling
- :END:
- :LOGBOOK:
- - State "DONE"       from "QUIZ"       [2024-01-18 Thu 22:24]
- :END:
-
 ** QUIZ Quiz 3                                         :SoftwareEngineering:
  DEADLINE: <2024-02-05 Mon 14:00>
  :PROPERTIES:

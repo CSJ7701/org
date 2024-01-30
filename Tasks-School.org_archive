@@ -361,3 +361,33 @@ CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  - State "DONE"       from "HOMEWORK"   [2024-01-28 Sun 12:41]
  :END:
 
+
+* DONE Quiz 2                                           :SoftwareEngineering:
+ CLOSED: [2024-01-29 Mon 16:59] DEADLINE: <2024-01-29 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Requirements Specification and Modeling
+ :ARCHIVE_TIME: 2024-01-29 Mon 16:59
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-01-29 Mon 16:59]
+ - State "DONE"       from "QUIZ"       [2024-01-18 Thu 22:24]
+ :END:
+
+
+* DONE Chapter 2.5-2.6                                                  :DSP:
+ CLOSED: [2024-01-29 Mon 18:20] DEADLINE: <2024-01-24 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-01-29 Mon 18:20
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-01-29 Mon 18:20]
+ :END:
+
