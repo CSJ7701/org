@@ -21,8 +21,6 @@
  DEADLINE: <2024-04-08 Mon 10:00>
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
-** HOMEWORK Lab 1                                                 :Controls:
- DEADLINE: <2024-01-30 Tue 13:00>
 ** HOMEWORK Pre Lab 2 Quiz                                        :Controls:
  DEADLINE: <2024-02-06 Tue 08:00>
 ** HOMEWORK Lab 2 Due                                             :Controls:
@@ -133,8 +131,6 @@
  DEADLINE: <2024-04-26 Fri>
 ** HOMEWORK Chapter 5.3 and 7.1                        :SoftwareEngineering:
  DEADLINE: <2024-01-29 Mon>-<2024-02-09 Fri>
-** HOMEWORK VP                                         :SoftwareEngineering:
- DEADLINE: <2024-01-29 Mon>-<2024-02-23 Fri>
 ** HOMEWORK Chapter 5.4                                :SoftwareEngineering:
  DEADLINE: <2024-02-12 Mon>-<2024-02-23 Fri>
 ** HOMEWORK Chapter 25.1-25.4                          :SoftwareEngineering:
@@ -219,6 +215,8 @@
  DEADLINE: <2024-04-12 Fri>
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
+** HOMEWORK Class 07 Assignment                        :SoftwareEngineering:
+ DEADLINE: <2024-02-02 Fri 08:00>
 * Project
 ** PROJECT Project Phase 2                             :SoftwareEngineering:
  DEADLINE: <2024-02-09 Fri 14:00>

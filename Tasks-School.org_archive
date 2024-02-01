@@ -391,3 +391,31 @@ CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  - State "DONE"       from "HOMEWORK"   [2024-01-29 Mon 18:20]
  :END:
 
+
+* DONE Lab 1                                                       :Controls:
+ CLOSED: [2024-02-01 Thu 11:42] DEADLINE: <2024-01-30 Tue 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-01 Thu 11:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-01 Thu 11:42]
+ :END:
+
+
+* DONE VP                                               :SoftwareEngineering:
+ CLOSED: [2024-02-01 Thu 11:42] DEADLINE: <2024-01-29 Mon>-<2024-02-23 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-01 Thu 11:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-01 Thu 11:42]
+ :END:
+
