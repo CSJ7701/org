@@ -461,3 +461,59 @@ CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  - State "DONE"       from "HOMEWORK"   [2024-02-03 Sat 15:32]
  :END:
 
+
+* DONE Chapter 3.5-3.6                                                  :DSP:
+ CLOSED: [2024-02-04 Sun 13:16] DEADLINE: <2024-01-26 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-04 Sun 13:16
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-04 Sun 13:16]
+ :END:
+
+
+* DONE Schaums Chapter 4                                                :DSP:
+ CLOSED: [2024-02-04 Sun 13:17] DEADLINE: <2024-01-26 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-04 Sun 13:17
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-04 Sun 13:17]
+ :END:
+
+
+* DONE Quiz 2                                                           :MWO:
+ CLOSED: [2024-02-04 Sun 13:46] SCHEDULED: <2024-01-29 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-04 Sun 13:46
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-02-04 Sun 13:46]
+ :END:
+
+
+* DONE Quiz 3                                                           :MWO:
+ CLOSED: [2024-02-04 Sun 13:54] SCHEDULED: <2024-02-02 Fri 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-04 Sun 13:54
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-02-04 Sun 13:54]
+ :END:
+
