@@ -41,8 +41,6 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 2.6                                           :Controls:
- DEADLINE: <2024-01-29 Mon>
 ** HOMEWORK Chapter 2.7                                           :Controls:
  DEADLINE: <2024-01-31 Wed>
 ** HOMEWORK Chapter 2.8                                           :Controls:
@@ -283,11 +281,6 @@ DEADLINE: <2024-02-09 Fri 13:00>
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 3                                         :SoftwareEngineering:
- DEADLINE: <2024-02-05 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: Use Cases and Use Case Diagrams
- :END:
 ** QUIZ Quiz 4                                         :SoftwareEngineering:
  DEADLINE: <2024-02-12 Mon 14:00>
  :PROPERTIES:
