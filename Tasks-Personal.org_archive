@@ -33,3 +33,18 @@ CLOSED: [2024-01-17 Wed 12:44] SCHEDULED: <2023-12-04 Mon>
  - State "DONE"       from              [2024-01-17 Wed 12:44]
  :END:
 
+
+* DONE Jostens Ring Payment 
+CLOSED: [2024-02-07 Wed 06:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-07 Wed 06:05
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-02-07 Wed 06:05]
+:END:
+ [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
+

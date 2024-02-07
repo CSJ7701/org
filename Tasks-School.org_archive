@@ -546,3 +546,74 @@ CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  - State "DONE"       from "QUIZ"       [2024-02-05 Mon 17:10]
  :END:
 
+
+* DONE Pre Lab 2 Quiz                                              :Controls:
+ CLOSED: [2024-02-07 Wed 06:04] DEADLINE: <2024-02-06 Tue 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-07 Wed 06:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-07 Wed 06:04]
+ :END:
+
+
+* DONE Handout                                                     :Controls:
+ CLOSED: [2024-02-07 Wed 06:04] DEADLINE: <2024-02-05 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-07 Wed 06:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-07 Wed 06:04]
+ :END:
+
+
+* DONE Handout                                                     :Controls:
+ CLOSED: [2024-02-07 Wed 06:04] DEADLINE: <2024-02-07 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-07 Wed 06:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-07 Wed 06:04]
+ :END:
+
+
+* DONE Homework 3                                                       :DSP:
+ CLOSED: [2024-02-07 Wed 06:04] DEADLINE: <2024-02-07 Wed 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-07 Wed 06:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-07 Wed 06:04]
+ :END:
+
+
+* DONE Project Phase 2                                  :SoftwareEngineering:
+ CLOSED: [2024-02-07 Wed 06:04] DEADLINE: <2024-02-09 Fri 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Requirements
+ :ARCHIVE_TIME: 2024-02-07 Wed 06:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Project
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "PROJECT"    [2024-02-07 Wed 06:04]
+ :END:
+
