@@ -659,3 +659,87 @@ CLOSED: [2024-01-28 Sun 10:34] DEADLINE: <2024-01-22 Mon>-<2024-01-26 Fri>
  - State "DONE"       from "HOMEWORK"   [2024-02-08 Thu 11:53]
  :END:
 
+
+* DONE Homework 2                                                       :DSP:
+ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-01-31 Wed 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-13 Tue 10:12
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-13 Tue 10:12]
+ :END:
+
+
+* DONE Quiz 3                                                      :Controls:
+CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-02-13 Tue 10:12
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Study
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "QUIZ"       [2024-02-13 Tue 10:12]
+:END:
+
+
+* DONE Lab 1                                                            :DSP:
+ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-12 Mon 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-13 Tue 10:12
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-13 Tue 10:12]
+ :END:
+
+
+* DONE Quiz 4                                                           :MWO:
+ CLOSED: [2024-02-13 Tue 10:12] SCHEDULED: <2024-02-09 Fri 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-13 Tue 10:12
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-02-13 Tue 10:12]
+ :END:
+
+
+* DONE Chapter 4.2                                                      :DSP:
+ CLOSED: [2024-02-13 Tue 12:52] DEADLINE: <2024-01-31 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-13 Tue 12:52
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-13 Tue 12:52]
+ :END:
+
+
+* DONE Chapter 4.3-4.4                                                  :DSP:
+ CLOSED: [2024-02-13 Tue 12:52] DEADLINE: <2024-02-02 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-13 Tue 12:52
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-02-13 Tue 12:52]
+ :END:
+
