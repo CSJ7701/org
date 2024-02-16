@@ -743,3 +743,31 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-02-13 Tue 12:52]
  :END:
 
+
+* DONE Exam 1                                                           :MWO:
+ CLOSED: [2024-02-16 Fri 09:04] SCHEDULED: <2024-02-14 Wed 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-16 Fri 09:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-02-16 Fri 09:04]
+ :END:
+
+
+* DONE Quiz 5                                                           :MWO:
+ CLOSED: [2024-02-16 Fri 09:04] SCHEDULED: <2024-02-16 Fri 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-02-16 Fri 09:04
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-02-16 Fri 09:04]
+ :END:
+
