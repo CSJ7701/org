@@ -214,11 +214,6 @@
  SCHEDULED: <2024-04-15 Mon 08:00>
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
-** TEST Exam 1                                                         :DSP:
- DEADLINE: <2024-02-16 Fri 10:00>
- :PROPERTIES:
- :DESCRIPTION: Lectures 1-10
- :END:
 ** TEST Exam 2                                                         :DSP:
  SCHEDULED: <2024-03-25 Mon 10:00>
  :PROPERTIES:
@@ -232,8 +227,6 @@
  SCHEDULED: <2024-03-18 Mon 08:00>
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
-** QUIZ Quiz 4                                                    :Controls:
- DEADLINE: <2024-02-16 Fri 13:00>
 ** QUIZ Quiz 5                                                    :Controls:
  DEADLINE: <2024-02-23 Fri 13:00>
 ** QUIZ Quiz 6                                                    :Controls:
