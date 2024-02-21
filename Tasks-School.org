@@ -1,8 +1,6 @@
 
 
 * Homework
-** HOMEWORK Homework 4                                                 :DSP:
- DEADLINE: <2024-02-14 Wed 10:00>
 ** HOMEWORK Homework 5                                                 :DSP:
  DEADLINE: <2024-02-28 Wed 10:00>
 ** HOMEWORK Lab 2                                                      :DSP:
@@ -33,8 +31,6 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 2.8                                           :Controls:
- DEADLINE: <2024-02-02 Fri>
 ** HOMEWORK Chapter 3.1-3.5                                       :Controls:
  DEADLINE: <2024-02-14 Wed>
 ** HOMEWORK Chapter 3.6                                           :Controls:
@@ -127,8 +123,6 @@
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Schaums 61-64                                              :DSP:
- DEADLINE: <2024-02-02 Fri>
 ** HOMEWORK Chapter 6.1-6.2                                            :DSP:
  DEADLINE: <2024-02-07 Wed>
 ** HOMEWORK Schaums 101-108                                            :DSP:
@@ -239,16 +233,6 @@
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 4                                         :SoftwareEngineering:
- DEADLINE: <2024-02-12 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: Class Diagrams
- :END:
-** QUIZ Quiz 5                                         :SoftwareEngineering:
- DEADLINE: <2024-02-20 Tue 14:00>
- :PROPERTIES:
- :DESCRIPTION: Sequence Diagrams
- :END:
 ** QUIZ Quiz 6                                         :SoftwareEngineering:
  DEADLINE: <2024-02-26 Mon 14:00>
  :PROPERTIES:
