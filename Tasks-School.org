@@ -123,8 +123,6 @@
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Chapter 7.1                                                :DSP:
- DEADLINE: <2024-02-09 Fri>
 ** HOMEWORK Schaums 223-235                                            :DSP:
  DEADLINE: <2024-02-09 Fri>-<2024-02-12 Mon>
 ** HOMEWORK Chapter 7.2                                                :DSP:
@@ -209,8 +207,6 @@
  :PROPERTIES:
  :DESCRIPTION: Lectures 11-20
  :END:
-** QUIZ Quiz 6                                                         :MWO:
- SCHEDULED: <2024-02-23 Fri 08:00>
 ** QUIZ Quiz 8                                                         :MWO:
  SCHEDULED: <2024-03-08 Fri 08:00>
 ** QUIZ Quiz 9                                                         :MWO:
