@@ -213,8 +213,6 @@
  SCHEDULED: <2024-03-18 Mon 08:00>
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
-** QUIZ Quiz 5                                                    :Controls:
- DEADLINE: <2024-02-23 Fri 13:00>
 ** QUIZ Quiz 6                                                    :Controls:
  DEADLINE: <2024-03-01 Fri 13:00>
 ** QUIZ Quiz 7                                                    :Controls:
