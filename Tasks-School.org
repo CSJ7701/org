@@ -107,8 +107,6 @@
  DEADLINE: <2024-04-26 Fri>
 ** HOMEWORK Handout                                               :Controls:
  DEADLINE: <2024-04-26 Fri>
-** HOMEWORK Chapter 5.4                                :SoftwareEngineering:
- DEADLINE: <2024-02-12 Mon>-<2024-02-23 Fri>
 ** HOMEWORK Chapter 25.1-25.4                          :SoftwareEngineering:
  DEADLINE: <2024-02-26 Mon>-<2024-03-04 Mon>
 ** HOMEWORK Chapter 7.2                                :SoftwareEngineering:
@@ -123,8 +121,6 @@
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Schaums 223-235                                            :DSP:
- DEADLINE: <2024-02-09 Fri>-<2024-02-12 Mon>
 ** HOMEWORK Chapter 7.2                                                :DSP:
  DEADLINE: <2024-02-12 Mon>
 ** HOMEWORK Chapter 7.3                                                :DSP:
@@ -223,11 +219,6 @@
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 6                                         :SoftwareEngineering:
- DEADLINE: <2024-02-26 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: State Machine Diagrams
- :END:
 ** QUIZ Quiz 7                                         :SoftwareEngineering:
  DEADLINE: <2024-03-25 Mon 14:00>
  :PROPERTIES:

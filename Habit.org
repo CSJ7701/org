@@ -4,12 +4,14 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2024-02-25 Sun .+1d>
+SCHEDULED: <2024-02-28 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-02-24 Sat 09:51]
+:LAST_REPEAT: [2024-02-27 Tue 05:25]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-02-27 Tue 05:25]
+- State "FINISHED"   from "HABIT"      [2024-02-26 Mon 17:03]
 - State "FINISHED"   from "HABIT"      [2024-02-24 Sat 09:51]
 - State "FINISHED"   from "HABIT"      [2024-02-22 Thu 17:49]
 - State "FINISHED"   from "HABIT"      [2024-02-21 Wed 18:08]
@@ -141,12 +143,13 @@ SCHEDULED: <2024-01-18 Thu .+1d>
 
 * Weekly
 ** HABIT Laundry
-SCHEDULED: <2024-02-26 Mon .+1w>
+SCHEDULED: <2024-03-04 Mon .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-02-19 Mon 16:40]
+:LAST_REPEAT: [2024-02-26 Mon 17:04]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-02-26 Mon 17:04]
 - State "FINISHED"   from "HABIT"      [2024-02-19 Mon 16:40]
 - State "FINISHED"   from "HABIT"      [2024-02-12 Mon 08:15]
 - State "FINISHED"   from "HABIT"      [2024-02-05 Mon 17:01]
@@ -172,12 +175,13 @@ SCHEDULED: <2024-02-26 Mon .+1w>
 :END:
 
 ** HABIT Clean
-SCHEDULED: <2024-02-26 Mon .+1w>
+SCHEDULED: <2024-03-04 Mon .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-02-19 Mon 16:40]
+:LAST_REPEAT: [2024-02-26 Mon 17:04]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-02-26 Mon 17:04]
 - State "FINISHED"   from "HABIT"      [2024-02-19 Mon 16:40]
 - State "FINISHED"   from "HABIT"      [2024-02-12 Mon 08:14]
 - State "FINISHED"   from "HABIT"      [2024-02-02 Fri 22:29]
@@ -258,12 +262,13 @@ SCHEDULED: <2024-01-26 Fri ++30d/31d>
 
 * Goals
 ** MONTHLY Go To Church
-SCHEDULED: <2024-02-25 Sun ++1w>-<2023-08-27 Sun>
+SCHEDULED: <2024-03-03 Sun ++1w>-<2023-08-27 Sun>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-02-19 Mon 16:40]
+:LAST_REPEAT: [2024-02-26 Mon 17:04]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "MONTHLY"    [2024-02-26 Mon 17:04]
 - State "FINISHED"   from "MONTHLY"    [2024-02-19 Mon 16:40]
 - State "FINISHED"   from "MONTHLY"    [2024-02-12 Mon 08:14]
 - State "FINISHED"   from "MONTHLY"    [2024-02-04 Sun 13:13]
