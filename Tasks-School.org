@@ -3,8 +3,6 @@
 * Homework
 ** HOMEWORK Homework 5                                                 :DSP:
  DEADLINE: <2024-02-28 Wed 10:00>
-** HOMEWORK Lab 2                                                      :DSP:
- DEADLINE: <2024-03-04 Mon 10:00>
 ** HOMEWORK Homework 6                                                 :DSP:
  DEADLINE: <2024-03-20 Wed 10:00>
 ** HOMEWORK Project Selection Due                                      :DSP:
