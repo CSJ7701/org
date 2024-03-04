@@ -14,7 +14,7 @@
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
 ** HOMEWORK Lab 2 Due                                             :Controls:
- DEADLINE: <2024-02-27 Tue 13:00>
+ DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Pre Lab 3 Quiz Due                                    :Controls:
  DEADLINE: <2024-03-05 Tue 08:00>
 ** HOMEWORK Lab 3 Due                                             :Controls:
@@ -170,11 +170,6 @@
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
 * Project
-** PROJECT Project Phase 3                             :SoftwareEngineering:
- DEADLINE: <2024-03-01 Fri 14:00>
- :PROPERTIES:
- :DESCRIPTION: Design 1
- :END:
 ** PROJECT Project Phase 4                             :SoftwareEngineering:
  DEADLINE: <2024-03-29 Fri 14:00>
  :PROPERTIES:
@@ -209,8 +204,6 @@
  SCHEDULED: <2024-03-18 Mon 08:00>
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
-** QUIZ Quiz 6                                                    :Controls:
- DEADLINE: <2024-03-01 Fri 13:00>
 ** QUIZ Quiz 7                                                    :Controls:
  DEADLINE: <2024-03-29 Fri 13:00>
 ** QUIZ Quiz 9                                                    :Controls:
