@@ -4,12 +4,13 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2024-03-05 Tue .+1d>
+SCHEDULED: <2024-03-06 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-03-04 Mon 11:13]
+:LAST_REPEAT: [2024-03-05 Tue 18:42]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-03-05 Tue 18:42]
 - State "FINISHED"   from "HABIT"      [2024-03-04 Mon 11:13]
 - State "FINISHED"   from "HABIT"      [2024-03-03 Sun 07:37]
 - State "FINISHED"   from "HABIT"      [2024-02-28 Wed 18:07]

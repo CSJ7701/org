@@ -1023,3 +1023,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-03-04 Mon 11:14]
  :END:
 
+
+* DONE Pre Lab 3 Quiz Due                                          :Controls:
+ CLOSED: [2024-03-05 Tue 18:42] DEADLINE: <2024-03-05 Tue 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-05 Tue 18:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-05 Tue 18:42]
+ :END:
+
