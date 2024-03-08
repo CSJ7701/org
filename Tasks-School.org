@@ -176,8 +176,6 @@
  :PROPERTIES:
  :DESCRIPTION: Presentation and Code
  :END:
-** PROJECT Project Progress Report                     :SoftwareEngineering:
- DEADLINE: <2024-03-07 Thu 14:00>
 ** PROJECT Project Progress Report 2                   :SoftwareEngineering:
  DEADLINE: <2024-04-04 Thu>
 ** PROJECT Project Demos                               :SoftwareEngineering:
