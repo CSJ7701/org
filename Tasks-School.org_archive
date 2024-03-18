@@ -1051,3 +1051,59 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "PROJECT"    [2024-03-07 Thu 15:46]
  :END:
 
+
+* DONE Homework 5                                                       :DSP:
+ CLOSED: [2024-03-18 Mon 10:24] DEADLINE: <2024-02-28 Wed 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 10:24
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-18 Mon 10:24]
+ :END:
+
+
+* DONE Homework 6                                                       :DSP:
+ CLOSED: [2024-03-18 Mon 10:24] DEADLINE: <2024-03-20 Wed 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 10:24
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-18 Mon 10:24]
+ :END:
+
+
+* DONE Handout                                                          :DSP:
+ CLOSED: [2024-03-18 Mon 10:25] DEADLINE: <2024-03-18 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 10:25
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-18 Mon 10:25]
+ :END:
+
+
+* DONE Midterm Exam                                     :SoftwareEngineering:
+ CLOSED: [2024-03-18 Mon 10:26] DEADLINE: <2024-03-08 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 10:26
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-03-18 Mon 10:26]
+ :END:
+

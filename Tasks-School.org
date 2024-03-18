@@ -1,10 +1,6 @@
 
 
 * Homework
-** HOMEWORK Homework 5                                                 :DSP:
- DEADLINE: <2024-02-28 Wed 10:00>
-** HOMEWORK Homework 6                                                 :DSP:
- DEADLINE: <2024-03-20 Wed 10:00>
 ** HOMEWORK Project Selection Due                                      :DSP:
  DEADLINE: <2024-03-22 Fri 10:00>
 ** HOMEWORK Lab 3                                                      :DSP:
@@ -14,7 +10,7 @@
 ** HOMEWORK Lab 2 Due                                             :Controls:
  DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Lab 3 Due                                             :Controls:
- DEADLINE: <2024-03-08 Fri 13:00>
+ DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Pre Lab 4 Quiz Due                                    :Controls:
  DEADLINE: <2024-03-19 Tue 08:00>
 ** HOMEWORK Lab 4 Due                                             :Controls:
@@ -140,8 +136,6 @@
 ** HOMEWORK Chapter 10.2.5-10.2.6                                      :DSP:
  DEADLINE: <2024-03-08 Fri>
 ** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-03-18 Mon>
-** HOMEWORK Handout                                                    :DSP:
  DEADLINE: <2024-03-20 Wed>
 ** HOMEWORK Handout                                                    :DSP:
  DEADLINE: <2024-03-22 Fri>
@@ -194,8 +188,13 @@
  :END:
 ** QUIZ Quiz 8                                                         :MWO:
  SCHEDULED: <2024-03-08 Fri 08:00>
-** QUIZ Quiz 9                                                         :MWO:
+** DEFER Quiz 9                                                        :MWO:
  SCHEDULED: <2024-03-18 Mon 08:00>
+ :LOGBOOK:
+ - State "DEFER"      from "QUIZ"       [2024-03-18 Mon 10:25] \\
+   Did not happen
+ :END:
+
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
 ** QUIZ Quiz 7                                                    :Controls:
@@ -226,8 +225,6 @@
  :PROPERTIES:
  :DESCRIPTION: Architectural Design
  :END:
-** TEST Midterm Exam                                   :SoftwareEngineering:
- DEADLINE: <2024-03-08 Fri>
 * Appointments
 
 * Schedule :Appointment:
