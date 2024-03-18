@@ -1107,3 +1107,33 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "TEST"       [2024-03-18 Mon 10:26]
  :END:
 
+
+* DONE Quiz 9                                                           :MWO:
+ CLOSED: [2024-03-18 Mon 14:32] SCHEDULED: <2024-03-18 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 14:32
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "DEFER"      [2024-03-18 Mon 14:32]
+ - State "DEFER"      from "QUIZ"       [2024-03-18 Mon 10:25] \\
+   Did not happen
+ :END:
+
+
+* DONE Quiz 8                                                           :MWO:
+ CLOSED: [2024-03-18 Mon 14:32] SCHEDULED: <2024-03-08 Fri 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-18 Mon 14:32
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-03-18 Mon 14:32]
+ :END:
+

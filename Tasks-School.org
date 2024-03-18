@@ -186,15 +186,6 @@
  :PROPERTIES:
  :DESCRIPTION: Lectures 11-20
  :END:
-** QUIZ Quiz 8                                                         :MWO:
- SCHEDULED: <2024-03-08 Fri 08:00>
-** DEFER Quiz 9                                                        :MWO:
- SCHEDULED: <2024-03-18 Mon 08:00>
- :LOGBOOK:
- - State "DEFER"      from "QUIZ"       [2024-03-18 Mon 10:25] \\
-   Did not happen
- :END:
-
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
 ** QUIZ Quiz 7                                                    :Controls:
