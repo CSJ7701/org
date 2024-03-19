@@ -11,8 +11,6 @@
  DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Lab 3 Due                                             :Controls:
  DEADLINE: <2024-03-19 Tue 13:00>
-** HOMEWORK Pre Lab 4 Quiz Due                                    :Controls:
- DEADLINE: <2024-03-19 Tue 08:00>
 ** HOMEWORK Lab 4 Due                                             :Controls:
  DEADLINE: <2024-03-26 Tue 13:00>
 ** HOMEWORK Pre Lab 5 Quiz Due                                    :Controls:
