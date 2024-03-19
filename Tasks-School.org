@@ -134,8 +134,6 @@
 ** HOMEWORK Chapter 10.2.5-10.2.6                                      :DSP:
  DEADLINE: <2024-03-08 Fri>
 ** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-03-20 Wed>
-** HOMEWORK Handout                                                    :DSP:
  DEADLINE: <2024-03-22 Fri>
 ** HOMEWORK Handout                                                    :DSP:
  DEADLINE: <2024-03-27 Wed>

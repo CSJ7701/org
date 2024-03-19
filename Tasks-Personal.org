@@ -10,9 +10,6 @@
 ** TODO Write Org Project Capture
 Should list roam project files, let you choose one, then capture to the inbox of that project file
 
-** TODO Check GPU's for Grandfather 
-DEADLINE: <2024-03-22 Fri>
-
 * Appointments                                            :Appointments:
 * Reminders
 

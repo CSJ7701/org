@@ -1151,3 +1151,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-03-19 Tue 09:26]
  :END:
 
+
+* DONE Handout                                                          :DSP:
+ CLOSED: [2024-03-19 Tue 19:01] DEADLINE: <2024-03-20 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-19 Tue 19:01
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-19 Tue 19:01]
+ :END:
+
