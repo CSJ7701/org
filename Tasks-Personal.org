@@ -10,14 +10,6 @@
 ** TODO Write Org Project Capture
 Should list roam project files, let you choose one, then capture to the inbox of that project file
 
-** TODO Call mother 
-DEADLINE: <2024-03-20 Wed 16:00>
-Confirm appointment with John, make sure she got the tax analysis doc I sent.
-
-** TODO Check Grandfather's Email 
-DEADLINE: <2024-03-20 Wed 16:00>
- [[mu4e:msgid:PH7PR12MB59282519A8438B1746411129AD2C2@PH7PR12MB5928.namprd12.prod.outlook.com][Concerts at Wolf Trap 2024]]
-
 * Appointments                                            :Appointments:
 * Reminders
 

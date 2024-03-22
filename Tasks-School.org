@@ -1,14 +1,10 @@
 
 
 * Homework
-** HOMEWORK Project Selection Due                                      :DSP:
- DEADLINE: <2024-03-22 Fri 10:00>
 ** HOMEWORK Lab 3                                                      :DSP:
  DEADLINE: <2024-04-08 Mon 10:00>
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
-** HOMEWORK Lab 2 Due                                             :Controls:
- DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Lab 3 Due                                             :Controls:
  DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Lab 4 Due                                             :Controls:
@@ -133,8 +129,6 @@
  DEADLINE: <2024-03-06 Wed>
 ** HOMEWORK Chapter 10.2.5-10.2.6                                      :DSP:
  DEADLINE: <2024-03-08 Fri>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-03-22 Fri>
 ** HOMEWORK Handout                                                    :DSP:
  DEADLINE: <2024-03-27 Wed>
 ** HOMEWORK Handout                                                    :DSP:
