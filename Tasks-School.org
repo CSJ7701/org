@@ -5,8 +5,6 @@
  DEADLINE: <2024-04-08 Mon 10:00>
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
-** HOMEWORK Lab 3 Due                                             :Controls:
- DEADLINE: <2024-03-19 Tue 13:00>
 ** HOMEWORK Lab 4 Due                                             :Controls:
  DEADLINE: <2024-03-26 Tue 13:00>
 ** HOMEWORK Pre Lab 5 Quiz Due                                    :Controls:
@@ -165,17 +163,10 @@
 ** PROJECT Project Demos                               :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu>
 * Study
-** TEST Exam 2                                                         :MWO:
- SCHEDULED: <2024-03-25 Mon 08:00>
 ** TEST Exam 3                                                         :MWO:
  SCHEDULED: <2024-04-15 Mon 08:00>
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
-** TEST Exam 2                                                         :DSP:
- SCHEDULED: <2024-03-25 Mon 10:00>
- :PROPERTIES:
- :DESCRIPTION: Lectures 11-20
- :END:
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
 ** QUIZ Quiz 7                                                    :Controls:
@@ -186,16 +177,15 @@
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 7                                         :SoftwareEngineering:
- DEADLINE: <2024-03-25 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: Design Patterns
- :END:
 ** QUIZ Quiz 8                                         :SoftwareEngineering:
  DEADLINE: <2024-04-01 Mon 14:00>
  :PROPERTIES:
  :DESCRIPTION: Software Testing
  :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-03-26 Tue 11:00]
+ :END:
+
 ** QUIZ Quiz 9                                         :SoftwareEngineering:
  DEADLINE: <2024-04-08 Mon 14:00>
  :PROPERTIES:

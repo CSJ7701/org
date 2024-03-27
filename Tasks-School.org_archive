@@ -1207,3 +1207,57 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-03-22 Fri 13:02]
  :END:
 
+
+* DONE Lab 3 Due                                                   :Controls:
+ CLOSED: [2024-03-26 Tue 11:00] DEADLINE: <2024-03-19 Tue 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-26 Tue 11:00
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-26 Tue 11:00]
+ :END:
+
+
+* DONE Quiz 7                                           :SoftwareEngineering:
+ CLOSED: [2024-03-26 Tue 11:00] DEADLINE: <2024-03-25 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Design Patterns
+ :ARCHIVE_TIME: 2024-03-26 Tue 11:00
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+
+* DONE Exam 2                                                           :MWO:
+ CLOSED: [2024-03-26 Tue 11:00] SCHEDULED: <2024-03-25 Mon 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-26 Tue 11:00
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-03-26 Tue 11:00]
+ :END:
+
+
+* DONE Exam 2                                                           :DSP:
+ CLOSED: [2024-03-26 Tue 11:00] SCHEDULED: <2024-03-25 Mon 10:00>
+ :PROPERTIES:
+ :DESCRIPTION: Lectures 11-20
+ :ARCHIVE_TIME: 2024-03-26 Tue 11:00
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-03-26 Tue 11:00]
+ :END:
+
