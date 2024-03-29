@@ -148,11 +148,6 @@
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
 * Project
-** PROJECT Project Phase 4                             :SoftwareEngineering:
- DEADLINE: <2024-03-29 Fri 14:00>
- :PROPERTIES:
- :DESCRIPTION: Test Plan
- :END:
 ** PROJECT Project Phase 5                             :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu 14:00>
  :PROPERTIES:
@@ -169,8 +164,6 @@
  SCHEDULED: <2024-05-01 Wed 08:00>
 ** QUIZ Quiz 10                                                        :MWO:
  SCHEDULED: <2024-04-08 Mon 08:00>
-** QUIZ Quiz 7                                                    :Controls:
- DEADLINE: <2024-03-29 Fri 13:00>
 ** QUIZ Quiz 9                                                    :Controls:
  DEADLINE: <2024-04-10 Wed 13:00>
 ** QUIZ Quiz 9                                                    :Controls:
