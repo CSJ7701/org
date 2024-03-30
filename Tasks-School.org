@@ -15,54 +15,8 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 3.1-3.5                                       :Controls:
- DEADLINE: <2024-02-14 Wed>
-** HOMEWORK Chapter 3.6                                           :Controls:
- DEADLINE: <2024-02-16 Fri>
-** HOMEWORK Chapter 4.1-4.5                                       :Controls:
- DEADLINE: <2024-02-20 Tue>
-** HOMEWORK Chapter 4.6-4.7                                       :Controls:
- DEADLINE: <2024-02-21 Wed>
-** HOMEWORK 5.4-5.5                                               :Controls:
- DEADLINE: <2024-02-23 Fri>
-** HOMEWORK Chapter 5.5                                           :Controls:
- DEADLINE: <2024-02-26 Mon>
-** HOMEWORK Chapter 6.1-6.2                                       :Controls:
- DEADLINE: <2024-02-28 Wed>
-** HOMEWORK Chapter 6.1-6.3                                       :Controls:
- DEADLINE: <2024-03-01 Fri>
-** HOMEWORK Chapter 6.4                                           :Controls:
- DEADLINE: <2024-03-04 Mon>
-** HOMEWORK Chapter 7.1-7.2                                       :Controls:
- DEADLINE: <2024-03-06 Wed>
-** HOMEWORK Chapter 7.3-7.4                                       :Controls:
- DEADLINE: <2024-03-08 Fri>
-** HOMEWORK Chapter 7.5                                           :Controls:
- DEADLINE: <2024-03-18 Mon>
-** HOMEWORK Chapter 8                                             :Controls:
- DEADLINE: <2024-03-25 Mon>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-03-25 Mon>
-** HOMEWORK Chapter 8                                             :Controls:
- DEADLINE: <2024-03-27 Wed>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-03-27 Wed>
-** HOMEWORK Chapter 9                                             :Controls:
- DEADLINE: <2024-04-01 Mon>
 ** HOMEWORK Handout                                               :Controls:
  DEADLINE: <2024-04-01 Mon>
-** HOMEWORK Chapter 9                                             :Controls:
- DEADLINE: <2024-03-29 Fri>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-03-29 Fri>
-** HOMEWORK Chapter 9                                             :Controls:
- DEADLINE: <2024-04-03 Wed>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-03 Wed>
-** HOMEWORK Chapter 9                                             :Controls:
- DEADLINE: <2024-04-08 Mon>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-08 Mon>
 ** HOMEWORK Chapter 9                                             :Controls:
  DEADLINE: <2024-04-10 Wed>
 ** HOMEWORK Handout                                               :Controls:
@@ -91,52 +45,12 @@
  DEADLINE: <2024-04-26 Fri>
 ** HOMEWORK Handout                                               :Controls:
  DEADLINE: <2024-04-26 Fri>
-** HOMEWORK Chapter 25.1-25.4                          :SoftwareEngineering:
- DEADLINE: <2024-02-26 Mon>-<2024-03-04 Mon>
-** HOMEWORK Chapter 7.2                                :SoftwareEngineering:
- DEADLINE: <2024-03-18 Mon>-<2024-03-22 Fri>
-** HOMEWORK Chapter 8.1-8.4                            :SoftwareEngineering:
- DEADLINE: <2024-03-25 Mon>-<2024-03-29 Fri>
 ** HOMEWORK Chapter 24.1-24.3 and Webpages             :SoftwareEngineering:
  DEADLINE: <2024-04-01 Mon>-<2024-04-03 Wed>
-** HOMEWORK Chapter 13.1-13.3                          :SoftwareEngineering:
- DEADLINE: <2024-04-08 Mon>-<2024-04-12 Fri>
 ** HOMEWORK Chapter 6.1-6.4                            :SoftwareEngineering:
  DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
 ** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
  DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Chapter 7.2                                                :DSP:
- DEADLINE: <2024-02-12 Mon>
-** HOMEWORK Chapter 7.3                                                :DSP:
- DEADLINE: <2024-02-14 Wed>
-** HOMEWORK Chapter 7.4                                                :DSP:
- DEADLINE: <2024-02-20 Tue>
-** HOMEWORK Chapter 7.5                                                :DSP:
- DEADLINE: <2024-02-21 Wed>
-** HOMEWORK Chapter 8.1                                                :DSP:
- DEADLINE: <2024-02-23 Fri>
-** HOMEWORK Chapter 10.1                                               :DSP:
- DEADLINE: <2024-02-28 Wed>
-** HOMEWORK Schaums 359-363                                            :DSP:
- DEADLINE: <2024-02-28 Wed>-<2024-03-06 Wed>
-** HOMEWORK Chapter 10.2.2                                             :DSP:
- DEADLINE: <2024-03-01 Fri>
-** HOMEWORK Chapter 10.2.3                                             :DSP:
- DEADLINE: <2024-03-04 Mon>
-** HOMEWORK Chapter 10.2.4                                             :DSP:
- DEADLINE: <2024-03-06 Wed>
-** HOMEWORK Chapter 10.2.5-10.2.6                                      :DSP:
- DEADLINE: <2024-03-08 Fri>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-03-27 Wed>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-03-29 Fri>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-04-01 Mon>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-04-03 Wed>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-04-08 Mon>
 ** HOMEWORK Pages 966-985 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-10 Wed>
 ** HOMEWORK Pages 960-985 (Textbook)                                   :DSP:
@@ -147,6 +61,8 @@
  DEADLINE: <2024-04-12 Fri>
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
+** HOMEWORK Discrete Project
+ DEADLINE: <2024-03-30 Sat>
 * Project
 ** PROJECT Project Phase 5                             :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu 14:00>
@@ -189,6 +105,8 @@
  :PROPERTIES:
  :DESCRIPTION: Architectural Design
  :END:
+** QUIZ Discrete Take Home Quiz 
+ DEADLINE: <2024-03-30 Sat>
 * Appointments
 
 * Schedule :Appointment:
