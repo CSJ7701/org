@@ -15,8 +15,6 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-01 Mon>
 ** HOMEWORK Chapter 9                                             :Controls:
  DEADLINE: <2024-04-10 Wed>
 ** HOMEWORK Handout                                               :Controls:
@@ -61,8 +59,6 @@
  DEADLINE: <2024-04-12 Fri>
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
-** HOMEWORK Discrete Project
- DEADLINE: <2024-03-30 Sat>
 * Project
 ** PROJECT Project Phase 5                             :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu 14:00>
@@ -105,8 +101,6 @@
  :PROPERTIES:
  :DESCRIPTION: Architectural Design
  :END:
-** QUIZ Discrete Take Home Quiz 
- DEADLINE: <2024-03-30 Sat>
 * Appointments
 
 * Schedule :Appointment:

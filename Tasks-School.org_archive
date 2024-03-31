@@ -1892,3 +1892,45 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-03-30 Sat 06:22]
  :END:
 
+
+* DONE Discrete Take Home Quiz 
+ CLOSED: [2024-03-30 Sat 10:08] DEADLINE: <2024-03-30 Sat>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-30 Sat 10:08
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-03-30 Sat 10:08]
+ :END:
+
+
+* DONE Discrete Project
+ CLOSED: [2024-03-30 Sat 10:58] DEADLINE: <2024-03-30 Sat>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-30 Sat 10:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-30 Sat 10:58]
+ :END:
+
+
+* DONE Handout                                                     :Controls:
+ CLOSED: [2024-03-30 Sat 10:58] DEADLINE: <2024-04-01 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-03-30 Sat 10:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-03-30 Sat 10:58]
+ :END:
+
