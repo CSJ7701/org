@@ -1934,3 +1934,33 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-03-30 Sat 10:58]
  :END:
 
+
+* DONE Quiz 8                                           :SoftwareEngineering:
+ CLOSED: [2024-04-01 Mon 15:30] DEADLINE: <2024-04-01 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Software Testing
+ :ARCHIVE_TIME: 2024-04-01 Mon 15:30
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-04-01 Mon 15:30]
+ - State "DONE"       from "QUIZ"       [2024-03-26 Tue 11:00]
+ :END:
+
+
+* DONE Chapter 24.1-24.3 and Webpages                   :SoftwareEngineering:
+ CLOSED: [2024-04-01 Mon 15:30] DEADLINE: <2024-04-01 Mon>-<2024-04-03 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-01 Mon 15:30
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-01 Mon 15:30]
+ :END:
+
