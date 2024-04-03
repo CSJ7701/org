@@ -1964,3 +1964,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-04-01 Mon 15:30]
  :END:
 
+
+* DONE Lab 4 Due                                                   :Controls:
+ CLOSED: [2024-04-03 Wed 12:54] DEADLINE: <2024-04-02 Tue 23:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-03 Wed 12:54
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-03 Wed 12:54]
+ :END:
+
