@@ -1978,3 +1978,31 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-04-03 Wed 12:54]
  :END:
 
+
+* DONE Project Phase 5                                  :SoftwareEngineering:
+ CLOSED: [2024-04-05 Fri 20:25] DEADLINE: <2024-04-03 Wed 23:59>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-05 Fri 20:25
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-05 Fri 20:25]
+ :END:
+
+
+* DONE Project Progress Report 2                        :SoftwareEngineering:
+ CLOSED: [2024-04-05 Fri 20:25] DEADLINE: <2024-04-04 Thu>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-05 Fri 20:25
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Project
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "PROJECT"    [2024-04-05 Fri 20:25]
+ :END:
+

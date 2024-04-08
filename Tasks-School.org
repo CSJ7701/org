@@ -55,16 +55,12 @@
  DEADLINE: <2024-04-12 Fri>
 ** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
  DEADLINE: <2024-04-15 Mon>
-** HOMEWORK Project Phase 5                            :SoftwareEngineering:
- DEADLINE: <2024-04-03 Wed 23:59>
 * Project
 ** PROJECT Project Phase 5                             :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu 14:00>
  :PROPERTIES:
  :DESCRIPTION: Presentation and Code
  :END:
-** PROJECT Project Progress Report 2                   :SoftwareEngineering:
- DEADLINE: <2024-04-04 Thu>
 ** PROJECT Project Demos                               :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu>
 * Study

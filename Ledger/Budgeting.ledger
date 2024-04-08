@@ -2,6 +2,11 @@
 ; Defining Ledger Budgets
 ; =======================
 
+account Budget
+
+account Budget:Unbudgeted
+= Income:Paycheck
+    (Budget:Unbudgeted)                           -1
 
 
 
