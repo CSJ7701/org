@@ -1,12 +1,14 @@
 
 
 * Homework
-** HOMEWORK Lab 3                                                      :DSP:
- DEADLINE: <2024-04-08 Mon 10:00>
+** CANC Lab 3                                                          :DSP:
+ CLOSED: [2024-04-08 Mon 08:00] DEADLINE: <2024-04-08 Mon 10:00>
+ :LOGBOOK:
+ - State "CANC"       from "HOMEWORK"   [2024-04-08 Mon 08:00]
+ :END:
+
 ** HOMEWORK Paper Draft Due                                            :DSP:
  DEADLINE: <2024-04-22 Mon 10:00>
-** HOMEWORK Pre Lab 5 Quiz Due                                    :Controls:
- DEADLINE: <2024-04-09 Tue 08:00>
 ** HOMEWORK Lab 5 Due                                             :Controls:
  DEADLINE: <2024-04-16 Tue 13:00>
 ** HOMEWORK Pre Lab 6 Quiz Due                                    :Controls:
@@ -64,8 +66,6 @@
 ** PROJECT Project Demos                               :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu>
 * Study
-** TEST Exam 3                                                         :MWO:
- SCHEDULED: <2024-04-15 Mon 08:00>
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
 ** QUIZ Quiz 10                                                        :MWO:
