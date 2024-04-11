@@ -107,3 +107,18 @@ CLOSED: [2024-04-07 Sun 15:02]
 :END:
 Should list roam project files, let you choose one, then capture to the inbox of that project file
 
+
+* DONE Write new daily capture function.
+CLOSED: [2024-04-11 Thu 07:28]
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-11 Thu 07:28
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-11 Thu 07:28]
+:END:
+Move to regular Org instead of Roam? Would like in one yearly file, month headlines then date headlines, capture in block text.
+

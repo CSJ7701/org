@@ -7,8 +7,8 @@
 ** TODO Pay into IRA 
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
-** TODO Write new daily capture function.
-Move to regular Org instead of Roam? Would like in one yearly file, month headlines then date headlines, capture in block text.
+** TODO Migrate Roam Dailies to Org Journal 
+ [[file:~/School/2S/ConnCollegeCourseApplication.pdf::%PDF-1.7]]
 
 * Appointments                                            :Appointments:
 * Reminders

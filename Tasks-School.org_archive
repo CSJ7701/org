@@ -2048,3 +2048,74 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "QUIZ"       [2024-04-09 Tue 10:00]
  :END:
 
+
+* DONE Quiz 9                                           :SoftwareEngineering:
+ CLOSED: [2024-04-11 Thu 07:28] DEADLINE: <2024-04-08 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Software Quality
+ :ARCHIVE_TIME: 2024-04-11 Thu 07:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-04-11 Thu 07:28]
+ :END:
+
+
+* DONE Chapter 9                                                   :Controls:
+ CLOSED: [2024-04-11 Thu 07:28] DEADLINE: <2024-04-10 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-11 Thu 07:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-11 Thu 07:28]
+ :END:
+
+
+* DONE Handout                                                     :Controls:
+ CLOSED: [2024-04-11 Thu 07:28] DEADLINE: <2024-04-10 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-11 Thu 07:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-11 Thu 07:28]
+ :END:
+
+
+* DONE Pages 966-985 (Textbook)                                         :DSP:
+ CLOSED: [2024-04-11 Thu 07:28] DEADLINE: <2024-04-10 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-11 Thu 07:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-11 Thu 07:28]
+ :END:
+
+
+* DONE Handout                                                          :DSP:
+ CLOSED: [2024-04-11 Thu 07:28] DEADLINE: <2024-04-10 Wed>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-11 Thu 07:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-11 Thu 07:28]
+ :END:
+
