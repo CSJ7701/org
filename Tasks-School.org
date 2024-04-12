@@ -75,6 +75,8 @@
  :END:
 ** TEST Exam 2 Retake 
  DEADLINE: <2024-04-12 Fri>
+** TEST Nav Exam
+ DEADLINE: <2024-04-16 Mon>
 * Appointments
 
 * Schedule :Appointment:
