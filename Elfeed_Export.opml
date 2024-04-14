@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Elfeed Export</title>
+  </head>
+  <body>
+    <outline xmlUrl="https://www.reddit.com/r/emacs/.rss" title="M-x emacs-reddit"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJetJ7nDNLlEzDLXv7KIo0w" title="Gavin Freeborn"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ" title="System Crafters"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" title="NetworkChuck"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTrSsPMmZavLbc3Ex7VhjDg" title="Brandon Herrera"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBvc7pmUp9wiZIFOXEp1sCg" title="DemolitionRanch"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSp2nvM27htoOTD1Cq05N5g" title="Colm R. McGuinness"/>
+    <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC40gs0opj389ohjLnJIAJzA" title="Jonathan Young"/>
+  </body>
+</opml>
