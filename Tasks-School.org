@@ -15,40 +15,10 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 10.1 and 10.7                                 :Controls:
- DEADLINE: <2024-04-12 Fri>
-** HOMEWORK Chapter 10.8 and 10.10                                :Controls:
- DEADLINE: <2024-04-15 Mon>
-** HOMEWORK Chapter 11                                            :Controls:
- DEADLINE: <2024-04-17 Wed>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-17 Wed>
-** HOMEWORK Chapter 11                                            :Controls:
- DEADLINE: <2024-04-19 Fri>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-19 Fri>
-** HOMEWORK Chapter 11                                            :Controls:
- DEADLINE: <2024-04-22 Mon>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-22 Mon>
-** HOMEWORK Chapter 11                                            :Controls:
- DEADLINE: <2024-04-24 Wed>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-24 Wed>
 ** HOMEWORK Chapter 11                                            :Controls:
  DEADLINE: <2024-04-26 Fri>
 ** HOMEWORK Handout                                               :Controls:
  DEADLINE: <2024-04-26 Fri>
-** HOMEWORK Chapter 6.1-6.4                            :SoftwareEngineering:
- DEADLINE: <2024-04-15 Mon>-<2024-04-19 Fri>
-** HOMEWORK Chapter 3.1-3.3                            :SoftwareEngineering:
- DEADLINE: <2024-04-22 Mon>-<2024-04-26 Fri>
-** HOMEWORK Pages 960-985 (Textbook)                                   :DSP:
- DEADLINE: <2024-04-12 Fri>
-** HOMEWORK Handout                                                    :DSP:
- DEADLINE: <2024-04-12 Fri>
-** HOMEWORK Pages 863-873 (Textbook)                                   :DSP:
- DEADLINE: <2024-04-15 Mon>
 * Project
 ** PROJECT Project Phase 5                             :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu 14:00>
@@ -63,8 +33,6 @@
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
 ** QUIZ Quiz 9                                                    :Controls:
- DEADLINE: <2024-04-12 Fri 13:00>
-** QUIZ Quiz 9                                                    :Controls:
  DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
@@ -73,8 +41,6 @@
  :PROPERTIES:
  :DESCRIPTION: Architectural Design
  :END:
-** TEST Exam 2 Retake 
- DEADLINE: <2024-04-12 Fri>
 ** TEST Nav Exam
  DEADLINE: <2024-04-16 Mon>
 * Appointments

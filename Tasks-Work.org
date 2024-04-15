@@ -1,8 +1,5 @@
 * Inbox
 
-** TODO Bullets Due 
-DEADLINE: <2024-04-15 Mon 22:00>
-
 * Duty
 
 
