@@ -2354,3 +2354,46 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-04-15 Mon 06:07]
  :END:
 
+
+* DONE Project Phase 5                                  :SoftwareEngineering:
+ CLOSED: [2024-04-16 Tue 06:36] DEADLINE: <2024-04-25 Thu 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Presentation and Code
+ :ARCHIVE_TIME: 2024-04-16 Tue 06:36
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Project
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "PROJECT"    [2024-04-16 Tue 06:36]
+ :END:
+
+
+* DONE Chapter 11                                                  :Controls:
+ CLOSED: [2024-04-16 Tue 06:36] DEADLINE: <2024-04-26 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-16 Tue 06:36
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-16 Tue 06:36]
+ :END:
+
+
+* DONE Handout                                                     :Controls:
+ CLOSED: [2024-04-16 Tue 06:36] DEADLINE: <2024-04-26 Fri>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-16 Tue 06:36
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-16 Tue 06:36]
+ :END:
+

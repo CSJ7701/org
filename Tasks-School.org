@@ -8,23 +8,14 @@
  :END:
 
 ** HOMEWORK Paper Draft Due                                            :DSP:
- DEADLINE: <2024-04-22 Mon 10:00>
+ DEADLINE: <2024-04-17 Wed 10:00>
 ** HOMEWORK Lab 5 Due                                             :Controls:
  DEADLINE: <2024-04-23 Tue 13:00>
 ** HOMEWORK Pre Lab 6 Quiz Due                                    :Controls:
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK Chapter 11                                            :Controls:
- DEADLINE: <2024-04-26 Fri>
-** HOMEWORK Handout                                               :Controls:
- DEADLINE: <2024-04-26 Fri>
 * Project
-** PROJECT Project Phase 5                             :SoftwareEngineering:
- DEADLINE: <2024-04-25 Thu 14:00>
- :PROPERTIES:
- :DESCRIPTION: Presentation and Code
- :END:
 ** PROJECT Project Demos                               :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu>
 ** PROJECT SE Project Finalized 
