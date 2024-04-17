@@ -20,6 +20,8 @@
  DEADLINE: <2024-04-25 Thu>
 ** PROJECT SE Project Finalized 
  DEADLINE: <2024-04-22 Mon>
+** PROJECT dictionary.get() for Music Classification
+ DEADLINE: <2024-04-17 Wed>
 * Study
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
