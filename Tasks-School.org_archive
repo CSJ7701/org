@@ -2411,3 +2411,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "TEST"       [2024-04-17 Wed 15:19]
  :END:
 
+
+* DONE Paper Draft Due                                                  :DSP:
+ CLOSED: [2024-04-18 Thu 07:58] DEADLINE: <2024-04-17 Wed 10:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-18 Thu 07:58
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-18 Thu 07:58]
+ :END:
+

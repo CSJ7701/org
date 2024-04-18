@@ -7,8 +7,6 @@
  - State "CANC"       from "HOMEWORK"   [2024-04-08 Mon 08:00]
  :END:
 
-** HOMEWORK Paper Draft Due                                            :DSP:
- DEADLINE: <2024-04-17 Wed 10:00>
 ** HOMEWORK Lab 5 Due                                             :Controls:
  DEADLINE: <2024-04-23 Tue 13:00>
 ** HOMEWORK Pre Lab 6 Quiz Due                                    :Controls:

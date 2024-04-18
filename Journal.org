@@ -1,5 +1,102 @@
 
+* 2023
+** 2023-05 May
+*** 2023-05-23 Tuesday
+- MCTC Day 2
+  The school year's over. I somehow passed SST - managed to score a 63 on the final and bump my total grade up to an 80.
+  This was easily the most challenging year of my life - I've never had to work harder than I did this year.
+  This is the second day of MCTC. We had ROTR last week (I passed) and the PFE this Sunday (Also passed).The Cape May CC's were here from Sunday to Monday. That was really challenging, but a ton of fun.
+  Now we're on to MCTC, which has been simultaneously really informational but also pretty boring and frustrating.
+*** 2023-05-27 Saturday
+- Weekly recap
+  Finished [[id:931e43fe-6dcc-4d9c-9d16-0ea69410878f][MCTC]] yesterday. We had an informal little graduation, then we put our aguilettes on our trops. This honestly feels a little surreal. We're finally cadre - I don't feel ready at all. In 4-5 weeks I'm going to be responsible for the lives of ~30 actual people - they're going to look to me for answers and I'm not sure that I'll have them. All this training over the past week or so; learning how to lead and what a good leader is; I'm not 100% sure that's me... I want to do my best, but I don't know yet if that's something that i'll be able to do well or at all. I guess we'll see - I'm really nervous.
+*** 2023-05-29 Monday
+- First Day in DC for Cyber
+  Took the train down from New London this morning. Spent pretty much the entire ride working on my [[id:7fc21633-542b-41b5-9019-a820af991795][Python]] notes. Got to DC around 3, checked in to the hotel, then went out. I was with Joe Church, Cohen Bland, and Torin Kearney. We went to the Capitol Building, then headed to the White House to get dinner at Old Ebbitt's Grill. I forgot how much I enjoyed being in DC. I don't really enjoy cities in general, but DC feels different. We'll see how I enjoy being at CGCYBER, but I honestly think I'd enjoy working here. I'm really excited for this week.
+*** 2023-05-30 Tuesday
+- First day in [[id:21c174c9-aa20-4cc4-9f11-e452d7b31f38][CGCYBER]]
+- We went to Cyber HQ today. Left around 7, took a shuttle, and met our escort (ENS Brianna Nelson). Spent the first hour or so working through some general Q&A with her, then getting our clearances finalized. We went around several of the cubicles next, meeting some people and learning about a generic workday, then we went up to one of the SCIF's to see NOSC (Network Operations Security Command - I think). We moved over to the other part of the SCIF to meet some people working in CSOC, then we went downstairs to talk to someone from IT. After that, we sat in on a briefing - classified (Secret), then we ate lunch and headed out. I spent most of the afternoon with Cowen in the National Museum of Natural History, then we headed back to the hotel to rest and get dinner at Founding Farmers.
+** 2023-06 June
+*** 2023-06-12 Monday
+- Halfway through my two weeks of leave
+- This is the end of my first week of leave. Terry picked me up from OPS week last friday, I stayed with him through Saturday and went to a concert with my grandfather on sunday. We saw some modern composer who I wasn't terribly impressed with, but we also saw Carmina Burana, which was awesome. I spent the next few days at home with my mom, took her to the airport on Wednesday, went to see LT, then went to my dad's. It was good to go back to PH. I saw Becca there, I wanted to go see Petey but she seemed busy. LT was pretty helpful; general tips on leading. Spending time with my dad was also good. He got me some Vols merch - which I think I'll actually wear. Terry picked me up on Saturday and we've spent the last two days in Deltaville. We went fishing Sunday and now we're getting ready to drive back. It's been a good week so far - I do wish I had more time to just relax, without so much going on, but I've had a good time. I'm looking forward to going to Danny's graduation, and then getting back to the Academy; even though it'll be tough; will honestly be nice. The place is starting to feel a little better - I guess just because I'm getting more comfortable.
+*** 2023-06-27 Tuesday
+- Yesterday was the first day of Swab Summer. It's honestly a little surreal seeing all the swabs onboard, knowing that in 3 weeks I'll be responsible for them. I don't feel ready at all, and i know I'm going to screw something up.
+- We're working on the T-boats this week (Training Boats). We learn to steer and maneuver, and it seems like there's a particular focus on approaches and maneuvering at the dock. That's something else I don't feel ready for - I have no idea how to handle all this newfound responsibility other than tackling it head-on.
+- 
+- Woke up at 0530 to reveille, the POD said breakfast started at 0615, so I took an early shower to start off the day, then went down to breakfast. Of course they didn't have food out yet; apparently they thought it started at 0630. So I went back to my room and got my own breakfast of cereal. Not the best start to my first day of T-Boats.
+- 
+- Today was productive overall. We learned how to start up the boat, we got to practice springing some, I was the Conn right before lunch. The day seemed sort of boring after lunch; I pretty much sat on deck sleeping while the rest of our boat finished their turns as Conn. I had a good time, and it feels as though t-boats are going to be fun.
+*** 2023-06-30 Friday
+- We just finished T-Boats.
+- We got to ride on the Shuman, which has 2 screws. We rode out to the New London Light House, then back to NewLo to get some food from muddy waters. Of course I managed to spill tea all down the front of my uniform, so now I have to wash it... I want to focus on being less aggressive and imposing on my friends. I like that I have people I can screw around with, but I don't necessarily like how I act around them. I feel as though I'm more disrespecful and confrontational when I'm with them - not their fault, it's something I need to change.
+** 2023-07 July
+*** 2023-07-02 Sunday
+- Trying to get more into daily journalling. I think I might start a 30 day prompt or something similar. My weekend has been relatively relaxed - went with Ian and Dan to the mall yesterday; spent way too much money on magic cards. I should probably learn to practice better self control with my money, but whatever. All in all a good end to the first week of swab summer.
+*** 2023-07-05 Wednesday
+- It's the first full day of Coastal Sail. We departed around 1100 this morning and sailed until about 1300. It seems pretty fun so far, the days are gonna be long and hot, but it seems as though theyll go fast. Today was pretty uneventful overall, more to report tomorrow.
+*** 2023-07-07 Friday
+- Spent all of today motoring, most of it through fog. Yesterday was really foggy too, but I was standin on the bow for lookout, so it seemd to go by faster. Today I was at the Helm, and everything seemed to drag on. So far the trip has been really fun. I enjoy being on the boat, sailing is a blast and we're all having a good time.  At the same time, I can feel myself slowlylosing patience. I can tell that CDR is somewhat irritated with the trip in general (justifiably, this is his fourth sortie) but he seems to be taking that out on us at times. Everyone else on the boat has been great, but Genevieve freaking Brewer chooses to act like a damn child - spoiled, pretentious, and bratty. Hopefully I can make it through this trip without absolutely losing my mind on someone.
+*** 2023-07-08 Saturday
+- I was the Navigator today, coming into Nantucket. I absolutely loved it there. The town was gorgeous, cobblestone streets and cute houses. We ended up getting seperated from the larger group since I didn't want to feel like going to the beach, so Joe and I  went to get seafood. I had Pork and Octupus, which ended up being amazing. Walked around with a larger group after that and ended up having a great time.
+*** 2023-07-09 Sunday
+- I was watch captain today, which went pretty well. Rough start to the day - our toilet exploded on us and CDR had to spend almost 2 hours fixing it. We motored the whole way to Hyannis and I drove us into port. Stressful, buta rewarding experience. We went out to dinner as a boat tonight (just the cadets). Ronnie had a huge margarita, so she was hilarious. Thats one of the first times I've felt like a normal college kid. It felt great to feel included and it felt as though I was actuallty a part of the group. My oscial battery ran out on the walk back, but I was able to enjoy a nice quiet walk. Hyannis seems like a really cute little town. Saw a video of Stephen Colbert today that I thought was really insightful - [[id:6bae3321-927a-415d-ab9b-2554a92809f4][Stephen Colbert Video]]
+*** 2023-07-10 Monday
+- I had a great day today. We actually sailed today, which was fun. The sea was pretty rough though, and the wind was steady on about 20 knots, gusting up to 30 ish. That meant that pretty much everyone except me and luke got seasick (thank God for Dramamine). Needless to say, I think I was the only one who actually enjoyed today. Riding the waves was a blast, and even though it took us a long ass time, I really enjoyed being able to really sail in strong winds. It didn't help that CDR decided to play his music (Irish music) the whole time - everyone except me and maybe Cohen thought the music was really stupid.
+*** 2023-07-11 Tuesday
+- Today was rough. My patience for the trip is entirely gone, and if I have to deal with Genevieve and her complete idiocy any longer than I have to, I might actually lose it. I basically sat in silence the whole time, which I really enjoyedf, but I kept getting CDR asking me if I was ok, which was a little irritating. All in all not a great day, but not really for any particular reason.
+*** 2023-07-15 Saturday
+- This is the last day before I become an official Cadre.
+- I'm really nervous, but I'so really excited.
+- I feel as though everything this summer has lead up to this point, from [[id:931e43fe-6dcc-4d9c-9d16-0ea69410878f][MCTC]] to [[id:21c174c9-aa20-4cc4-9f11-e452d7b31f38][CGCYBER]] to everything else we've done.
+- I really hope I do well over these next few weeks, and I want to make sure that I focus on being a symbol for these kids.
+- I want to ensure that when they look at me during the school year, they still see a Cadre, and not the regular 2nd class behavior that I've been used to these last few years.
+*** 2023-07-16 Sunday
+- The first day of Swab Summer. Honestly it's a little surreal. I vividly remember being a swab 2 years ago, and it sounds insane even thinking that that was 2 years ago already. Forrest said this would come naturally, and he was right. I was terrified all day leading up to the change of command, but once it came I just sort of fell into the mindset. I haven't really gotten a feel for the swabs yet. They all seem decent to me, but supposedly there are a few problems in there. We'll see. I'm not that tired yet, but if I keep up the sleep schedule that it looks like I'll have to, then I'll definitely be tired very soon.
+*** 2023-07-17 Monday
+- Second day of swab summer. I'm nervous but at the same time I'm not - there's no real time to be nervous. I do feel ready though, which is a nice change. I actually think I might be ok at this.
+*** 2023-07-18 Tuesday
+- Third day of Swab Summer. My voice is completely gone - I need to pace myself a little better. I had my first drill practice yesterday - it did not go well. I was unprepared and disorganized. The whole thing was a little bit of a shit show.
+- Hopefully I'll do better in the future, but while I was taking the chit swabs to a training, I did get to have a good chat with Swab Marshall, who I think I like; he seems like a good kid.
+*** 2023-07-19 Wednesday
+- Yesterday was rough. We had our first actual ICE session, and I think I've figured out that I have to take a step back sometimes. I did no good at the ICE session yesterday, and I could have skipped it entirely. The same is true for other evolutions. I need to make sure that I'm pacing myself for when I'm needed, so that I'm not burnt out when everyone else needs me to do something.
+- I also want to re-evaluate what type of cadre I want to be. So far I've been like magnum, very loud, but ofcusing on minue details of brace. I think I want to quieten a little, and focus on teaching and using dissapointment instead of anger.
+*** 2023-07-20 Thursday
+- Today was relatively average. I don;t know why, but it didn't feel particularly good. I felt like today was a bad day even though nothing really happened.
+*** 2023-07-28 Friday
+- We had range week this week - it's been pretty slow. We shot; I didn't do very well. I'm not really sure how to go about this - I want to start journaling better, but I don't really know how. Maybe the prompts are the answer? I honestly don't feel as though I'm getting much from this... but I don't know how to make it better.
+*** 2023-07-29 Saturday
+- The swabs come back tomorrow. Not really excited for that. I feel as though most of them don't really want to be here. I genuinely don't understand why most of them don't seem to want to show effort... When I came here, I may not have been the best swab, but I know I demonstrated enough effort to make it clear that I wanted to be here.
+*** 2023-07-31 Monday
+- We had a senator come into the wing area and talk to the swabs today. He basically said what we've been saying, and the main reason for him being there was PR, but it was still interesting. It was nice to see someone else talk about the fact that we have to work, and push to make sure we earn our spot here. I need to work on remembering that I chose to be here, and it will all be worth it eventually.
+** 2023-08 August
+*** 2023-08-14 Monday
+- Today was the first day of CAP week. Ending swab summer is weird - Im glad it's over (it was a ton of work and I was exhausted all the time) but at the same time it was so fun and definitely rewarding. I finished my [[id:57f488c1-8167-4b2c-aa54-fa0e044926ae][Cadre Summer Bullets]] today - I think they were decent. Im honestly not sure how "good" of a cadre I was. I think I did a decent job making them feel comfortable at the academy, but Im not sure I did as good of a job actually teaching them. IDK, well see. Either way Im glad its over and Im excited for a new semester.
+** 2023-09 September
+*** 2023-09-12 Tuesday
+- This is the first entry in a while. I've made a fair amount of progress creating a workflow that actually works for me. On the other hand, school is in full swing and I'm really not enjoying my classes so far. [[id:52790acd-48e1-4cb3-b69f-559a36412326][Antennas and Propogation]] and [[id:328fd59f-4054-4369-9410-3e03cb620b8e][Linear Circuits]] both /SUCK/. They are everything I despise about Electrical Engineering - convoluted, confusing, and seemingly pointless. On the other hand, I'm really enjoying [[id:80edeaf5-f295-4806-9fb1-0ba8a23f0c49][Operating Systems]] and [[id:15a5db25-60e9-46c2-b5cd-e8c2ccde3dae][Probability Theory]]. They're subjects that actually interest me, and I'm having a great time nerding out about linux in OS. Despite the fact that this year has about half the coursework I had last semester, I feel remarkably more depressed than last year. On top of that is the fact that relationships and emotions just /suck/. I've started developing feelings for Sydney (Phipps) and I don't really know what to do. I don't feel as if she returns that feeling, but we've been getting closer and I'm not entirely sure how to move forward. 
 * 2024
+** 2024-02 February
+*** 2024-02-24 Saturday
+- Today was long. Saturday; supposed to be a day for relaxation. Reflection. Decompressing from a week of work and stress.
+- Today felt like a chore. I felt as though next week had already started. It felt as though I were already burdened with the weights and stresses of the upcoming week.
+- 
+- I played videogames with Forrest and Magnum today - it should have been a fun, enjoyable day.
+- Instead, I spent almost every moment thinking about how I /should/ be spending my time - preparing for an exam on monday.
+- 
+- Does this end when I graduate? I won't have assignments, I won't have exams, I won't have so many deadlines and due dates as I do now.
+- But I also won't have as many friends. Here, I'm surrounded by people I know. I have two roomates who, even though they frustrate and irritate me, I enjoy spending time with.
+- What do I do in a years time when I graduate and suddenly I'm all alone?
+- 
+- I watched two videos today.
+- [[id:cadf0a39-dedf-4965-8ceb-74f633834a40][Je Te Laisserai Des Mots]] - a cover of such an amazingly beautiful song, using the words to the song as it was originally written.
+- It emphasizes taking note of the small things. Caring for someone and the small actions that come with that. It's such a sad song, but it perfectly conveys the affection and love that you feel and the deep attatchment you feel for someone that you feel for.
+- 
+- [[id:6304a6a6-8473-4e9c-a13a-7f0989ae516f][The Morning After I Killed Myself]] - a wonderful poem, sad and reflective. Regretful.
+- The poem is delivered from the point of view of one who has committed suicide, and the morning after, wakes up and sees the beautiful things in the world that they are leaving behind.
+- The poem ends "The morning after I killed myself, I tried to unkill myself, but couldn't finish what I had started."
+- There are always parts of our life that seem as though they are going to be the end - the end of happiness, the end of peace, the end of certainty.
+- Despite that there is always beauty to our lives, and its that beauty that is the reason we are here.  
 ** 2024-04 April
 *** 2024-04-11 Thursday
 - 07:27    This is my first capture. Testing out the new system.
