@@ -34,8 +34,6 @@
  :PROPERTIES:
  :DESCRIPTION: Architectural Design
  :END:
-** TEST Nav Exam
- DEADLINE: <2024-04-16 Mon>
 * Appointments
 
 * Schedule :Appointment:

@@ -2397,3 +2397,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-04-16 Tue 06:36]
  :END:
 
+
+* DONE Nav Exam
+ CLOSED: [2024-04-17 Wed 15:19] DEADLINE: <2024-04-16 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-17 Wed 15:19
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-04-17 Wed 15:19]
+ :END:
+
