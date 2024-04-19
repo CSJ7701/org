@@ -8,9 +8,13 @@
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJetJ7nDNLlEzDLXv7KIo0w" title="Gavin Freeborn"/>
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ" title="System Crafters"/>
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" title="NetworkChuck"/>
+    <outline xmlUrl="https://sachachua.com/blog/feed/index.xml" title="Sacha Chua"/>
+    <outline xmlUrl="https://planet.emacsen.org/atom.xml" title=""/>
+    <outline xmlUrl="https://ergoemacs.org/emacs/blog.xml" title=""/>
+    <outline xmlUrl="https://pragmaticemacs.com/feed/" title=""/>
+    <outline xmlUrl="https://www.reddit.com/r/orgmode/.rss" title="Org-mode"/>
+    <outline xmlUrl="https://bbs.archlinux.org/extern.php?action=feed&amp;fid=23&amp;type=atom" title="Arch Linux Forums / Newbie Corner"/>
     <outline xmlUrl="https://www.pewresearch.org/feed" title="Pew Research Center"/>
-    <outline xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" title="NYT &gt; Top Stories"/>
-    <outline xmlUrl="https://www.washingtonpost.com/arcio/rss/category/politics/?itid=lk_inline_manual_2" title="Washington Post"/>
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTrSsPMmZavLbc3Ex7VhjDg" title="Brandon Herrera"/>
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBvc7pmUp9wiZIFOXEp1sCg" title="DemolitionRanch"/>
     <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSp2nvM27htoOTD1Cq05N5g" title="Colm R. McGuinness"/>
