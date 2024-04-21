@@ -23,8 +23,6 @@
 * Study
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
-** QUIZ Quiz 9                                                    :Controls:
- DEADLINE: <2024-04-19 Fri 13:00>
 ** QUIZ Quiz 10                                                   :Controls:
  DEADLINE: <2024-04-26 Fri 13:00>
 ** QUIZ Quiz 10                                        :SoftwareEngineering:
