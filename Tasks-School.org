@@ -13,6 +13,12 @@
  DEADLINE: <2024-04-23 Tue 08:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
+** HOMEWORK Finishe Settings Tab
+ DEADLINE: <2024-04-25 Thu>
+** HOMEWORK DSP Finished Paper
+ DEADLINE: <2024-05-01 Wed>
+** HOMEWORK Discrete Project
+ DEADLINE: <2024-04-29 Mon>
 * Project
 ** PROJECT Project Demos                               :SoftwareEngineering:
  DEADLINE: <2024-04-25 Thu>
