@@ -2482,3 +2482,31 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "QUIZ"       [2024-04-23 Tue 18:17]
  :END:
 
+
+* DONE SE Project Finalized 
+ CLOSED: [2024-04-24 Wed 12:51] DEADLINE: <2024-04-22 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-24 Wed 12:51
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Project
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "PROJECT"    [2024-04-24 Wed 12:51]
+ :END:
+
+
+* DONE Finishe Settings Tab
+ CLOSED: [2024-04-24 Wed 12:51] DEADLINE: <2024-04-25 Thu>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-24 Wed 12:51
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-24 Wed 12:51]
+ :END:
+
