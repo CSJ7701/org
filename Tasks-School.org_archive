@@ -2439,3 +2439,46 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "QUIZ"       [2024-04-21 Sun 08:19]
  :END:
 
+
+* DONE Pre Lab 6 Quiz Due                                          :Controls:
+ CLOSED: [2024-04-23 Tue 18:16] DEADLINE: <2024-04-23 Tue 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-23 Tue 18:16
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-23 Tue 18:16]
+ :END:
+
+
+* DONE Quiz 10                                          :SoftwareEngineering:
+ CLOSED: [2024-04-23 Tue 18:16] DEADLINE: <2024-04-22 Mon 14:00>
+ :PROPERTIES:
+ :DESCRIPTION: Architectural Design
+ :ARCHIVE_TIME: 2024-04-23 Tue 18:16
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-04-23 Tue 18:16]
+ :END:
+
+
+* DONE Quiz 10                                                     :Controls:
+ CLOSED: [2024-04-23 Tue 18:17] DEADLINE: <2024-04-26 Fri 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-23 Tue 18:17
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "QUIZ"       [2024-04-23 Tue 18:17]
+ :END:
+

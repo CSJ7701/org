@@ -8,9 +8,7 @@
  :END:
 
 ** HOMEWORK Lab 5 Due                                             :Controls:
- DEADLINE: <2024-04-23 Tue 13:00>
-** HOMEWORK Pre Lab 6 Quiz Due                                    :Controls:
- DEADLINE: <2024-04-23 Tue 08:00>
+ DEADLINE: <2024-04-30 Tue 13:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
  DEADLINE: <2024-04-30 Tue 13:00>
 ** HOMEWORK Finishe Settings Tab
@@ -29,13 +27,6 @@
 * Study
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
-** QUIZ Quiz 10                                                   :Controls:
- DEADLINE: <2024-04-26 Fri 13:00>
-** QUIZ Quiz 10                                        :SoftwareEngineering:
- DEADLINE: <2024-04-22 Mon 14:00>
- :PROPERTIES:
- :DESCRIPTION: Architectural Design
- :END:
 * Appointments
 
 * Schedule :Appointment:
