@@ -15,14 +15,24 @@
  DEADLINE: <2024-05-01 Wed>
 ** HOMEWORK Discrete Project
  DEADLINE: <2024-04-29 Mon>
+** TEST MWO Final
+ DEADLINE: <2024-05-08 Wed 07:50>
+** HOMEWORK Discrete Quiz
+ DEADLINE: <2024-04-29 Mon>
 * Project
-** PROJECT Project Demos                               :SoftwareEngineering:
- DEADLINE: <2024-04-25 Thu>
 ** PROJECT dictionary.get() for Music Classification
  DEADLINE: <2024-04-17 Wed>
 * Study
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
+** TEST Discrete Final
+ DEADLINE: <2024-05-06 Mon 07:50>
+** TEST DSP Final
+ DEADLINE: <2024-05-06 Mon 12:15>
+** TEST Controls Final
+ DEADLINE: <2024-05-07 Tue 07:50>
+** TEST Software Engineering Final
+ DEADLINE: <2024-05-09 Thu 12:15>
 * Appointments
 
 * Schedule :Appointment:
