@@ -8,7 +8,5 @@
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
 * Appointments                                            :Appointments:
-** PIck Up SDW Pants 
- SCHEDULED: <2024-04-26 Fri>
 * Reminders
 

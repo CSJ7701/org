@@ -20,8 +20,12 @@
 ** HOMEWORK Discrete Quiz
  DEADLINE: <2024-04-29 Mon>
 * Project
-** PROJECT dictionary.get() for Music Classification
- DEADLINE: <2024-04-17 Wed>
+** CANC dictionary.get() for Music Classification
+ CLOSED: [2024-04-27 Sat 09:46] DEADLINE: <2024-04-17 Wed>
+ :LOGBOOK:
+ - State "CANC"       from "PROJECT"    [2024-04-27 Sat 09:46]
+ :END:
+
 * Study
 ** TEST Exam 4                                                         :MWO:
  SCHEDULED: <2024-05-01 Wed 08:00>
