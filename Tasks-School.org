@@ -17,8 +17,6 @@
  DEADLINE: <2024-04-29 Mon>
 ** TEST MWO Final
  DEADLINE: <2024-05-08 Wed 07:50>
-** HOMEWORK Discrete Quiz
- DEADLINE: <2024-04-29 Mon>
 * Project
 ** CANC dictionary.get() for Music Classification
  CLOSED: [2024-04-27 Sat 09:46] DEADLINE: <2024-04-17 Wed>

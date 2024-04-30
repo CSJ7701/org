@@ -2524,3 +2524,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "PROJECT"    [2024-04-25 Thu 15:41]
  :END:
 
+
+* DONE Discrete Quiz
+ CLOSED: [2024-04-30 Tue 10:28] DEADLINE: <2024-04-29 Mon>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-04-30 Tue 10:28
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-04-30 Tue 10:28]
+ :END:
+
