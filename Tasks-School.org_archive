@@ -2538,3 +2538,17 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-04-30 Tue 10:28]
  :END:
 
+
+* DONE Exam 4                                                           :MWO:
+ CLOSED: [2024-05-01 Wed 07:56] SCHEDULED: <2024-05-01 Wed 08:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-01 Wed 07:56
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-01 Wed 07:56]
+ :END:
+
