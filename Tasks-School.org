@@ -8,13 +8,9 @@
  :END:
 
 ** HOMEWORK Lab 5 Due                                             :Controls:
- DEADLINE: <2024-04-30 Tue 13:00>
+ DEADLINE: <2024-05-05 Sun 13:00>
 ** HOMEWORK Lab 6 Due                                             :Controls:
- DEADLINE: <2024-04-30 Tue 13:00>
-** HOMEWORK DSP Finished Paper
- DEADLINE: <2024-05-01 Wed>
-** HOMEWORK Discrete Project
- DEADLINE: <2024-04-29 Mon>
+ DEADLINE: <2024-05-05 Sun 13:00>
 ** TEST MWO Final
  DEADLINE: <2024-05-08 Wed 07:50>
 * Project
