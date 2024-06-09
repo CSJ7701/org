@@ -7,12 +7,6 @@
  - State "CANC"       from "HOMEWORK"   [2024-04-08 Mon 08:00]
  :END:
 
-** HOMEWORK Lab 5 Due                                             :Controls:
- DEADLINE: <2024-05-05 Sun 13:00>
-** HOMEWORK Lab 6 Due                                             :Controls:
- DEADLINE: <2024-05-05 Sun 13:00>
-** TEST MWO Final
- DEADLINE: <2024-05-08 Wed 07:50>
 * Project
 ** CANC dictionary.get() for Music Classification
  CLOSED: [2024-04-27 Sat 09:46] DEADLINE: <2024-04-17 Wed>
@@ -21,14 +15,6 @@
  :END:
 
 * Study
-** TEST Discrete Final
- DEADLINE: <2024-05-06 Mon 07:50>
-** TEST DSP Final
- DEADLINE: <2024-05-06 Mon 12:15>
-** TEST Controls Final
- DEADLINE: <2024-05-07 Tue 07:50>
-** TEST Software Engineering Final
- DEADLINE: <2024-05-09 Thu 12:15>
 * Appointments
 
 * Schedule :Appointment:

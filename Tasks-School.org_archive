@@ -2580,3 +2580,101 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "HOMEWORK"   [2024-05-03 Fri 14:39]
  :END:
 
+
+* DONE Lab 5 Due                                                   :Controls:
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-05 Sun 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE Lab 6 Due                                                   :Controls:
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-05 Sun 13:00>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "HOMEWORK"   [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE Discrete Final
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-06 Mon 07:50>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE DSP Final
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-06 Mon 12:15>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE Controls Final
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-07 Tue 07:50>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE MWO Final
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-08 Wed 07:50>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
+ :END:
+
+
+* DONE Software Engineering Final
+ CLOSED: [2024-05-19 Sun 20:42] DEADLINE: <2024-05-09 Thu 12:15>
+ :PROPERTIES:
+ :ARCHIVE_TIME: 2024-05-19 Sun 20:42
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Study
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: DONE
+ :END:
+ :LOGBOOK:
+ - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
+ :END:
+
