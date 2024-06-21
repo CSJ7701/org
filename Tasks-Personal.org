@@ -10,6 +10,9 @@
 
 ** TODO Venmo Request Dan, Bully Evan
 
+** TODO Rearrange Boxes at the back of Office
+ [[file:~/roam/20240621093627-az_900_azure_fundamentals.org::*Identify the Benefits of Cloud Computing - \[\[https://youtu.be/VaMdHKJQ15c&t=16m16s\]\[video\]\]][Identify the Benefits of Cloud Computing - video]]
+
 * Appointments                                            :Appointments:
 * Reminders
 
