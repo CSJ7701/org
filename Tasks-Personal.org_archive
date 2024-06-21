@@ -151,3 +151,18 @@ CLOSED: [2024-04-18 Thu 12:10]
  - State "DONE"       from "TODO"       [2024-04-27 Sat 09:49]
  :END:
 
+
+* DONE Journal Daily 
+CLOSED: [2024-06-20 Thu 18:25]
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-06-20 Thu 18:26
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "GOAL"       [2024-06-20 Thu 18:25]
+:END:
+  [2023-06-28 Wed 22:26]
+
