@@ -13,6 +13,12 @@
 ** TODO Rearrange Boxes at the back of Office
  [[file:~/roam/20240621093627-az_900_azure_fundamentals.org::*Identify the Benefits of Cloud Computing - \[\[https://youtu.be/VaMdHKJQ15c&t=16m16s\]\[video\]\]][Identify the Benefits of Cloud Computing - video]]
 
+** TODO Recipe Book
+- Should be able to export to a fully formatted pdf.
+- Should be able to search for recipes by name, tag, etc
+- Edit the existing capture templates to include asking user for tags
+- When searching, should be able to select a recipe. Either export that recipe to a pdf, or grab a list of ingredients
+
 * Appointments                                            :Appointments:
 * Reminders
 
