@@ -1,4 +1,4 @@
-* Sourdough Lemon Cake
+* Sourdough Lemon Cake                                    :Dessert:Sourdough:
   :PROPERTIES:
   :source-url: https://littlespoonfarm.com/sourdough-lemon-cake-recipe/
   :servings: 12
@@ -33,3 +33,110 @@
 7. Pour batter into loaf pan until about 3/4 full. Monitor for about 5 minute to ensure it does not overflow.
 8. Bake on center rack for 55-60 minutes, or until a toothpick comes clean.
 9. Gradually mix 2 Tbsp Lemon Juice into sifted powdered sugar.
+* Easy Chicken and Stuffing Bake                                :Dinner:Easy:
+:PROPERTIES:
+:source-url: https://www.allrecipes.com/easy-chicken-and-stuffing-bake-recipe-8401927
+:servings: [3]
+:prep-time: 10 minutes
+:cook-time: 50 minutes
+:ready-in: 70 minutes
+:END:
+** Ingredients
+
+- 4 boneless skinless chicken breasts
+- 1 (10.5 ounce) can cream of chicken soup
+- 8 ounces sour cream
+- 1 (1.4 ounce) packet dried French onion soup mix
+- 1/2 teaspoon freshly ground black Pepper
+- 1 (6 ounce) box dried stuffing mix, such as Stovetop® Savory Herb Stuffing Mix
+- 3/4 cup chicken broth
+- 5 tablespoons butter, sliced into 8 to 10 pieces
+- 1 tablespoon chopped fresh parsley, or to taste
+** Directions
+
+1. Preheat the oven to 350 degrees F (180 degrees C). Lightly grease a casserole dish and arrange chicken in a single layer.
+2. Stir soup, sour cream, and onion soup mix together in a bowl and spread evenly over chicken. Sprinkle with pepper.  
+3. Combine stuffing mix and chicken broth in a bowl. Spread stuffing mixture over chicken and top with pats of butter.
+4. Bake in the preheated oven until golden and bubbly, and chicken is no longer pink at the center, 50 to 60 minutes. An instant-read thermometer inserted into the center of chicken should read at least 165 degrees F (74 degrees C).
+5. Let stand 10 minutes; sprinkle with parsley. To serve, place chicken and stuffing on individual plates and spoon over about 1/4 cup of gravy from the casserole dish.
+* One-Pot Sausage and Peppers                        :Dinner:Easy:RiceCooker:
+:PROPERTIES:
+:source-url: https://www.allrecipes.com/one-pot-rice-cooker-sausage-and-peppers-recipe-8363245
+:servings: [2]
+:prep-time: Unknown
+:cook-time: Unknown
+:ready-in: 35 minutes
+:END:
+** Ingredients
+
+- 3/4 cup uncooked long-grain white rice
+- 3/4 cup chicken broth
+- 3/4 cup canned fire-roasted diced tomatoes (from 1 [ 14.5-oz.] can) 
+- 2 medium garlic cloves, finely chopped (about 2 tsp.)
+- 2 tsp. Creole seasoning (such as Tony Chachere’s)
+- 1/4 tsp. black pepper
+- 1/4 tsp. cayenne pepper (optional) 
+- 1 cup chopped green bell pepper (from 1 small 7 oz. pepper)
+- 1/3 cup chopped white onion (from 1 small 6 oz. white onion)
+- 6 oz. andouille sausage, sliced into 1/4-inch-thick coins (about 1 1/4 cups)
+- Sliced scallions
+** Directions
+
+1. Gather all ingredients.
+2. Rinse rice under cold running water until water runs clear, about 1 minute. Drain well and transfer to bowl of a rice cooker.
+3. Stir in broth, tomatoes, garlic, Creole seasoning, pepper, and cayenne (if using).
+4. Layer chopped bell pepper and onion on top, then place sliced sausage on top.
+5. Place rice cooker bowl in rice cooker, switch rice cooker on, and cook according to manufacturer&#39;s directions until rice cooker switches itself off.
+6. Carefully remove bowl from rice cooker, fluff rice with a fork and stir all ingredients together.
+7. Cover bowl with a lid or plate and set aside to steam for 5 minutes.
+8. Divide rice mixture between two bowls and garnish with sliced scallions.
+* Shortcut Chicken Enchiladas                                   :Dinner:Easy:
+:PROPERTIES:
+:source-url: https://www.foodnetwork.com/recipes/food-network-kitchen/shortcut-chicken-enchiladas-3566075
+:servings: 4 to 6 servings
+:prep-time: Unknown
+:cook-time: Unknown
+:ready-in: Unknown
+:END:
+** Ingredients
+
+- One 15-ounce can refried beans (about 1 cup)
+- 1/2 teaspoon dried oregano
+- 12 ounces (3 cups) shredded Monterey Jack cheese 
+- 1/2 rotisserie chicken, meat shredded (about 2 1/4 cups), bones and skin discarded 
+- Freshly ground black pepper
+- One 16-ounce jar medium-spicy tomato salsa
+- Twelve 6-inch corn tortillas
+- Sour cream and pickled jalapenos, for serving
+** Directions
+
+1. Preheat the oven to 375 degrees F. Stir together the beans, oregano and 1 cup cheese in a bowl. Add the chicken, season with pepper and stir until evenly combined.
+2. Stir the salsa together with 1 cup water in a bowl, then transfer 1 cup to cover the bottom of a 9-by-13-inch baking dish. Stack the tortillas, wrap them in damp paper towels and microwave until warm and pliable, about 15 seconds. 
+3. Arrange the tortillas on a workspace, then divide the chicken filling among the tortillas (about 1/4-cup filling per tortilla). Roll the tortillas up like a cigar, then transfer them to the baking dish seam-side down, positioning the rolls so that the dish is filled evenly. Press the rolls gently with your hands so they begin to soak the sauce up. Pour the remaining salsa mixture over the rolled tortillas, then sprinkle with the remaining 2 cups cheese. 
+4. Bake the enchiladas until the cheese melts and the enchiladas are hot in the center, about 30 minutes. Serve hot with sour cream and pickled jalapenos.
+* Alfredo Shrimp Scampi Dump Dinner                             :Dinner:Easy:
+:PROPERTIES:
+:source-url: https://www.foodnetwork.com/recipes/food-network-kitchen/alfredo-shrimp-scampi-dump-dinner-5500650
+:servings: 4 servings
+:prep-time: Unknown
+:cook-time: Unknown
+:ready-in: Unknown
+:END:
+** Ingredients
+
+- 4 tablespoons unsalted butter, cut into 1/2-inch cubes, plus more for the casserole dish
+- 12 ounces rotini pasta
+- 1 pound frozen peeled and deveined medium shrimp 
+- 2 cups chicken broth
+- 1/4 teaspoon red pepper flakes
+- 2 cloves garlic, minced
+- Zest of 1/2 lemon
+- Kosher salt and freshly ground black pepper
+- 1/2 cup grated Parmesan 
+- 1/3 cup loosely packed fresh parsley, chopped 
+- 1/2 cup heavy cream, warmed
+** Directions
+
+1. Preheat the oven to 425 degrees F. Generously grease the bottom and sides of a 9-by-13-inch casserole dish with butter.
+2. Spread the rotini in an even layer in the bottom of the prepared dish. Scatter the shrimp over top and dot with the cubes of butter. Pour in the broth, then sprinkle with the red pepper flakes, garlic, lemon zest, 2 teaspoons salt and some black pepper. Cover with aluminum foil and bake until the pasta is al dente, about 25 minutes.
+3. Meanwhile, in a small bowl, toss together the Parmesan and parsley. When the pasta is done, stir in the warm cream and top with the cheese mixture.
