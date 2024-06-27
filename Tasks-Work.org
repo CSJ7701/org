@@ -1,5 +1,8 @@
 * Inbox
 
+** TODO Check Navy Schedule
+ [[file:~/roam/20240621093627-az_900_azure_fundamentals.org::*Benefits and Usage of Management Groups - \[\[https://youtu.be/bPdDiEtCVhM&t=6m30s\]\[video\]\]][Benefits and Usage of Management Groups - video]]
+
 * Duty
 
 

@@ -6,8 +6,6 @@
 ** TODO Pay into IRA 
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
-** TODO Update Phase 1 Expenses
-
 ** TODO Venmo Request Dan, Bully Evan
 
 ** TODO Rearrange Boxes at the back of Office
