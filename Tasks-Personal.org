@@ -17,6 +17,15 @@
 - Edit the existing capture templates to include asking user for tags
 - When searching, should be able to select a recipe. Either export that recipe to a pdf, or grab a list of ingredients
 
+** TODO Write Latex Package for Recipes
+ [[file:~/.dotfiles/.emacs.d/modules/cooking-module.el::;; Will probably need a series of functions - i.e. cj/org-chef-export-recipe-title, cj/org-chef-export-recipe-prep-time, etc]]
+
+** TODO Write latex skeleton for recipe
+ [[file:~/.dotfiles/.emacs.d/modules/cooking-module.el::;; Will probably need a series of functions - i.e. cj/org-chef-export-recipe-title, cj/org-chef-export-recipe-prep-time, etc]]
+
+** TODO Write org-chef functions to split recipes
+ [[file:~/.dotfiles/.emacs.d/modules/cooking-module.el::;; Will probably need a series of functions - i.e. cj/org-chef-export-recipe-title, cj/org-chef-export-recipe-prep-time, etc]]
+
 * Appointments                                            :Appointments:
 * Reminders
 
