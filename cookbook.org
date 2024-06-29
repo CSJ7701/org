@@ -33,6 +33,12 @@
 7. Pour batter into loaf pan until about 3/4 full. Monitor for about 5 minute to ensure it does not overflow.
 8. Bake on center rack for 55-60 minutes, or until a toothpick comes clean.
 9. Gradually mix 2 Tbsp Lemon Juice into sifted powdered sugar.
+
+** Tips
++ This is a test
++ You should delete this later
+
+
 * Easy Chicken and Stuffing Bake                                :Dinner:Easy:
 :PROPERTIES:
 :source-url: https://www.allrecipes.com/easy-chicken-and-stuffing-bake-recipe-8401927
@@ -63,8 +69,8 @@
 :PROPERTIES:
 :source-url: https://www.allrecipes.com/one-pot-rice-cooker-sausage-and-peppers-recipe-8363245
 :servings: [2]
-:prep-time: Unknown
-:cook-time: Unknown
+:prep-time: 10 minutes
+:cook-time: 25 minutes
 :ready-in: 35 minutes
 :END:
 ** Ingredients
@@ -94,9 +100,9 @@
 :PROPERTIES:
 :source-url: https://www.foodnetwork.com/recipes/food-network-kitchen/shortcut-chicken-enchiladas-3566075
 :servings: 4 to 6 servings
-:prep-time: Unknown
-:cook-time: Unknown
-:ready-in: Unknown
+:prep-time: 20 min
+:cook-time: 30 min
+:ready-in: 50 min
 :END:
 ** Ingredients
 
@@ -118,9 +124,9 @@
 :PROPERTIES:
 :source-url: https://www.foodnetwork.com/recipes/food-network-kitchen/alfredo-shrimp-scampi-dump-dinner-5500650
 :servings: 4 servings
-:prep-time: Unknown
-:cook-time: Unknown
-:ready-in: Unknown
+:prep-time: 5
+:cook-time: 25
+:ready-in: 30
 :END:
 ** Ingredients
 
@@ -145,7 +151,7 @@
 :source-url: https://www.allrecipes.com/recipe/8398173/easy-lemon-mousse/
 :servings: [4]
 :prep-time: 10 minutes
-:cook-time: Unknown
+:cook-time: 60 minutes
 :ready-in: 70 minutes
 :END:
 ** Ingredients
