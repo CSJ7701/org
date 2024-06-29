@@ -165,23 +165,23 @@
 - 4 fresh mint leaves
 ** Directions
 
-1. Beat heavy cream in a chilled glass or metal bowl with an electric mixer until frothy. Add confectioners&#39; sugar gradually, continuing to beat until stiff peaks form, starting on low speed and increasing to high speed, for about 2 minutes; set aside.
+1. Beat heavy cream in a chilled glass or metal bowl with an electric mixer until frothy. Add confectioners sugar gradually, continuing to beat until stiff peaks form, starting on low speed and increasing to high speed, for about 2 minutes; set aside.
 2. Beat cream cheese in a bowl with an electric mixer until lump free, 1 to 2 minutes. Add the lemon curd and vanilla extract and mix until smooth and creamy, 1 to 2 minutes.
 3. Fold whipped cream into the lemon mixture until just combined. Divide mousse equally among 4 dessert dishes or ramekins. Chill for at least 1 hour before serving.
 4. Garnish with fresh berries and mint leaves.
 * Dad's Apple Crisp                                     :Dessert:Easy:Family:
   :PROPERTIES:
   :source-url:
-  :servings:
-  :prep-time:
-  :cook-time:
-  :ready-in:
+  :servings: 12
+  :prep-time: 15
+  :cook-time: 45
+  :ready-in: 60
   :END:
 ** Ingredients
-   - 5-6 Granny Smith Apples
-   - 5/4 Cups All-Purpose Flour
-   - 5/4 Cups White Sugar
-   - 5/4 Sticks Butter
+- 5 or 6 Granny Smith Apples
+- 1.25 Cups All-Purpose Flour
+- 1.25 Cups White Sugar
+- 1.25 Sticks Butter
 ** Directions
 1. Peel and Dice Apples
 2. Place into deep pyrex dish (8x8 or 9x9)
