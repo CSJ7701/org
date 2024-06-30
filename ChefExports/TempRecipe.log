@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.6.20)  29 JUN 2024 00:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.6.20)  29 JUN 2024 14:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,11 +7,7 @@ entering extended mode
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/home/csj7701/texmf/tex/latex/RecipePage.cls
-
-LaTeX Warning: You have requested document class `RecipePage',
-               but the document class provides `recipe'.
-
-Document Class: recipe 2024/06/27 Custom LaTeX class for recipes
+Document Class: RecipePage 2024/06/27 Custom LaTeX class for recipes
 (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size10.clo
@@ -415,11 +411,65 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen257
 \Gm@layoutvoffset=\dimen258
 \Gm@dimlist=\toks34
+)
+(/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
+)
+\XKV@depth=\count294
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
+(/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box116
+)
+\tc@llx=\dimen259
+\tc@lly=\dimen260
+\tc@urx=\dimen261
+\tc@ury=\dimen262
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen263
+\adjbox@Height=\dimen264
+\adjbox@Depth=\dimen265
+\adjbox@Totalheight=\dimen266
+\adjbox@pwidth=\dimen267
+\adjbox@pheight=\dimen268
+\adjbox@pdepth=\dimen269
+\adjbox@ptotalheight=\dimen270
+
+(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count295
+)
+(/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box117
+\sift@deathcycles=\count296
+\@vwid@loff=\dimen271
+\@vwid@roff=\dimen272
+)))
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count294
-\l__pdf_internal_box=\box116
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box118
 )
 (./TempRecipe.aux)
 \openout1 = `TempRecipe.aux'.
@@ -440,17 +490,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count295
-\scratchdimen=\dimen259
-\scratchbox=\box117
-\nofMPsegments=\count296
-\nofMParguments=\count297
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count298
-\MPscratchDim=\dimen260
-\MPnumerator=\count299
-\makeMPintoPDFobject=\count300
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count298
+\scratchdimen=\dimen273
+\scratchbox=\box119
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen274
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks38
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -495,32 +545,40 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-6.
+9.
 (/usr/share/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-Overfull \hbox (182.0833pt too wide) in paragraph at lines 6--35
-[][]  |   []
+Underfull \hbox (badness 4859) in paragraph at lines 9--10
+[]\OT1/cmss/m/n/10 One 15-ounce can re-fried beans
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--35
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+[]\OT1/cmss/m/n/10 One 16-ounce jar medium-spicy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 3439) detected at line 28
+ [] [] 
+ []
+
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 36.
-
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 29.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 36.
+(Font)              using `OT1/cmss/bx/n' instead on input line 29.
 
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 36.
-[2] (./TempRecipe.aux)
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 29.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./TempRecipe.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -531,22 +589,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12863 strings out of 476076
- 263600 string characters out of 5793775
- 1944187 words of memory out of 5000000
- 34783 multiletter control sequences out of 15000+600000
+ 13956 strings out of 476076
+ 282806 string characters out of 5793775
+ 1935187 words of memory out of 5000000
+ 35842 multiletter control sequences out of 15000+600000
  561252 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 116i,7n,121p,495b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,9n,121p,531b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/csj7701/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss0900.600pk
 > </home/csj7701/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.600pk>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on TempRecipe.pdf (2 pages, 40374 bytes).
+Output written on TempRecipe.pdf (1 page, 38640 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
