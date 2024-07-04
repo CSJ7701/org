@@ -4,12 +4,13 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2024-07-02 Tue .+1d>
+SCHEDULED: <2024-07-03 Wed .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-01 Mon 09:15]
+:LAST_REPEAT: [2024-07-02 Tue 09:52]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-02 Tue 09:52]
 - State "FINISHED"   from "HABIT"      [2024-07-01 Mon 09:15]
 - State "FINISHED"   from "HABIT"      [2024-06-28 Fri 22:10]
 - State "FINISHED"   from "HABIT"      [2024-06-27 Thu 08:46]
@@ -157,12 +158,13 @@ SCHEDULED: <2024-07-02 Tue .+1d>
 :END:
 
 ** HABIT Journal
-SCHEDULED: <2024-07-02 Tue .+1d>
+SCHEDULED: <2024-07-03 Wed .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-07-01 Mon 09:15]
+:LAST_REPEAT: [2024-07-02 Tue 09:52]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-02 Tue 09:52]
 - State "FINISHED"   from "HABIT"      [2024-07-01 Mon 09:15]
 - State "FINISHED"   from "HABIT"      [2024-06-28 Fri 22:10]
 - State "FINISHED"   from "HABIT"      [2024-06-27 Thu 08:46]
