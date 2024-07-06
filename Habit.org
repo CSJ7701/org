@@ -4,12 +4,13 @@
 
 * Daily
 ** HABIT Make Bed
-SCHEDULED: <2024-07-03 Wed .+1d>
+SCHEDULED: <2024-07-05 Fri .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2024-07-02 Tue 09:52]
+:LAST_REPEAT: [2024-07-04 Thu 20:34]
 :STYLE:    habit
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-04 Thu 20:34]
 - State "FINISHED"   from "HABIT"      [2024-07-02 Tue 09:52]
 - State "FINISHED"   from "HABIT"      [2024-07-01 Mon 09:15]
 - State "FINISHED"   from "HABIT"      [2024-06-28 Fri 22:10]
@@ -158,12 +159,13 @@ SCHEDULED: <2024-07-03 Wed .+1d>
 :END:
 
 ** HABIT Journal
-SCHEDULED: <2024-07-03 Wed .+1d>
+SCHEDULED: <2024-07-05 Fri .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-07-02 Tue 09:52]
+:LAST_REPEAT: [2024-07-04 Thu 20:34]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-04 Thu 20:34]
 - State "FINISHED"   from "HABIT"      [2024-07-02 Tue 09:52]
 - State "FINISHED"   from "HABIT"      [2024-07-01 Mon 09:15]
 - State "FINISHED"   from "HABIT"      [2024-06-28 Fri 22:10]
@@ -192,12 +194,13 @@ SCHEDULED: <2024-07-03 Wed .+1d>
 
 * Weekly
 ** HABIT Laundry
-SCHEDULED: <2024-07-04 Thu .+1w>
+SCHEDULED: <2024-07-11 Thu .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-06-27 Thu 08:46]
+:LAST_REPEAT: [2024-07-04 Thu 20:34]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-04 Thu 20:34]
 - State "FINISHED"   from "HABIT"      [2024-06-27 Thu 08:46]
 - State "FINISHED"   from "HABIT"      [2024-06-20 Thu 18:25]
 - State "FINISHED"   from "HABIT"      [2024-06-09 Sun 15:48]
@@ -236,12 +239,13 @@ SCHEDULED: <2024-07-04 Thu .+1w>
 :END:
 
 ** HABIT Clean
-SCHEDULED: <2024-07-04 Thu .+1w>
+SCHEDULED: <2024-07-11 Thu .+1w>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2024-06-27 Thu 08:46]
+:LAST_REPEAT: [2024-07-04 Thu 20:34]
 :END:
 :LOGBOOK:
+- State "FINISHED"   from "HABIT"      [2024-07-04 Thu 20:34]
 - State "FINISHED"   from "HABIT"      [2024-06-27 Thu 08:46]
 - State "FINISHED"   from "HABIT"      [2024-06-20 Thu 18:25]
 - State "FINISHED"   from "HABIT"      [2024-06-09 Sun 15:48]
