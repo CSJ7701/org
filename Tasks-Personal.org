@@ -18,7 +18,7 @@
 :END:
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
-** TODO Venmo Request Dan, Bully Evan
+** TODO Venmo Request Dan, Bully Evan :Tasks-Personal:
 :PROPERTIES:
 :ID:       9e571002-5d05-4d88-9cdd-e4ac92ef9b01
 :END:

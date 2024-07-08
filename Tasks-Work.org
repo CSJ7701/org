@@ -1,8 +1,11 @@
 * Inbox
-
-** TODO David's present and checks
- [[file:~/roam/20240625093105-microsoft_internship.org::*Ian Leatherman: Conversation with NCDOC][Ian Leatherman: Conversation with NCDOC]]
+:PROPERTIES:
+:ID:       2e79fdbd-15cd-4cf9-bfa7-7ca463b92eb4
+:END:
 
 * Duty
+:PROPERTIES:
+:ID:       d99785fb-5229-479b-8b95-660ef002b600
+:END:
 
 

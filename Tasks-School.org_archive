@@ -2678,3 +2678,35 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "DONE"       from "TEST"       [2024-05-19 Sun 20:42]
  :END:
 
+
+* CANC Lab 3                                                            :DSP:
+ CLOSED: [2024-07-06 Sat 09:22] DEADLINE: <2024-04-08 Mon 10:00>
+ :PROPERTIES:
+ :ID:       5a3a9f34-0234-4a22-98e2-e73b7b21dd1d
+ :ARCHIVE_TIME: 2024-07-06 Sat 09:22
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Homework
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: CANC
+ :END:
+ :LOGBOOK:
+ - State "CANC"       from "TODO"       [2024-07-06 Sat 09:22]
+ - State "CANC"       from "CANC"       [2024-07-06 Sat 09:22]
+ - State "CANC"       from "HOMEWORK"   [2024-04-08 Mon 08:00]
+ :END:
+
+
+* CANC dictionary.get() for Music Classification
+ CLOSED: [2024-04-27 Sat 09:46] DEADLINE: <2024-04-17 Wed>
+ :PROPERTIES:
+ :ID:       48fa94c5-5df3-4307-b2fd-18905b0491df
+ :ARCHIVE_TIME: 2024-07-06 Sat 09:22
+ :ARCHIVE_FILE: ~/org/Tasks-School.org
+ :ARCHIVE_OLPATH: Project
+ :ARCHIVE_CATEGORY: Tasks-School
+ :ARCHIVE_TODO: CANC
+ :END:
+ :LOGBOOK:
+ - State "CANC"       from "PROJECT"    [2024-04-27 Sat 09:46]
+ :END:
+
