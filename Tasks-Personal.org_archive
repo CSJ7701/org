@@ -258,3 +258,15 @@ CLOSED: [2024-07-01 Mon 09:16]
 :END:
  [[file:~/.dotfiles/.emacs.d/modules/cooking-module.el::;; Will probably need a series of functions - i.e. cj/org-chef-export-recipe-title, cj/org-chef-export-recipe-prep-time, etc]]
 
+
+* DONE Research activities in Seattle :Tasks-Personal:
+CLOSED: [2024-07-08 Mon 09:06]
+:PROPERTIES:
+:ID:       cc002c00-31e1-4b99-8b9a-0183a8b4765b
+:ARCHIVE_TIME: 2024-07-08 Mon 09:08
+:ARCHIVE_FILE: ~/org/Tasks-Personal.org
+:ARCHIVE_OLPATH: Inbox
+:ARCHIVE_CATEGORY: Tasks-Personal
+:ARCHIVE_TODO: DONE
+:END:
+ [[file:~/roam/20240625093105-microsoft_internship.org::*Ian Leatherman: Conversation with NCDOC][Ian Leatherman: Conversation with NCDOC]]

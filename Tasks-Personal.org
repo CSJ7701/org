@@ -2,39 +2,25 @@
 :PROPERTIES:
 :ID:       589facec-3ac0-49d5-b641-45e852e18739
 :END:
-** GOAL Research Capstone
+** TODO Research Capstone :Tasks-Personal:
 :PROPERTIES:
 :ID:       8c79b64a-3ed4-439e-9c01-83f55d64a6c5
 :END:
 
-** TODO Fix Travel 
+** TODO Fix Travel :Tasks-Personal:
 :PROPERTIES:
 :ID:       a97afb96-530c-4465-b193-bb6c5d4a4677
 :END:
 
-** TODO Pay into IRA 
+** TODO Pay into IRA :Tasks-Personal:
 :PROPERTIES:
 :ID:       5c09d5ee-8f2c-4606-a337-1348f2865202
 :END:
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
-** TODO Venmo Request Dan, Bully Evan :Tasks-Personal:
+** TODO Venmo Request Dan, Bully Evan :Tasks-Personal: :Tasks-Personal:
 :PROPERTIES:
 :ID:       9e571002-5d05-4d88-9cdd-e4ac92ef9b01
-:END:
-
-** TODO Research activities in Seattle
-:PROPERTIES:
-:ID:       cc002c00-31e1-4b99-8b9a-0183a8b4765b
-:END:
- [[file:~/roam/20240625093105-microsoft_internship.org::*Ian Leatherman: Conversation with NCDOC][Ian Leatherman: Conversation with NCDOC]]
-* Appointments                                            :Appointments:
-:PROPERTIES:
-:ID:       e25ce37c-afd1-4403-bd25-526fa266186c
-:END:
-* Reminders
-:PROPERTIES:
-:ID:       10265d72-3ee3-4c3c-a610-1d924cd1ab14
 :END:
 
 * Fireworks
