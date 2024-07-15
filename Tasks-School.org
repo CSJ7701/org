@@ -3697,15 +3697,6 @@ SCHEDULED: <2024-01-19 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-26 Fri 10:00-10:50>
-:PROPERTIES:
-:TEACHER:  LT Patrick Ledzian
-:ORG-TIMED-ALERTS: 15
-:LOCATION: M210
-:ID:       724f6ba2-c96f-4f78-939f-cd48bb3a1f86
-:END:
-
-***** Digital Signal Processing
 SCHEDULED: <2024-02-02 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian

@@ -2710,3 +2710,22 @@ CLOSED: [2024-02-13 Tue 10:12] DEADLINE: <2024-02-09 Fri 13:00>
  - State "CANC"       from "PROJECT"    [2024-04-27 Sat 09:46]
  :END:
 
+
+* DONE Digital Signal Processing
+CLOSED: [2024-07-12 Fri 08:39] SCHEDULED: <2024-01-26 Fri 10:00-10:50>
+:PROPERTIES:
+:TEACHER:  LT Patrick Ledzian
+:ORG-TIMED-ALERTS: 15
+:LOCATION: M210
+:ID:       724f6ba2-c96f-4f78-939f-cd48bb3a1f86
+:ARCHIVE_TIME: 2024-07-12 Fri 08:39
+:ARCHIVE_FILE: ~/org/Tasks-School.org
+:ARCHIVE_OLPATH: Schedule/2/c Spring Semester/Friday/Digital Signal Processing
+:ARCHIVE_CATEGORY: Tasks-School
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: Appointment
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2024-07-12 Fri 08:39]
+:END:
+
