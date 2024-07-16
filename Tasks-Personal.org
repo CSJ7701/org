@@ -23,6 +23,9 @@
 :ID:       9e571002-5d05-4d88-9cdd-e4ac92ef9b01
 :END:
 
+** TODO Register for Conn College Data Type Class
+ [[file:~/roam/20230528212846-python.org::*Print][Print]]
+
 * Fireworks
 :PROPERTIES:
 :ID:       49dbf313-0679-494a-8ee2-116ec64b65dc
