@@ -1,4 +1,3 @@
-
 * 2023
 ** 2023-05 May
 *** 2023-05-23 Tuesday
@@ -94,7 +93,7 @@
 - 
 - [[id:6304a6a6-8473-4e9c-a13a-7f0989ae516f][The Morning After I Killed Myself]] - a wonderful poem, sad and reflective. Regretful.
 - The poem is delivered from the point of view of one who has committed suicide, and the morning after, wakes up and sees the beautiful things in the world that they are leaving behind.
-- The poem ends "The morning after I killed myself, I tried to unkill myself, but couldn't finish what I had started."
+n- The poem ends "The morning after I killed myself, I tried to unkill myself, but couldn't finish what I had started."
 - There are always parts of our life that seem as though they are going to be the end - the end of happiness, the end of peace, the end of certainty.
 - Despite that there is always beauty to our lives, and its that beauty that is the reason we are here.  
 ** 2024-04 April
@@ -102,3 +101,12 @@
 - 07:27    This is my first capture. Testing out the new system.
 *** 2024-04-16 Tuesday
 - 21:45     I'm trying to get back into journaling regularly. I don't know why I find it so difficult. This week was a bit of a rollercoaster - it's nearing the end of the semester, so all of my work is adding up and it's getting a little stressful. This is the first time that I actually feel as if I managed my time somewhat well; I have been working on projects throughout the year, and making good progress, so now that it all comes due I actually feel on top of my work. It's a good feeling. We just got our summer slate - I am going to the USCGC Resolute. I have mixed feelings about that; on the one hand, I appear to actually be going out on a deployment, which is going to be awesome. On the other, I'm literally going to the sister ship for the boat I was on my 3/c summer. I really wanted an opportunity to see some variety in the Coast Guard (and I also REALLY wanted to see the pacific northwest...) but this will be a good opportunity. I will get to see more of the operational Coast Guard than I have previously, and it will be through the lens of something somewhat familiar.
+** 2024-07 July
+*** 2024-07-21 Sunday
+:PROPERTIES:
+:Rating: 2
+:END:
+
+- 06:32     Watched a video - [[id:78668bf7-2032-4f24-b908-732548870276][The Easiest Way To Journal Every Day]].
+  - I want to start journaling again
+  - I think it's important to keep an itemized record of what I did, and how I felt about it.
