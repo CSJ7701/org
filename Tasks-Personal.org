@@ -7,23 +7,23 @@
 :ID:       8c79b64a-3ed4-439e-9c01-83f55d64a6c5
 :END:
 
-** TODO Fix Travel :Tasks-Personal:
+** TODO [#B] Fix Travel :Tasks-Personal:
 :PROPERTIES:
 :ID:       a97afb96-530c-4465-b193-bb6c5d4a4677
 :END:
 
-** TODO Pay into IRA :Tasks-Personal:
+** TODO [#A] Pay into IRA :Tasks-Personal:
 :PROPERTIES:
 :ID:       5c09d5ee-8f2c-4606-a337-1348f2865202
 :END:
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
 ** TODO Register for Conn College Data Type Class
-SCHEDULED: <2024-07-24 Wed> DEADLINE: <2024-07-22 Mon>
+SCHEDULED: <2024-07-23 Tue> DEADLINE: <2024-07-23 Tue>
 :PROPERTIES:
 :ID:       1a2ffb88-fd60-4b76-82fc-f0b990d02452
 :END:
- [[file:~/roam/20230528212846-python.org::*Print][Print]]
+
 
 * Fireworks
 :PROPERTIES:
