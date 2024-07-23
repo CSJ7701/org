@@ -9,7 +9,3 @@
 :END:
 
 
-* TODO [#C] Figure out new certification
-:PROPERTIES:
-:ID:       4593785235099815781
-:END:

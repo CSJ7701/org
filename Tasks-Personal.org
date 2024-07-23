@@ -18,12 +18,11 @@
 :END:
  [[file:~/roam/20240122093540-converse.org::We can rewrite this as an if then statement: =If a real number is positive, its square root is positive= - =If a numbers square root is positive, the number is positive=]]
 
-** TODO Venmo Request Dan, Bully Evan :Tasks-Personal: :Tasks-Personal:
-:PROPERTIES:
-:ID:       9e571002-5d05-4d88-9cdd-e4ac92ef9b01
-:END:
-
 ** TODO Register for Conn College Data Type Class
+SCHEDULED: <2024-07-24 Wed> DEADLINE: <2024-07-22 Mon>
+:PROPERTIES:
+:ID:       1a2ffb88-fd60-4b76-82fc-f0b990d02452
+:END:
  [[file:~/roam/20230528212846-python.org::*Print][Print]]
 
 * Fireworks
@@ -32,22 +31,7 @@
 :LOCATION: Seattle, WA
 :END:
 <2024-07-04 Thu 21:00>--<2024-07-04 Thu 22:00>
-* TODO [#C] House repair kit - normal and soaker
-DEADLINE: <2024-07-12 Fri 13:00>
-:PROPERTIES:
-:ID:       361209218534532401
-:END:
-* TODO [#C] Look up things to do in Portsmouth
-DEADLINE: <2024-07-12 Fri 13:00>
-:PROPERTIES:
-:ID:       4460632973541020855
-:END:
 * TODO [#C] Figure out camping
 :PROPERTIES:
 :ID:       4456680961202920467
-:END:
-* TODO [#C] Check travel time
-DEADLINE: <2024-07-12 Fri 13:00>
-:PROPERTIES:
-:ID:       2488143212857312206
 :END:
