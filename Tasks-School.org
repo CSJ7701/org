@@ -41,7 +41,7 @@
 :ID:       1a01646e-832d-4a81-81ea-d6288e10bcd2
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-18 Mon 08:00-08:50>
+<2023-09-18 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
@@ -49,77 +49,77 @@ SCHEDULED: <2023-09-18 Mon 08:00-08:50>
 :ID:       aef67974-45d8-418d-990a-7bc4bccf0dcf
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-25 Mon 08:00-08:50>
+<2023-09-25 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       4c644f3e-c85f-4c70-9c9c-b10b94074c4a
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-02 Mon 08:00-08:50>
+<2023-10-02 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       77ba1202-dff3-4d65-92e7-b93febd805dd
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-09 Mon 08:00-08:50>
+<2023-10-09 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       b58d41d0-018a-4a97-b0ab-ead685c04c1b
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-16 Mon 08:00-08:50>
+<2023-10-16 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       ef0c7e68-7045-4a9f-8a1d-8978c29f68d6
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-23 Mon 08:00-08:50>
+<2023-10-23 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       cc79c17a-7638-4271-a94d-81f2536b08f0
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-30 Mon 08:00-08:50>
+<2023-10-30 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       601f0607-1de4-4182-85d0-3ff8f860002d
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-06 Mon 08:00-08:50>
+<2023-11-06 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       43142848-26f2-4c47-95b8-a1b706d6f19c
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-13 Mon 08:00-08:50>
+<2023-11-13 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       886f2817-cc96-40e0-afc4-5c729c10b713
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-20 Mon 08:00-08:50>
+<2023-11-20 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       a3bb8400-e378-43e5-bc30-a670949ab7c0
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-27 Mon 08:00-08:50>
+<2023-11-27 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       62377601-4bc7-4b96-98c9-2343a9f86c23
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-12-04 Mon 08:00-08:50>
+<2023-12-04 Mon 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
@@ -130,84 +130,84 @@ SCHEDULED: <2023-12-04 Mon 08:00-08:50>
 :ID:       b9b09ed0-9612-4410-bff1-9ef7fb04db19
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-09-18 Mon 09:00-09:50>
+<2023-09-18 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       c2c432a8-f75e-4129-b639-c41a1ce724bd
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-09-25 Mon 09:00-09:50>
+<2023-09-25 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       6e575e6e-0738-4536-90f7-425537edc7f5
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-02 Mon 09:00-09:50>
+<2023-10-02 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       3db2147d-ede1-450e-bc00-4946f9bdeecd
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-09 Mon 09:00-09:50>
+<2023-10-09 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       696bfdf7-57e5-4538-a287-02fd47004ee1
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-16 Mon 09:00-09:50>
+<2023-10-16 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       e3656287-1d5a-483e-9450-43e9567b8306
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-23 Mon 09:00-09:50>
+<2023-10-23 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       969eb913-6456-4a56-8330-21bca0e52229
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-30 Mon 09:00-09:50>
+<2023-10-30 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       db15d5ad-2b0f-46c8-a9f0-2abbf6a36aa9
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-06 Mon 09:00-09:50>
+<2023-11-06 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       688f2ebb-e259-414d-adb2-524d13fcd00e
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-13 Mon 09:00-09:50>
+<2023-11-13 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       5db26d7b-b91c-4f99-8085-f81310dc93aa
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-20 Mon 09:00-09:50>
+<2023-11-20 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       a32441dd-6d14-4698-aaba-ba9794b8db28
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-27 Mon 09:00-09:50>
+<2023-11-27 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       5cc2adae-9f03-4111-a8e2-b17783fcedca
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-12-04 Mon 09:00-09:50>
+<2023-12-04 Mon 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
@@ -218,84 +218,84 @@ SCHEDULED: <2023-12-04 Mon 09:00-09:50>
 :ID:       016f8c03-b438-41b8-ac65-bfa8c2c29cc4
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-09-18 Mon 11:00-11:50>
+<2023-09-18 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       97992b87-d3aa-467a-945f-7d22e0dcc1b7
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-09-25 Mon 11:00-11:50>
+<2023-09-25 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       423d90ef-f41c-4ec7-a718-07694d614ae8
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-02 Mon 11:00-11:50>
+<2023-10-02 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       ad167a61-4883-42dc-9f2d-3ac454f80957
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-09 Mon 11:00-11:50>
+<2023-10-09 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       d51407de-3c08-4397-9229-2610a96c41d5
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-16 Mon 11:00-11:50>
+<2023-10-16 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       7d237f5c-eda3-4b54-9a44-93576d46a551
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-23 Mon 11:00-11:50>
+<2023-10-23 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       8725f0a5-858d-4d1f-b46c-700b7ffbae6d
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-30 Mon 11:00-11:50>
+<2023-10-30 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       0b4d1f0b-6b5d-4460-9fb7-dab33b4de0a3
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-06 Mon 11:00-11:50>
+<2023-11-06 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       e9a32b49-dbc2-4292-90aa-776ebfbd24af
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-13 Mon 11:00-11:50>
+<2023-11-13 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       a3e96c07-cf43-443c-9d07-846d2167c19f
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-20 Mon 11:00-11:50>
+<2023-11-20 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       9d761a9d-14d4-4d64-820f-e25fa0610d4f
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-27 Mon 11:00-11:50>
+<2023-11-27 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
 :ID:       fcafcadf-02e7-4b67-bb21-7826af5b61b1
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-12-04 Mon 11:00-11:50>
+<2023-12-04 Mon 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -310,84 +310,84 @@ SCHEDULED: <2023-12-04 Mon 11:00-11:50>
 :ID:       8f0200a9-b00b-4b83-86e9-1ce83dacf97a
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-09-19 Tue 08:00-08:50>
+<2023-09-19 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       a26565b7-cfb6-49bf-b908-3a89c5838dac
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-09-26 Tue 08:00-08:50>
+<2023-09-26 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       2312fbb3-5ea3-49fa-bd93-ee9e03ecd534
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-03 Tue 08:00-08:50>
+<2023-10-03 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       97c31f36-4cf4-414f-930b-df4596389f2b
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-10 Tue 08:00-08:50>
+<2023-10-10 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       842fd604-2d7f-4c83-a6a9-494aef088b6b
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-17 Tue 08:00-08:50>
+<2023-10-17 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       c4d0eee3-d91d-47ea-9043-da1f87c84a5a
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-24 Tue 08:00-08:50>
+<2023-10-24 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       27c19251-01c9-4162-bac5-1a7c8e90daa2
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-31 Tue 08:00-08:50>
+<2023-10-31 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       924cd92b-9059-4a7f-bf66-12756ed9644e
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-07 Tue 08:00-08:50>
+<2023-11-07 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       99c8e241-5475-40b1-84dc-9b2aa60e3dc8
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-14 Tue 08:00-08:50>
+<2023-11-14 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       ac9a1f5e-92ae-4e21-8216-895b970ee482
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-21 Tue 08:00-08:50>
+<2023-11-21 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       2c68d374-14fc-41f7-bb9f-71e03ab679a3
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-28 Tue 08:00-08:50>
+<2023-11-28 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
 :ID:       411fe70c-57d2-49a1-9bad-18b0dd23e7d6
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-12-05 Tue 08:00-08:50>
+<2023-12-05 Tue 08:00-08:50>
 :PROPERTIES:
 :LOCATION: S133
 :TEACHER:  LT Gina Martfield
@@ -398,84 +398,84 @@ SCHEDULED: <2023-12-05 Tue 08:00-08:50>
 :ID:       47618543-cc1e-473b-ab74-1ad2ab96de8d
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-09-19 Tue 09:00-12:05>
+<2023-09-19 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       231203df-f249-4366-a0fd-919837775b57
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-09-26 Tue 09:00-12:05>
+<2023-09-26 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       15b740a5-a4e7-41f9-812f-5d1cc96138ba
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-10-03 Tue 09:00-12:05>
+<2023-10-03 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       43fa6a02-5822-40af-badf-9b735f477f3c
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-10-10 Tue 09:00-12:05>
+<2023-10-10 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       98b9103f-a3f8-446d-b35f-ad2e421dbff4
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-10-17 Tue 09:00-12:05>
+<2023-10-17 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       d4e9a87d-6d3f-465b-ace9-229acea2fbb6
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-10-24 Tue 09:00-12:05>
+<2023-10-24 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       f9a53a07-e0b7-4282-9873-053bb87178ca
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-10-31 Tue 09:00-12:05>
+<2023-10-31 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       edd5c3dd-dd1b-4f96-9f7a-823caca19f91
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-11-07 Tue 09:00-12:05>
+<2023-11-07 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       5681beaf-dc70-4b71-89b4-e35e5bcb802c
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-11-14 Tue 09:00-12:05>
+<2023-11-14 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       9a4ac090-3c5b-467e-b8ea-332b8407f691
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-11-21 Tue 09:00-12:05>
+<2023-11-21 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       65643f49-f915-4494-8101-56036b7e09c2
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-11-28 Tue 09:00-12:05>
+<2023-11-28 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
 :ID:       70e5c451-8ddd-43f9-b3bc-d70fcd5f52e9
 :END:
 ***** Operating Systems Lab
-SCHEDULED: <2023-12-05 Tue 09:00-12:05>
+<2023-12-05 Tue 09:00-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Mr. Ethan Gold
@@ -490,84 +490,84 @@ SCHEDULED: <2023-12-05 Tue 09:00-12:05>
 :ID:       b208acba-debb-456e-b47b-e39865413bfa
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-20 Wed 08:00-08:50>
+<2023-09-20 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       fecb72bc-25b1-479b-987c-797ee21611da
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-27 Wed 08:00-08:50>
+<2023-09-27 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       c11b4599-8c88-47d2-92c6-8cb2638ca597
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-04 Wed 08:00-08:50>
+<2023-10-04 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       f3fa3d5c-2219-4970-b11f-3ca143d73405
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-11 Wed 08:00-08:50>
+<2023-10-11 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       f21b5c86-afb8-4f4b-be10-422bd2946e82
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-18 Wed 08:00-08:50>
+<2023-10-18 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       ee6e1741-d5c3-4e77-bd4e-3ef4c7813437
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-25 Wed 08:00-08:50>
+<2023-10-25 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       1eb1f53e-1ece-4237-8f56-374f6fa3c7da
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-01 Wed 08:00-08:50>
+<2023-11-01 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       5871ad12-a34f-419d-82b9-c36e9de8a6f3
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-08 Wed 08:00-08:50>
+<2023-11-08 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       b4a196ee-4c51-410a-bdb3-492fbbddf8c3
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-15 Wed 08:00-08:50>
+<2023-11-15 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       fa318182-d2a7-4fba-9d3e-e11a66db6399
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-22 Wed 08:00-08:50>
+<2023-11-22 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       c095a6c6-6ba1-4ef6-a654-55c2a4312c3c
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-29 Wed 08:00-08:50>
+<2023-11-29 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
 :ID:       c8fafc82-46f6-45ef-a2c7-598c17298959
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-12-06 Wed 08:00-08:50>
+<2023-12-06 Wed 08:00-08:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Paul Crilly
@@ -578,77 +578,77 @@ SCHEDULED: <2023-12-06 Wed 08:00-08:50>
 :ID:       fac0b261-8fa0-47cc-8d7f-cb120568593f
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-09-27 Wed 09:00-09:50>
+<2023-09-27 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       3adcaada-4755-431f-868a-08633787c1a1
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-04 Wed 09:00-09:50>
+<2023-10-04 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       b0a9543d-e0d4-4b59-957b-7a45d4a5bf7f
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-11 Wed 09:00-09:50>
+<2023-10-11 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       c0bafc18-9874-4e36-8a07-7d5a32fc0d10
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-18 Wed 09:00-09:50>
+<2023-10-18 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       ba332373-3f73-4363-b9b2-b7730d0ea3d6
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-25 Wed 09:00-09:50>
+<2023-10-25 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       f8c4ad61-a029-4dec-ba9e-47f570457879
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-01 Wed 09:00-09:50>
+<2023-11-01 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       8b5023fc-4b17-4e7b-93ff-d097755c63e3
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-08 Wed 09:00-09:50>
+<2023-11-08 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       f623205d-918d-4cc0-96bf-9fc79d8e6b46
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-15 Wed 09:00-09:50>
+<2023-11-15 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       9e091660-c151-4681-81e8-87a7c2b0b007
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-22 Wed 09:00-09:50>
+<2023-11-22 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       a3691210-14b9-427b-81cc-03ccf6b89214
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-29 Wed 09:00-09:50>
+<2023-11-29 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       add4afec-2a26-48f5-9d6c-6f7910175b02
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-12-06 Wed 09:00-09:50>
+<2023-12-06 Wed 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
@@ -659,84 +659,84 @@ SCHEDULED: <2023-12-06 Wed 09:00-09:50>
 :ID:       25ea97ce-bd3c-4afa-959b-6a5ccebfd7a1
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-09-20 Wed 10:00-10:50>
+<2023-09-20 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       eff541ca-7159-4c23-9b6e-6c7027396635
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-09-27 Wed 10:00-10:50>
+<2023-09-27 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       5cd45dbe-3dd5-473f-9c1f-96ac4abf478f
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-04 Wed 10:00-10:50>
+<2023-10-04 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       8a493b36-3b8e-4f6e-8618-69c4047b2e9b
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-11 Wed 10:00-10:50>
+<2023-10-11 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       3111422a-97c5-45fe-8d6c-b3f138d55fc8
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-18 Wed 10:00-10:50>
+<2023-10-18 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       2769d0ba-2118-4a33-8440-92fe2f48523c
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-25 Wed 10:00-10:50>
+<2023-10-25 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       fc19b302-a210-493f-b5e2-6a44b1fa93ec
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-01 Wed 10:00-10:50>
+<2023-11-01 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       7d312cfd-b719-4727-9067-3d6dd7d9ed6a
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-08 Wed 10:00-10:50>
+<2023-11-08 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       cb443a04-09f6-4e0f-a5e5-b4e75cc16fd4
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-15 Wed 10:00-10:50>
+<2023-11-15 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       52a2beb8-38d0-4835-8815-aeec5d20e805
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-22 Wed 10:00-10:50>
+<2023-11-22 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       a58f5ed7-fc38-4516-a987-f61b98f04090
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-29 Wed 10:00-10:50>
+<2023-11-29 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
 :ID:       e0b22f54-c416-4c61-a7a4-8ec140041d94
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-12-06 Wed 10:00-10:50>
+<2023-12-06 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M234
@@ -747,84 +747,84 @@ SCHEDULED: <2023-12-06 Wed 10:00-10:50>
 :ID:       6a76fd71-a5e4-4802-b972-21ca27996f6b
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-09-20 Wed 11:00-11:50>
+<2023-09-20 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       1e1e7268-0a3e-415d-9c73-609c682543aa
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-09-27 Wed 11:00-11:50>
+<2023-09-27 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       72f199fe-fe07-4e85-8677-8d24f547269e
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-04 Wed 11:00-11:50>
+<2023-10-04 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       dea0647f-6e0d-40db-9c0d-5477a20ec209
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-11 Wed 11:00-11:50>
+<2023-10-11 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       b6ad4e14-5185-48ae-ab80-2b4ec50c11dd
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-18 Wed 11:00-11:50>
+<2023-10-18 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       ff9f8e15-cf35-4e47-880b-fca9e46f30e0
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-10-25 Wed 11:00-11:50>
+<2023-10-25 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       cd64b3ac-ee97-42ab-996e-fb9ecd553fec
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-01 Wed 11:00-11:50>
+<2023-11-01 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       421361c6-bbdd-4fd6-a8a6-445adba6d4f4
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-08 Wed 11:00-11:50>
+<2023-11-08 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       224e1a9d-8653-4aa4-8969-437d1cec55b0
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-15 Wed 11:00-11:50>
+<2023-11-15 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       16ccdb79-e8b0-46b9-9eb7-0d085cc9fdf0
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-22 Wed 11:00-11:50>
+<2023-11-22 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       4d6ff37a-1a9b-401d-970e-0e5871824e67
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-11-29 Wed 11:00-11:50>
+<2023-11-29 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
 :ID:       4e296f4f-44a5-43b2-b545-b0e9fdc3431b
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-12-06 Wed 11:00-11:50>
+<2023-12-06 Wed 11:00-11:50>
 :PROPERTIES:
 :LOCATION: S140
 :TEACHER:  Dr Katherine Krystinik
@@ -839,84 +839,84 @@ SCHEDULED: <2023-12-06 Wed 11:00-11:50>
 :ID:       6be592e4-3a0e-4d47-8536-4789cb2bf55b
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-09-21 Thu 08:00-08:50>
+<2023-09-21 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       ed664695-8e67-4e30-b051-a73d76ce92cf
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-09-28 Thu 08:00-08:50>
+<2023-09-28 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       11f39210-3d28-4dda-abab-add2338dc8ac
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-05 Thu 08:00-08:50>
+<2023-10-05 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       f67adb1d-8e78-47db-a1f7-520fd9cc9f09
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-12 Thu 08:00-08:50>
+<2023-10-12 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       dda9dff4-e755-4f3d-b010-25fa6a38db85
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-19 Thu 08:00-08:50>
+<2023-10-19 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       001cdddb-39ad-46be-9102-a27997f63289
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-10-26 Thu 08:00-08:50>
+<2023-10-26 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       ab29f5eb-d7ba-4caf-bed0-aa19a710cc6d
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-02 Thu 08:00-08:50>
+<2023-11-02 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       7f21fba8-3ebf-466c-be06-d80fc5dbcf68
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-09 Thu 08:00-08:50>
+<2023-11-09 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       b6a9b421-d174-4de2-b590-3da3d9ed4c55
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-16 Thu 08:00-08:50>
+<2023-11-16 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       3f9fd27e-58b3-4a36-bece-ec804ffb7e8a
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-23 Thu 08:00-08:50>
+<2023-11-23 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       3fea8c78-6dad-41dc-9a6e-d6e0b1265a48
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-11-30 Thu 08:00-08:50>
+<2023-11-30 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
 :ID:       90a8af16-ae57-4191-a6ee-497982963bfe
 :END:
 ***** Essentials of Economics
-SCHEDULED: <2023-12-07 Thu 08:00-08:50>
+<2023-12-07 Thu 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Gina Martfield
 :LOCATION: S133
@@ -927,84 +927,84 @@ SCHEDULED: <2023-12-07 Thu 08:00-08:50>
 :ID:       9020ddd4-8b1e-4cae-973b-f9739b894b27
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-09-21 Thu 09:25-12:05>
+<2023-09-21 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       284771cb-fc09-4085-b30d-f40510fb583e
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-09-28 Thu 09:25-12:05>
+<2023-09-28 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       cc780910-9085-4272-a9ec-03bb4eb93449
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-10-05 Thu 09:25-12:05>
+<2023-10-05 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       8f12b836-2a78-4dd9-a732-b70fa246179e
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-10-12 Thu 09:25-12:05>
+<2023-10-12 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       42fb05f3-d510-4dbc-936d-395abc383fa2
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-10-19 Thu 09:25-12:05>
+<2023-10-19 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       780f30b2-d6e1-42b5-a2e3-793e850c59e5
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-10-26 Thu 09:25-12:05>
+<2023-10-26 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       137b2e60-9727-4582-b951-6338b4714331
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-11-02 Thu 09:25-12:05>
+<2023-11-02 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       a2aae08d-76f5-4d6c-b911-56a02d9dc05c
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-11-09 Thu 09:25-12:05>
+<2023-11-09 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       10d34a8b-c198-4190-9ad5-2f57997d2aea
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-11-16 Thu 09:25-12:05>
+<2023-11-16 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       8f76d931-a3c0-4df4-a06f-42d468d91d13
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-11-23 Thu 09:25-12:05>
+<2023-11-23 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       82e6dd43-8784-4bd3-a130-eb176d59d214
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-11-30 Thu 09:25-12:05>
+<2023-11-30 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       9f3f966d-0c24-44e8-af0e-075e9d3171a7
 :END:
 ***** Linear Circuits Lab
-SCHEDULED: <2023-12-07 Thu 09:25-12:05>
+<2023-12-07 Thu 09:25-12:05>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
@@ -1015,84 +1015,84 @@ SCHEDULED: <2023-12-07 Thu 09:25-12:05>
 :ID:       abb79fb1-40dd-4185-8b4e-f767b02b98b0
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-09-21 Thu 13:00-15:40>
+<2023-09-21 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       ad602552-13ff-45f0-97b3-cd4365416eaf
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-09-28 Thu 13:00-15:40>
+<2023-09-28 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       0d0459a1-fd96-4fb0-b1d6-7b3b804a39c5
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-10-05 Thu 13:00-15:40>
+<2023-10-05 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       577e1acd-40f4-4d02-8587-335425b30945
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-10-12 Thu 13:00-15:40>
+<2023-10-12 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       0eafe2e1-ac46-4878-9853-8d3a62a6a13f
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-10-19 Thu 13:00-15:40>
+<2023-10-19 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       e56e5abd-8aba-4e42-976d-1629aab1d377
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-10-26 Thu 13:00-15:40>
+<2023-10-26 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       ccbdea96-ca7e-4570-81f4-c87bd89d7977
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-11-02 Thu 13:00-15:40>
+<2023-11-02 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       2b4fe3a1-6335-4cca-9449-46295453702c
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-11-09 Thu 13:00-15:40>
+<2023-11-09 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       1c8eca7d-265f-4ed2-9aef-f94c873392fd
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-11-16 Thu 13:00-15:40>
+<2023-11-16 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       21bd18fd-379e-4ab5-985d-91ea8c67a668
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-11-23 Thu 13:00-15:40>
+<2023-11-23 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       35502c20-04dc-4757-a34d-25938e7793b4
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-11-30 Thu 13:00-15:40>
+<2023-11-30 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
 :ID:       681e18be-4d45-4115-b2dc-1de7d5fe2e1f
 :END:
 ***** Antennas and Propogation Lab
-SCHEDULED: <2023-12-07 Thu 13:00-15:40>
+<2023-12-07 Thu 13:00-15:40>
 :PROPERTIES:
 :LOCATION: M213
 :TEACHER:  Dr Paul Crilly
@@ -1107,77 +1107,77 @@ SCHEDULED: <2023-12-07 Thu 13:00-15:40>
 :ID:       0643fdbb-2242-4016-9ea1-35e3f2e21847
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-22 Fri 08:00-08:50>
+<2023-09-22 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       68490018-8720-4c2e-9801-2076e5c6a22d
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-09-29 Fri 08:00-08:50>
+<2023-09-29 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       42b570be-7d12-4c3f-b8e1-c2e2da478617
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-06 Fri 08:00-08:50>
+<2023-10-06 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       f68d939d-89e4-46b5-aa9c-85eaeb2ba224
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-13 Fri 08:00-08:50>
+<2023-10-13 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       c00380e9-272a-43e4-b8f4-48f0d79ad448
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-20 Fri 08:00-08:50>
+<2023-10-20 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       f48835d7-e198-4016-8163-6f0570295911
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-10-27 Fri 08:00-08:50>
+<2023-10-27 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       ed5d94be-b3a1-439c-bbc1-cf8e0e59ef35
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-03 Fri 08:00-08:50>
+<2023-11-03 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       d3399507-5491-44c7-82fb-6517a738e9a9
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-10 Fri 08:00-08:50>
+<2023-11-10 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       5c79ad27-cead-497b-a401-a8af6ec02998
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-17 Fri 08:00-08:50>
+<2023-11-17 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       bd587fe9-62e2-4dc9-a76d-982297356092
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-11-24 Fri 08:00-08:50>
+<2023-11-24 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
 :ID:       554b2829-9bf2-4633-a4c2-6c29b43f07e8
 :END:
 ***** Antennas and Propogation
-SCHEDULED: <2023-12-01 Fri 08:00-08:50>
+<2023-12-01 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  Dr Paul Crilly
 :LOCATION: M210
@@ -1188,77 +1188,77 @@ SCHEDULED: <2023-12-01 Fri 08:00-08:50>
 :ID:       6252ba61-6a29-43c2-8bb4-a95787745537
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-09-22 Fri 09:00-09:50>
+<2023-09-22 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       62057033-b54c-4f0c-9637-16ae3e801eaa
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-09-29 Fri 09:00-09:50>
+<2023-09-29 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       398357b3-1a14-49bf-98ca-39505fa2bcbe
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-06 Fri 09:00-09:50>
+<2023-10-06 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       c4303993-22d1-4542-8026-c489a2614044
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-13 Fri 09:00-09:50>
+<2023-10-13 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       8cbba5e7-7795-45bd-a58d-16cbd511daab
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-20 Fri 09:00-09:50>
+<2023-10-20 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       f06a0303-13b8-4cb6-97ea-a179d36eeadf
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-10-27 Fri 09:00-09:50>
+<2023-10-27 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       4b9fe02c-c3b1-4f91-adbb-566702b09381
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-03 Fri 09:00-09:50>
+<2023-11-03 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       10a83b32-c6ed-407d-b988-fd695b7c3f23
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-10 Fri 09:00-09:50>
+<2023-11-10 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       7d42230e-999d-4617-b8c7-e9c8c1ad1e84
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-17 Fri 09:00-09:50>
+<2023-11-17 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       5bbb5bdb-ab1e-4f29-8c50-cc7535b29e85
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-11-24 Fri 09:00-09:50>
+<2023-11-24 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
 :ID:       3e952d96-c86c-4db3-934a-c679c52ba453
 :END:
 ***** Linear Circuits
-SCHEDULED: <2023-12-01 Fri 09:00-09:50>
+<2023-12-01 Fri 09:00-09:50>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Richard Hartnett
@@ -1269,77 +1269,77 @@ SCHEDULED: <2023-12-01 Fri 09:00-09:50>
 :ID:       f736eee5-985e-4f73-9f5f-11838c2d834b
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-09-22 Fri 10:00-10:50>
+<2023-09-22 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       93a3ef04-cace-4ff2-a4a5-81e66e6a4ab7
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-09-29 Fri 10:00-10:50>
+<2023-09-29 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       a9d650f2-0d67-4091-801f-eb4ef7799831
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-06 Fri 10:00-10:50>
+<2023-10-06 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       5ae93738-bed2-469e-901d-564ecb24c333
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-13 Fri 10:00-10:50>
+<2023-10-13 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       e5ef855d-3b9a-4b15-b63a-9769de94913e
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-20 Fri 10:00-10:50>
+<2023-10-20 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       a92e19e0-235f-46b9-ad15-95f9f7ba990f
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-10-27 Fri 10:00-10:50>
+<2023-10-27 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       2c2a3155-2c20-4320-b3a6-542c1296fb74
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-03 Fri 10:00-10:50>
+<2023-11-03 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       5dca59e5-5bbf-4c84-8443-c5c203d82654
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-10 Fri 10:00-10:50>
+<2023-11-10 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       843876c9-faf1-4bfe-b24b-45e80b6c60ac
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-17 Fri 10:00-10:50>
+<2023-11-17 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       5508ba80-6a1f-4270-a6ec-192132dbd810
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-11-24 Fri 10:00-10:50>
+<2023-11-24 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
 :ID:       2b64507a-8132-421d-9b63-f90826204221
 :END:
 ***** Operating Systems
-SCHEDULED: <2023-12-01 Fri 10:00-10:50>
+<2023-12-01 Fri 10:00-10:50>
 :PROPERTIES:
 :LOCATION: M234
 :TEACHER:  Dr Mohamed Elwakil
@@ -1350,7 +1350,7 @@ SCHEDULED: <2023-12-01 Fri 10:00-10:50>
 :ID:       63338b69-cb59-4800-8aef-2a811feea857
 :END:
 ***** Probability Theory
-SCHEDULED: <2023-09-22 Fri 11:00-11:50>
+<2023-09-22 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1358,7 +1358,7 @@ SCHEDULED: <2023-09-22 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-09-29 Fri 11:00-11:50>
+<2023-09-29 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1366,7 +1366,7 @@ SCHEDULED: <2023-09-29 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-10-06 Fri 11:00-11:50>
+<2023-10-06 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1374,7 +1374,7 @@ SCHEDULED: <2023-10-06 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-10-13 Fri 11:00-11:50>
+<2023-10-13 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1382,7 +1382,7 @@ SCHEDULED: <2023-10-13 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-10-20 Fri 11:00-11:50>
+<2023-10-20 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1390,7 +1390,7 @@ SCHEDULED: <2023-10-20 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-10-27 Fri 11:00-11:50>
+<2023-10-27 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1398,7 +1398,7 @@ SCHEDULED: <2023-10-27 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-11-03 Fri 11:00-11:50>
+<2023-11-03 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1406,7 +1406,7 @@ SCHEDULED: <2023-11-03 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-11-10 Fri 11:00-11:50>
+<2023-11-10 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1414,7 +1414,7 @@ SCHEDULED: <2023-11-10 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-11-17 Fri 11:00-11:50>
+<2023-11-17 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1422,7 +1422,7 @@ SCHEDULED: <2023-11-17 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-11-24 Fri 11:00-11:50>
+<2023-11-24 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1430,7 +1430,7 @@ SCHEDULED: <2023-11-24 Fri 11:00-11:50>
 :END:
 
 ***** Probability Theory
-SCHEDULED: <2023-12-01 Fri 11:00-11:50>
+<2023-12-01 Fri 11:00-11:50>
 :PROPERTIES:
 :TEACHER:  Dr Katherine Krystinik
 :LOCATION: S140
@@ -1452,7 +1452,7 @@ SCHEDULED: <2023-12-01 Fri 11:00-11:50>
 :ID:       3f9ce190-e05d-43f3-b556-e734d5042458
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-15 Mon 08:00-08:50>
+<2024-01-15 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1460,7 +1460,7 @@ SCHEDULED: <2024-01-15 Mon 08:00-08:50>
 :ID:       86142825-8a4d-4329-bc59-485bc152d553
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-22 Mon 08:00-08:50>
+<2024-01-22 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1468,7 +1468,7 @@ SCHEDULED: <2024-01-22 Mon 08:00-08:50>
 :ID:       a466b60e-d21a-4d47-ae2a-4f869a01ddd7
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-29 Mon 08:00-08:50>
+<2024-01-29 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1476,7 +1476,7 @@ SCHEDULED: <2024-01-29 Mon 08:00-08:50>
 :ID:       a0234a61-bf84-47e3-b972-19fd03f0a013
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-05 Mon 08:00-08:50>
+<2024-02-05 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1484,7 +1484,7 @@ SCHEDULED: <2024-02-05 Mon 08:00-08:50>
 :ID:       b41f5ec0-3d67-448f-8747-3ea75aefb239
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-12 Mon 08:00-08:50>
+<2024-02-12 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1492,7 +1492,7 @@ SCHEDULED: <2024-02-12 Mon 08:00-08:50>
 :ID:       fe222710-d0a1-4143-92b7-e8e12967f4df
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-19 Mon 08:00-08:50>
+<2024-02-19 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1500,7 +1500,7 @@ SCHEDULED: <2024-02-19 Mon 08:00-08:50>
 :ID:       20b20d26-b007-417b-a63a-c08e844285d6
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-26 Mon 08:00-08:50>
+<2024-02-26 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1508,7 +1508,7 @@ SCHEDULED: <2024-02-26 Mon 08:00-08:50>
 :ID:       980cef62-97f1-47d9-a417-104448d0dc0a
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-04 Mon 08:00-08:50>
+<2024-03-04 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1516,7 +1516,7 @@ SCHEDULED: <2024-03-04 Mon 08:00-08:50>
 :ID:       df04fbe2-c54b-44c3-8ecb-b53c6cfa916c
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-11 Mon 08:00-08:50>
+<2024-03-11 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1524,7 +1524,7 @@ SCHEDULED: <2024-03-11 Mon 08:00-08:50>
 :ID:       5495f99d-4c9e-46f3-a9c9-375d6ea1dafd
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-18 Mon 08:00-08:50>
+<2024-03-18 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1532,7 +1532,7 @@ SCHEDULED: <2024-03-18 Mon 08:00-08:50>
 :ID:       7270a317-c6a4-44fe-b1d6-fb57f6baa20a
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-25 Mon 08:00-08:50>
+<2024-03-25 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1540,7 +1540,7 @@ SCHEDULED: <2024-03-25 Mon 08:00-08:50>
 :ID:       48f71a8f-bb89-45ed-a8b9-ea54fddbb6ad
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-01 Mon 08:00-08:50>
+<2024-04-01 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1548,7 +1548,7 @@ SCHEDULED: <2024-04-01 Mon 08:00-08:50>
 :ID:       60838a37-61cc-4aff-8531-ac8c1c5d00ef
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-08 Mon 08:00-08:50>
+<2024-04-08 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1556,7 +1556,7 @@ SCHEDULED: <2024-04-08 Mon 08:00-08:50>
 :ID:       7bad1961-c674-4dac-a30f-65d85cde434b
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-15 Mon 08:00-08:50>
+<2024-04-15 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1564,7 +1564,7 @@ SCHEDULED: <2024-04-15 Mon 08:00-08:50>
 :ID:       53af54f7-5236-47de-94f9-4eab290fc48b
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-22 Mon 08:00-08:50>
+<2024-04-22 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1572,7 +1572,7 @@ SCHEDULED: <2024-04-22 Mon 08:00-08:50>
 :ID:       8c4dbc60-ed76-455e-ba20-cc7798960e81
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-29 Mon 08:00-08:50>
+<2024-04-29 Mon 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -1584,7 +1584,7 @@ SCHEDULED: <2024-04-29 Mon 08:00-08:50>
 :ID:       66c5c174-bb93-449a-85bb-280f3b3c13d2
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-15 Mon 09:00-09:50>
+<2024-01-15 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1592,7 +1592,7 @@ SCHEDULED: <2024-01-15 Mon 09:00-09:50>
 :ID:       587690ec-355d-4616-895b-96426249acbf
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-22 Mon 09:00-09:50>
+<2024-01-22 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1600,7 +1600,7 @@ SCHEDULED: <2024-01-22 Mon 09:00-09:50>
 :ID:       cabec0bf-ef2d-49e8-8d18-5326f2eaa562
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-29 Mon 09:00-09:50>
+<2024-01-29 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1608,7 +1608,7 @@ SCHEDULED: <2024-01-29 Mon 09:00-09:50>
 :ID:       b7cfee77-8ddd-4b51-863c-521bd94d41b8
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-05 Mon 09:00-09:50>
+<2024-02-05 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1616,7 +1616,7 @@ SCHEDULED: <2024-02-05 Mon 09:00-09:50>
 :ID:       ad0a5589-a0cf-4b23-888a-2e01642ed318
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-12 Mon 09:00-09:50>
+<2024-02-12 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1624,7 +1624,7 @@ SCHEDULED: <2024-02-12 Mon 09:00-09:50>
 :ID:       652c84c3-f55e-4c71-a198-0344cd2fd662
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-19 Mon 09:00-09:50>
+<2024-02-19 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1632,7 +1632,7 @@ SCHEDULED: <2024-02-19 Mon 09:00-09:50>
 :ID:       6a2102fd-188d-4ce5-91c4-6a8fd54d6320
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-26 Mon 09:00-09:50>
+<2024-02-26 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1640,7 +1640,7 @@ SCHEDULED: <2024-02-26 Mon 09:00-09:50>
 :ID:       fed245ea-d2b9-442f-b22e-0acca86e5198
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-04 Mon 09:00-09:50>
+<2024-03-04 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1648,7 +1648,7 @@ SCHEDULED: <2024-03-04 Mon 09:00-09:50>
 :ID:       b849f210-c377-4264-910e-bfd7626e209b
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-11 Mon 09:00-09:50>
+<2024-03-11 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1656,7 +1656,7 @@ SCHEDULED: <2024-03-11 Mon 09:00-09:50>
 :ID:       4d0f43e3-4e46-4add-be6d-3021f1cb6bc2
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-18 Mon 09:00-09:50>
+<2024-03-18 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1664,7 +1664,7 @@ SCHEDULED: <2024-03-18 Mon 09:00-09:50>
 :ID:       eb4187c4-b100-4f09-81b6-3c9431363067
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-25 Mon 09:00-09:50>
+<2024-03-25 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1672,7 +1672,7 @@ SCHEDULED: <2024-03-25 Mon 09:00-09:50>
 :ID:       71f7a9fd-cd54-4acf-bfad-2223dcd3b8b9
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-01 Mon 09:00-09:50>
+<2024-04-01 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1680,7 +1680,7 @@ SCHEDULED: <2024-04-01 Mon 09:00-09:50>
 :ID:       9ddd85d2-09f9-4abc-a3da-9da128cb6388
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-08 Mon 09:00-09:50>
+<2024-04-08 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1688,7 +1688,7 @@ SCHEDULED: <2024-04-08 Mon 09:00-09:50>
 :ID:       4599e359-f7cb-4cda-8a9a-52731870e262
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-15 Mon 09:00-09:50>
+<2024-04-15 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1696,7 +1696,7 @@ SCHEDULED: <2024-04-15 Mon 09:00-09:50>
 :ID:       3cff29e2-f414-475e-bf65-c61b9b11c4c7
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-22 Mon 09:00-09:50>
+<2024-04-22 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1704,7 +1704,7 @@ SCHEDULED: <2024-04-22 Mon 09:00-09:50>
 :ID:       2c9cd612-e106-45cf-9420-c12e04f6fdf1
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-29 Mon 09:00-09:50>
+<2024-04-29 Mon 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -1716,7 +1716,7 @@ SCHEDULED: <2024-04-29 Mon 09:00-09:50>
 :ID:       2209d5d8-8d6e-4e7c-97eb-dac86199b69e
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-15 Mon 10:00-10:50>
+<2024-01-15 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1724,7 +1724,7 @@ SCHEDULED: <2024-01-15 Mon 10:00-10:50>
 :ID:       8e53862a-aaf5-4df3-9e45-568caef38d28
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-22 Mon 10:00-10:50>
+<2024-01-22 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1732,7 +1732,7 @@ SCHEDULED: <2024-01-22 Mon 10:00-10:50>
 :ID:       32f77feb-b94e-45bf-ad87-0bddc1698d4a
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-29 Mon 10:00-10:50>
+<2024-01-29 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1740,7 +1740,7 @@ SCHEDULED: <2024-01-29 Mon 10:00-10:50>
 :ID:       1f313431-af16-4993-afec-5cbfdd889eb7
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-05 Mon 10:00-10:50>
+<2024-02-05 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1748,7 +1748,7 @@ SCHEDULED: <2024-02-05 Mon 10:00-10:50>
 :ID:       4eb559d6-2ac8-4b56-96aa-39fdc3f82ce0
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-12 Mon 10:00-10:50>
+<2024-02-12 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1756,7 +1756,7 @@ SCHEDULED: <2024-02-12 Mon 10:00-10:50>
 :ID:       e152c057-c192-4d34-8fce-76509b8412d4
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-19 Mon 10:00-10:50>
+<2024-02-19 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1764,7 +1764,7 @@ SCHEDULED: <2024-02-19 Mon 10:00-10:50>
 :ID:       4219c559-095d-4e1d-b499-1d4c0165f4c6
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-26 Mon 10:00-10:50>
+<2024-02-26 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1772,7 +1772,7 @@ SCHEDULED: <2024-02-26 Mon 10:00-10:50>
 :ID:       0961bdae-0a4b-472d-9a75-b43717b04891
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-04 Mon 10:00-10:50>
+<2024-03-04 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1780,7 +1780,7 @@ SCHEDULED: <2024-03-04 Mon 10:00-10:50>
 :ID:       bf259688-6a5e-4b0d-9e72-c59d6e26dd50
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-11 Mon 10:00-10:50>
+<2024-03-11 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1788,7 +1788,7 @@ SCHEDULED: <2024-03-11 Mon 10:00-10:50>
 :ID:       7c897725-3ff5-40f7-a848-7ba384976c49
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-18 Mon 10:00-10:50>
+<2024-03-18 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1796,7 +1796,7 @@ SCHEDULED: <2024-03-18 Mon 10:00-10:50>
 :ID:       4732ee2a-483d-4e4e-b812-71542d9bcfba
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-25 Mon 10:00-10:50>
+<2024-03-25 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1804,7 +1804,7 @@ SCHEDULED: <2024-03-25 Mon 10:00-10:50>
 :ID:       991a72d8-3ab6-47f1-bb91-08f7da8f7383
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-01 Mon 10:00-10:50>
+<2024-04-01 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1812,7 +1812,7 @@ SCHEDULED: <2024-04-01 Mon 10:00-10:50>
 :ID:       933ef084-adc6-43f3-a397-f804d0c34da8
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-08 Mon 10:00-10:50>
+<2024-04-08 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1820,7 +1820,7 @@ SCHEDULED: <2024-04-08 Mon 10:00-10:50>
 :ID:       5c682fa9-556f-4c21-813d-5167e65c096c
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-15 Mon 10:00-10:50>
+<2024-04-15 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1828,7 +1828,7 @@ SCHEDULED: <2024-04-15 Mon 10:00-10:50>
 :ID:       712b929a-8472-49bb-8a19-471d956d0842
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-22 Mon 10:00-10:50>
+<2024-04-22 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1836,7 +1836,7 @@ SCHEDULED: <2024-04-22 Mon 10:00-10:50>
 :ID:       a898b596-d60a-42da-a931-b96863ac4d32
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-29 Mon 10:00-10:50>
+<2024-04-29 Mon 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -1848,7 +1848,7 @@ SCHEDULED: <2024-04-29 Mon 10:00-10:50>
 :ID:       42158e70-4a88-4bb2-b2f7-05f92c0bf497
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-15 Mon 12:50-13:40>
+<2024-01-15 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1856,7 +1856,7 @@ SCHEDULED: <2024-01-15 Mon 12:50-13:40>
 :ID:       2f496429-e8aa-4fa5-bb00-5195070158f9
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-22 Mon 12:50-13:40>
+<2024-01-22 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1864,7 +1864,7 @@ SCHEDULED: <2024-01-22 Mon 12:50-13:40>
 :ID:       c9571cf8-6fa7-47b2-82cd-c88bb86086e3
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-29 Mon 12:50-13:40>
+<2024-01-29 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1872,7 +1872,7 @@ SCHEDULED: <2024-01-29 Mon 12:50-13:40>
 :ID:       36e9cafb-6e3e-4939-aa7c-c4ed362b4e73
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-05 Mon 12:50-13:40>
+<2024-02-05 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1880,7 +1880,7 @@ SCHEDULED: <2024-02-05 Mon 12:50-13:40>
 :ID:       c63b75f5-43ff-4831-854f-3084fcae618c
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-12 Mon 12:50-13:40>
+<2024-02-12 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1888,7 +1888,7 @@ SCHEDULED: <2024-02-12 Mon 12:50-13:40>
 :ID:       eef09e61-72bd-40c5-a3f4-94894fefe4a3
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-19 Mon 12:50-13:40>
+<2024-02-19 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1896,7 +1896,7 @@ SCHEDULED: <2024-02-19 Mon 12:50-13:40>
 :ID:       b8a26473-3ea6-412a-a791-6a07c1295cdb
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-26 Mon 12:50-13:40>
+<2024-02-26 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1904,7 +1904,7 @@ SCHEDULED: <2024-02-26 Mon 12:50-13:40>
 :ID:       bfb05834-0ff2-4747-b82a-59d06640a17e
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-04 Mon 12:50-13:40>
+<2024-03-04 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1912,7 +1912,7 @@ SCHEDULED: <2024-03-04 Mon 12:50-13:40>
 :ID:       8d01da5c-201a-4734-b2d8-5caa7ab4c18a
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-11 Mon 12:50-13:40>
+<2024-03-11 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1920,7 +1920,7 @@ SCHEDULED: <2024-03-11 Mon 12:50-13:40>
 :ID:       b9e616e4-3a63-4c71-bbcd-9055fac7be79
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-18 Mon 12:50-13:40>
+<2024-03-18 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1928,7 +1928,7 @@ SCHEDULED: <2024-03-18 Mon 12:50-13:40>
 :ID:       dcc1894c-c4a0-4df5-b24e-db682262a1c3
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-25 Mon 12:50-13:40>
+<2024-03-25 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1936,7 +1936,7 @@ SCHEDULED: <2024-03-25 Mon 12:50-13:40>
 :ID:       6e87ea11-816d-4137-969f-a51e48969f50
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-01 Mon 12:50-13:40>
+<2024-04-01 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1944,7 +1944,7 @@ SCHEDULED: <2024-04-01 Mon 12:50-13:40>
 :ID:       447fafae-bb6d-410f-a391-695449290831
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-08 Mon 12:50-13:40>
+<2024-04-08 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1952,7 +1952,7 @@ SCHEDULED: <2024-04-08 Mon 12:50-13:40>
 :ID:       86e40511-eda7-4605-8a62-6a7e9fe5ceb0
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-15 Mon 12:50-13:40>
+<2024-04-15 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1960,7 +1960,7 @@ SCHEDULED: <2024-04-15 Mon 12:50-13:40>
 :ID:       74d2e700-1241-4281-9b29-87fba9a59f24
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-22 Mon 12:50-13:40>
+<2024-04-22 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1968,7 +1968,7 @@ SCHEDULED: <2024-04-22 Mon 12:50-13:40>
 :ID:       b6d4bb14-08f0-47b6-a044-bb6c59a2d698
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-29 Mon 12:50-13:40>
+<2024-04-29 Mon 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -1980,7 +1980,7 @@ SCHEDULED: <2024-04-29 Mon 12:50-13:40>
 :ID:       25f1070c-96e2-468c-926e-ca079dbd4009
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-15 Mon 13:50-14:40>
+<2024-01-15 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -1988,7 +1988,7 @@ SCHEDULED: <2024-01-15 Mon 13:50-14:40>
 :ID:       f5f595a2-e7b0-4264-97ca-321fc54d4df9
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-22 Mon 13:50-14:40>
+<2024-01-22 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -1996,7 +1996,7 @@ SCHEDULED: <2024-01-22 Mon 13:50-14:40>
 :ID:       f5d9b19a-64fb-455b-8d8e-04184ca9c57c
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-29 Mon 13:50-14:40>
+<2024-01-29 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2004,7 +2004,7 @@ SCHEDULED: <2024-01-29 Mon 13:50-14:40>
 :ID:       167524d4-6303-4d79-9bee-509ff1321804
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-05 Mon 13:50-14:40>
+<2024-02-05 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2012,7 +2012,7 @@ SCHEDULED: <2024-02-05 Mon 13:50-14:40>
 :ID:       a6eccb43-092b-4728-8e02-1dd9e67292a2
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-12 Mon 13:50-14:40>
+<2024-02-12 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2020,7 +2020,7 @@ SCHEDULED: <2024-02-12 Mon 13:50-14:40>
 :ID:       c062699f-16cb-40ef-b778-7963a3313e47
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-19 Mon 13:50-14:40>
+<2024-02-19 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2028,7 +2028,7 @@ SCHEDULED: <2024-02-19 Mon 13:50-14:40>
 :ID:       336d1618-5995-469a-bfaa-ec5649f86887
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-26 Mon 13:50-14:40>
+<2024-02-26 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2036,7 +2036,7 @@ SCHEDULED: <2024-02-26 Mon 13:50-14:40>
 :ID:       50e94166-bdf9-4a25-b188-9181c33159fe
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-04 Mon 13:50-14:40>
+<2024-03-04 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2044,7 +2044,7 @@ SCHEDULED: <2024-03-04 Mon 13:50-14:40>
 :ID:       8a81d98e-49a1-48ea-aa7c-373bcd73cc36
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-11 Mon 13:50-14:40>
+<2024-03-11 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2052,7 +2052,7 @@ SCHEDULED: <2024-03-11 Mon 13:50-14:40>
 :ID:       ce987751-358d-4853-ae26-568dc3486801
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-18 Mon 13:50-14:40>
+<2024-03-18 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2060,7 +2060,7 @@ SCHEDULED: <2024-03-18 Mon 13:50-14:40>
 :ID:       0bca28ca-e9c3-4e43-a86d-1cf3568d179f
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-25 Mon 13:50-14:40>
+<2024-03-25 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2068,7 +2068,7 @@ SCHEDULED: <2024-03-25 Mon 13:50-14:40>
 :ID:       0a8af91a-e34e-41c3-a35f-69915b6990f6
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-01 Mon 13:50-14:40>
+<2024-04-01 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2076,7 +2076,7 @@ SCHEDULED: <2024-04-01 Mon 13:50-14:40>
 :ID:       d9b11d95-6b8b-493e-b8bf-d7a45de572b1
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-08 Mon 13:50-14:40>
+<2024-04-08 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2084,7 +2084,7 @@ SCHEDULED: <2024-04-08 Mon 13:50-14:40>
 :ID:       f57685ec-ec74-4ff4-a003-07f0c61cba18
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-15 Mon 13:50-14:40>
+<2024-04-15 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2092,7 +2092,7 @@ SCHEDULED: <2024-04-15 Mon 13:50-14:40>
 :ID:       7e70669d-e36d-46c8-a93d-ea3a5414a9d4
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-22 Mon 13:50-14:40>
+<2024-04-22 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2100,7 +2100,7 @@ SCHEDULED: <2024-04-22 Mon 13:50-14:40>
 :ID:       2c0eb7c6-966f-43ec-84fe-26b8c45e4568
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-29 Mon 13:50-14:40>
+<2024-04-29 Mon 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2112,7 +2112,7 @@ SCHEDULED: <2024-04-29 Mon 13:50-14:40>
 :ID:       e4ae407d-fdcd-4298-8456-06417d40067b
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-15 Mon 14:50-15:40>
+<2024-01-15 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2120,7 +2120,7 @@ SCHEDULED: <2024-01-15 Mon 14:50-15:40>
 :ID:       9fcf8d28-479b-4b5c-bd64-6c32a924a497
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-22 Mon 14:50-15:40>
+<2024-01-22 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2128,7 +2128,7 @@ SCHEDULED: <2024-01-22 Mon 14:50-15:40>
 :ID:       9b0406c9-f007-4afb-bdbb-b4fd28682b47
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-29 Mon 14:50-15:40>
+<2024-01-29 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2136,7 +2136,7 @@ SCHEDULED: <2024-01-29 Mon 14:50-15:40>
 :ID:       a3301778-efb0-46c2-b97a-82c937fc6b57
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-05 Mon 14:50-15:40>
+<2024-02-05 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2144,7 +2144,7 @@ SCHEDULED: <2024-02-05 Mon 14:50-15:40>
 :ID:       ea9fccd5-c134-458f-9286-33df385cfd96
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-12 Mon 14:50-15:40>
+<2024-02-12 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2152,7 +2152,7 @@ SCHEDULED: <2024-02-12 Mon 14:50-15:40>
 :ID:       61fd8beb-1e0d-46ff-8b1b-eee8315b8af6
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-19 Mon 14:50-15:40>
+<2024-02-19 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2160,7 +2160,7 @@ SCHEDULED: <2024-02-19 Mon 14:50-15:40>
 :ID:       75221cff-c553-42dc-93db-5fb896633a59
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-26 Mon 14:50-15:40>
+<2024-02-26 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2168,7 +2168,7 @@ SCHEDULED: <2024-02-26 Mon 14:50-15:40>
 :ID:       568e7bd7-bdda-458d-92bf-ee1be66fe96e
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-03-04 Mon 14:50-15:40>
+<2024-03-04 Mon 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -2184,7 +2184,7 @@ SCHEDULED: <2024-03-04 Mon 14:50-15:40>
 :ID:       9b6bfb91-353a-4f78-aad0-b396d41bfbdb
 :END:
 ***** Tennis
-SCHEDULED: <2024-03-19 Tue 08:00-09:15>
+<2024-03-19 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2192,7 +2192,7 @@ SCHEDULED: <2024-03-19 Tue 08:00-09:15>
 :ID:       cc1df800-0a42-4a8f-94ec-078c35b30b78
 :END:
 ***** Tennis
-SCHEDULED: <2024-03-26 Tue 08:00-09:15>
+<2024-03-26 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2200,7 +2200,7 @@ SCHEDULED: <2024-03-26 Tue 08:00-09:15>
 :ID:       87191823-e977-4607-950d-fe43d8940989
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-02 Tue 08:00-09:15>
+<2024-04-02 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2208,7 +2208,7 @@ SCHEDULED: <2024-04-02 Tue 08:00-09:15>
 :ID:       a6bd34ae-8b81-4693-88b8-bd5787f11017
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-09 Tue 08:00-09:15>
+<2024-04-09 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2216,7 +2216,7 @@ SCHEDULED: <2024-04-09 Tue 08:00-09:15>
 :ID:       84037b56-b0ae-400a-9ca9-aeb428c82bce
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-16 Tue 08:00-09:15>
+<2024-04-16 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2224,7 +2224,7 @@ SCHEDULED: <2024-04-16 Tue 08:00-09:15>
 :ID:       ba8a67b0-762b-4819-838c-893ea09a08d3
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-23 Tue 08:00-09:15>
+<2024-04-23 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2232,7 +2232,7 @@ SCHEDULED: <2024-04-23 Tue 08:00-09:15>
 :ID:       1831ed46-7d89-4162-bd90-ea53a6146ff2
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-30 Tue 08:00-09:15>
+<2024-04-30 Tue 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -2244,7 +2244,7 @@ SCHEDULED: <2024-04-30 Tue 08:00-09:15>
 :ID:       8c27f219-4110-4ada-b091-59dcd7310762
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-01-16 Tue 13:00-15:40>
+<2024-01-16 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2252,7 +2252,7 @@ SCHEDULED: <2024-01-16 Tue 13:00-15:40>
 :ID:       a462b446-98ae-402c-bbdc-14b6f99a8e58
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-01-23 Tue 13:00-15:40>
+<2024-01-23 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2260,7 +2260,7 @@ SCHEDULED: <2024-01-23 Tue 13:00-15:40>
 :ID:       07afb42c-c546-4b6c-85f6-b3877a409696
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-01-30 Tue 13:00-15:40>
+<2024-01-30 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2268,7 +2268,7 @@ SCHEDULED: <2024-01-30 Tue 13:00-15:40>
 :ID:       c666ff7c-40d4-4a86-b1a7-9cceb8038c3f
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-02-06 Tue 13:00-15:40>
+<2024-02-06 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2276,7 +2276,7 @@ SCHEDULED: <2024-02-06 Tue 13:00-15:40>
 :ID:       44213132-bbd7-4a6c-8337-38009dea78db
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-02-13 Tue 13:00-15:40>
+<2024-02-13 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2284,7 +2284,7 @@ SCHEDULED: <2024-02-13 Tue 13:00-15:40>
 :ID:       7a6dec5e-d673-4691-a6e2-7c396db97f79
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-02-20 Tue 13:00-15:40>
+<2024-02-20 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2292,7 +2292,7 @@ SCHEDULED: <2024-02-20 Tue 13:00-15:40>
 :ID:       1382af36-cf04-42c2-afc3-fd6ad8a2ca60
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-02-27 Tue 13:00-15:40>
+<2024-02-27 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2300,7 +2300,7 @@ SCHEDULED: <2024-02-27 Tue 13:00-15:40>
 :ID:       10b459e6-e456-476a-ae81-26f944b4a27e
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-03-05 Tue 13:00-15:40>
+<2024-03-05 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2308,7 +2308,7 @@ SCHEDULED: <2024-03-05 Tue 13:00-15:40>
 :ID:       128ca1b0-92aa-47f3-abd1-dd6154327a9f
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-03-12 Tue 13:00-15:40>
+<2024-03-12 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2316,7 +2316,7 @@ SCHEDULED: <2024-03-12 Tue 13:00-15:40>
 :ID:       f51e8812-ccbc-4d6e-a249-4ab4331d85ac
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-03-19 Tue 13:00-15:40>
+<2024-03-19 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2324,7 +2324,7 @@ SCHEDULED: <2024-03-19 Tue 13:00-15:40>
 :ID:       4cce315a-5024-409e-b290-19ee0f9ef872
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-03-26 Tue 13:00-15:40>
+<2024-03-26 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2332,7 +2332,7 @@ SCHEDULED: <2024-03-26 Tue 13:00-15:40>
 :ID:       d83111da-4756-440e-ae65-c1401da90a92
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-04-02 Tue 13:00-15:40>
+<2024-04-02 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2340,7 +2340,7 @@ SCHEDULED: <2024-04-02 Tue 13:00-15:40>
 :ID:       1e305e74-7cf9-4735-ae85-0164d21ca565
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-04-09 Tue 13:00-15:40>
+<2024-04-09 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2348,7 +2348,7 @@ SCHEDULED: <2024-04-09 Tue 13:00-15:40>
 :ID:       91f4a065-54c4-4406-80a1-2de730a0acc2
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-04-16 Tue 13:00-15:40>
+<2024-04-16 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2356,7 +2356,7 @@ SCHEDULED: <2024-04-16 Tue 13:00-15:40>
 :ID:       39ee5b4a-f11d-4718-a869-4cff898f3f39
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-04-23 Tue 13:00-15:40>
+<2024-04-23 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2364,7 +2364,7 @@ SCHEDULED: <2024-04-23 Tue 13:00-15:40>
 :ID:       4f8b49f0-88ff-45b3-ba12-b29d8264a01c
 :END:
 ***** Automatic Control Systems Lab
-SCHEDULED: <2024-04-30 Tue 13:00-15:40>
+<2024-04-30 Tue 13:00-15:40>
 :PROPERTIES:
 :TEACHER:  Dr Tooran Emami
 :LOCATION: M213
@@ -2380,7 +2380,7 @@ SCHEDULED: <2024-04-30 Tue 13:00-15:40>
 :ID:       0ec431f3-368d-4aa1-b7c2-cd851c1a3acd
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-17 Wed 08:00-08:50>
+<2024-01-17 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2388,7 +2388,7 @@ SCHEDULED: <2024-01-17 Wed 08:00-08:50>
 :ID:       6417d335-2ef3-4f3d-a34d-8290738cb03a
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-24 Wed 08:00-08:50>
+<2024-01-24 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2396,7 +2396,7 @@ SCHEDULED: <2024-01-24 Wed 08:00-08:50>
 :ID:       c70319fd-b98a-4672-b9c1-434b30602ac6
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-31 Wed 08:00-08:50>
+<2024-01-31 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2404,7 +2404,7 @@ SCHEDULED: <2024-01-31 Wed 08:00-08:50>
 :ID:       2364cab1-0d69-4d97-a3ef-0cbf29d65cc3
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-07 Wed 08:00-08:50>
+<2024-02-07 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2412,7 +2412,7 @@ SCHEDULED: <2024-02-07 Wed 08:00-08:50>
 :ID:       ed276d9f-43d1-4b2f-9578-efa6f4f6ddda
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-14 Wed 08:00-08:50>
+<2024-02-14 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2420,7 +2420,7 @@ SCHEDULED: <2024-02-14 Wed 08:00-08:50>
 :ID:       35a19772-a062-4ed5-92a5-fd0eb5c096a5
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-21 Wed 08:00-08:50>
+<2024-02-21 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2428,7 +2428,7 @@ SCHEDULED: <2024-02-21 Wed 08:00-08:50>
 :ID:       f2909fd8-a09d-46b1-ad15-ecbee859d3c2
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-28 Wed 08:00-08:50>
+<2024-02-28 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2436,7 +2436,7 @@ SCHEDULED: <2024-02-28 Wed 08:00-08:50>
 :ID:       66a24c70-08f7-4c06-81f9-1c11146bc562
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-06 Wed 08:00-08:50>
+<2024-03-06 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2444,7 +2444,7 @@ SCHEDULED: <2024-03-06 Wed 08:00-08:50>
 :ID:       fdacd525-260f-4e0d-8b81-0ff3c893df88
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-13 Wed 08:00-08:50>
+<2024-03-13 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2452,7 +2452,7 @@ SCHEDULED: <2024-03-13 Wed 08:00-08:50>
 :ID:       36344827-d3bf-482d-a1dc-d75b332bc06b
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-20 Wed 08:00-08:50>
+<2024-03-20 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2460,7 +2460,7 @@ SCHEDULED: <2024-03-20 Wed 08:00-08:50>
 :ID:       236d6ca7-fa29-4c1a-89a6-2a15aa449fe5
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-27 Wed 08:00-08:50>
+<2024-03-27 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2468,7 +2468,7 @@ SCHEDULED: <2024-03-27 Wed 08:00-08:50>
 :ID:       d00ee9fc-5cf5-44fc-98f0-96f7f5319d13
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-03 Wed 08:00-08:50>
+<2024-04-03 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2476,7 +2476,7 @@ SCHEDULED: <2024-04-03 Wed 08:00-08:50>
 :ID:       01300471-673b-414b-b59f-e8e88522694d
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-10 Wed 08:00-08:50>
+<2024-04-10 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2484,7 +2484,7 @@ SCHEDULED: <2024-04-10 Wed 08:00-08:50>
 :ID:       b85f1df2-61ae-4305-b636-a6db7164d9d0
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-17 Wed 08:00-08:50>
+<2024-04-17 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2492,7 +2492,7 @@ SCHEDULED: <2024-04-17 Wed 08:00-08:50>
 :ID:       6315ce60-aacd-4cc2-a6b6-35cb7ad56fe6
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-24 Wed 08:00-08:50>
+<2024-04-24 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2500,7 +2500,7 @@ SCHEDULED: <2024-04-24 Wed 08:00-08:50>
 :ID:       a1308d8d-1c9e-4b09-922a-db014a13027c
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-05-01 Wed 08:00-08:50>
+<2024-05-01 Wed 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -2512,7 +2512,7 @@ SCHEDULED: <2024-05-01 Wed 08:00-08:50>
 :ID:       6480da3e-a95c-4286-8eee-f012d3e1c7d2
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-17 Wed 09:00-09:50>
+<2024-01-17 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2520,7 +2520,7 @@ SCHEDULED: <2024-01-17 Wed 09:00-09:50>
 :ID:       ff374f53-a160-4b22-8d93-e65713e3496f
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-24 Wed 09:00-09:50>
+<2024-01-24 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2528,7 +2528,7 @@ SCHEDULED: <2024-01-24 Wed 09:00-09:50>
 :ID:       8cfdc544-c192-4a4e-814e-416aab2fd922
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-31 Wed 09:00-09:50>
+<2024-01-31 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2536,7 +2536,7 @@ SCHEDULED: <2024-01-31 Wed 09:00-09:50>
 :ID:       9342f0ba-6ac2-4910-8a47-ed0496a0feab
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-07 Wed 09:00-09:50>
+<2024-02-07 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2544,7 +2544,7 @@ SCHEDULED: <2024-02-07 Wed 09:00-09:50>
 :ID:       288a25af-1f84-4405-8f3c-8e9f0f1300e0
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-14 Wed 09:00-09:50>
+<2024-02-14 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2552,7 +2552,7 @@ SCHEDULED: <2024-02-14 Wed 09:00-09:50>
 :ID:       de5781ee-7b8a-4965-a2f4-198aabac22e9
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-21 Wed 09:00-09:50>
+<2024-02-21 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2560,7 +2560,7 @@ SCHEDULED: <2024-02-21 Wed 09:00-09:50>
 :ID:       91d2d5dc-5f55-4a5f-9da3-0e43191afe56
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-28 Wed 09:00-09:50>
+<2024-02-28 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2568,7 +2568,7 @@ SCHEDULED: <2024-02-28 Wed 09:00-09:50>
 :ID:       59ab6742-85af-4b60-922e-e247907d36f1
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-06 Wed 09:00-09:50>
+<2024-03-06 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2576,7 +2576,7 @@ SCHEDULED: <2024-03-06 Wed 09:00-09:50>
 :ID:       b5b68cb9-67ed-4717-8290-ce7edd23036f
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-13 Wed 09:00-09:50>
+<2024-03-13 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2584,7 +2584,7 @@ SCHEDULED: <2024-03-13 Wed 09:00-09:50>
 :ID:       74fb5105-06f6-4b03-8e18-c385ba83e3a4
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-20 Wed 09:00-09:50>
+<2024-03-20 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2592,7 +2592,7 @@ SCHEDULED: <2024-03-20 Wed 09:00-09:50>
 :ID:       0380c3da-2830-4814-8464-ef4bff0b07f3
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-27 Wed 09:00-09:50>
+<2024-03-27 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2600,7 +2600,7 @@ SCHEDULED: <2024-03-27 Wed 09:00-09:50>
 :ID:       a69ca396-8819-44e4-a865-29c97abd0b34
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-03 Wed 09:00-09:50>
+<2024-04-03 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2608,7 +2608,7 @@ SCHEDULED: <2024-04-03 Wed 09:00-09:50>
 :ID:       0a685b0b-222e-4278-b92d-97974a806d78
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-10 Wed 09:00-09:50>
+<2024-04-10 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2616,7 +2616,7 @@ SCHEDULED: <2024-04-10 Wed 09:00-09:50>
 :ID:       66c287b5-b775-4254-9597-68e286b7ed33
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-17 Wed 09:00-09:50>
+<2024-04-17 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2624,7 +2624,7 @@ SCHEDULED: <2024-04-17 Wed 09:00-09:50>
 :ID:       eedb02ec-c841-407b-8e60-0a0773ed0165
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-24 Wed 09:00-09:50>
+<2024-04-24 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2632,7 +2632,7 @@ SCHEDULED: <2024-04-24 Wed 09:00-09:50>
 :ID:       6cc8b4c7-f069-4395-ae2b-2ea51f414472
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-05-01 Wed 09:00-09:50>
+<2024-05-01 Wed 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -2644,7 +2644,7 @@ SCHEDULED: <2024-05-01 Wed 09:00-09:50>
 :ID:       6164ff8a-1672-4141-86e2-c82b5c2d543b
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-17 Wed 10:00-10:50>
+<2024-01-17 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2653,7 +2653,7 @@ SCHEDULED: <2024-01-17 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-24 Wed 10:00-10:50>
+<2024-01-24 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2662,7 +2662,7 @@ SCHEDULED: <2024-01-24 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-31 Wed 10:00-10:50>
+<2024-01-31 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2671,7 +2671,7 @@ SCHEDULED: <2024-01-31 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-07 Wed 10:00-10:50>
+<2024-02-07 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2680,7 +2680,7 @@ SCHEDULED: <2024-02-07 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-14 Wed 10:00-10:50>
+<2024-02-14 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2689,7 +2689,7 @@ SCHEDULED: <2024-02-14 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-21 Wed 10:00-10:50>
+<2024-02-21 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2698,7 +2698,7 @@ SCHEDULED: <2024-02-21 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-28 Wed 10:00-10:50>
+<2024-02-28 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2707,7 +2707,7 @@ SCHEDULED: <2024-02-28 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-06 Wed 10:00-10:50>
+<2024-03-06 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2716,7 +2716,7 @@ SCHEDULED: <2024-03-06 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-13 Wed 10:00-10:50>
+<2024-03-13 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2725,7 +2725,7 @@ SCHEDULED: <2024-03-13 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-20 Wed 10:00-10:50>
+<2024-03-20 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2734,7 +2734,7 @@ SCHEDULED: <2024-03-20 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-27 Wed 10:00-10:50>
+<2024-03-27 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2743,7 +2743,7 @@ SCHEDULED: <2024-03-27 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-03 Wed 10:00-10:50>
+<2024-04-03 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2752,7 +2752,7 @@ SCHEDULED: <2024-04-03 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-10 Wed 10:00-10:50>
+<2024-04-10 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2761,7 +2761,7 @@ SCHEDULED: <2024-04-10 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-17 Wed 10:00-10:50>
+<2024-04-17 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2770,7 +2770,7 @@ SCHEDULED: <2024-04-17 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-24 Wed 10:00-10:50>
+<2024-04-24 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2779,7 +2779,7 @@ SCHEDULED: <2024-04-24 Wed 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-05-01 Wed 10:00-10:50>
+<2024-05-01 Wed 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -2792,7 +2792,7 @@ SCHEDULED: <2024-05-01 Wed 10:00-10:50>
 :ID:       0b28f8c1-3235-4f4e-93d8-29ff7df168f1
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-17 Wed 12:50-13:40>
+<2024-01-17 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2801,7 +2801,7 @@ SCHEDULED: <2024-01-17 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-24 Wed 12:50-13:40>
+<2024-01-24 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2810,7 +2810,7 @@ SCHEDULED: <2024-01-24 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-31 Wed 12:50-13:40>
+<2024-01-31 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2819,7 +2819,7 @@ SCHEDULED: <2024-01-31 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-07 Wed 12:50-13:40>
+<2024-02-07 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2828,7 +2828,7 @@ SCHEDULED: <2024-02-07 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-14 Wed 12:50-13:40>
+<2024-02-14 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2837,7 +2837,7 @@ SCHEDULED: <2024-02-14 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-21 Wed 12:50-13:40>
+<2024-02-21 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2846,7 +2846,7 @@ SCHEDULED: <2024-02-21 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-28 Wed 12:50-13:40>
+<2024-02-28 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2855,7 +2855,7 @@ SCHEDULED: <2024-02-28 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-06 Wed 12:50-13:40>
+<2024-03-06 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2864,7 +2864,7 @@ SCHEDULED: <2024-03-06 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-13 Wed 12:50-13:40>
+<2024-03-13 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2873,7 +2873,7 @@ SCHEDULED: <2024-03-13 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-20 Wed 12:50-13:40>
+<2024-03-20 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2882,7 +2882,7 @@ SCHEDULED: <2024-03-20 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-27 Wed 12:50-13:40>
+<2024-03-27 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2891,7 +2891,7 @@ SCHEDULED: <2024-03-27 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-03 Wed 12:50-13:40>
+<2024-04-03 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2900,7 +2900,7 @@ SCHEDULED: <2024-04-03 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-10 Wed 12:50-13:40>
+<2024-04-10 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2909,7 +2909,7 @@ SCHEDULED: <2024-04-10 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-17 Wed 12:50-13:40>
+<2024-04-17 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2918,7 +2918,7 @@ SCHEDULED: <2024-04-17 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-24 Wed 12:50-13:40>
+<2024-04-24 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2927,7 +2927,7 @@ SCHEDULED: <2024-04-24 Wed 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-05-01 Wed 12:50-13:40>
+<2024-05-01 Wed 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -2940,7 +2940,7 @@ SCHEDULED: <2024-05-01 Wed 12:50-13:40>
 :ID:       9722cc65-a3cc-4cbd-83fc-b970cad28889
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-17 Wed 13:50-14:40>
+<2024-01-17 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2948,7 +2948,7 @@ SCHEDULED: <2024-01-17 Wed 13:50-14:40>
 :ID:       366ff303-91ee-4c22-a8be-a751df24677f
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-24 Wed 13:50-14:40>
+<2024-01-24 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2956,7 +2956,7 @@ SCHEDULED: <2024-01-24 Wed 13:50-14:40>
 :ID:       a2821a0c-19e8-4179-8087-eefaaaaaaac5
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-31 Wed 13:50-14:40>
+<2024-01-31 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2964,7 +2964,7 @@ SCHEDULED: <2024-01-31 Wed 13:50-14:40>
 :ID:       fc118704-f30c-4128-95aa-6ad19cf293d0
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-07 Wed 13:50-14:40>
+<2024-02-07 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2972,7 +2972,7 @@ SCHEDULED: <2024-02-07 Wed 13:50-14:40>
 :ID:       cc9bae51-589b-49f6-8a19-f1101c92a19c
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-14 Wed 13:50-14:40>
+<2024-02-14 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2980,7 +2980,7 @@ SCHEDULED: <2024-02-14 Wed 13:50-14:40>
 :ID:       96d88723-12a9-4746-8984-a3483180c268
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-21 Wed 13:50-14:40>
+<2024-02-21 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2988,7 +2988,7 @@ SCHEDULED: <2024-02-21 Wed 13:50-14:40>
 :ID:       fbfb30c9-b66b-4d1d-9ddb-3235a607be6f
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-28 Wed 13:50-14:40>
+<2024-02-28 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -2996,7 +2996,7 @@ SCHEDULED: <2024-02-28 Wed 13:50-14:40>
 :ID:       a8b44e25-0945-45f3-ae51-f669f58f1f1c
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-06 Wed 13:50-14:40>
+<2024-03-06 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3004,7 +3004,7 @@ SCHEDULED: <2024-03-06 Wed 13:50-14:40>
 :ID:       089952e3-9b66-4324-bfae-b4ced27687d1
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-13 Wed 13:50-14:40>
+<2024-03-13 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3012,7 +3012,7 @@ SCHEDULED: <2024-03-13 Wed 13:50-14:40>
 :ID:       58f5c1db-df42-4311-a8f5-2b7fb592db61
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-20 Wed 13:50-14:40>
+<2024-03-20 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3020,7 +3020,7 @@ SCHEDULED: <2024-03-20 Wed 13:50-14:40>
 :ID:       c09f2599-21f6-4794-b68d-90281dbc5b57
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-27 Wed 13:50-14:40>
+<2024-03-27 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3028,7 +3028,7 @@ SCHEDULED: <2024-03-27 Wed 13:50-14:40>
 :ID:       92a7e143-4775-49c0-b0d8-984586134665
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-03 Wed 13:50-14:40>
+<2024-04-03 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3036,7 +3036,7 @@ SCHEDULED: <2024-04-03 Wed 13:50-14:40>
 :ID:       d663117c-d5c5-43e8-9087-2f2a9f4a90bd
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-10 Wed 13:50-14:40>
+<2024-04-10 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3044,7 +3044,7 @@ SCHEDULED: <2024-04-10 Wed 13:50-14:40>
 :ID:       540b00ec-e541-44bd-bd1f-92387f337697
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-17 Wed 13:50-14:40>
+<2024-04-17 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3052,7 +3052,7 @@ SCHEDULED: <2024-04-17 Wed 13:50-14:40>
 :ID:       4cef21aa-29ee-453a-9e3a-e134fc0e462f
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-24 Wed 13:50-14:40>
+<2024-04-24 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3060,7 +3060,7 @@ SCHEDULED: <2024-04-24 Wed 13:50-14:40>
 :ID:       e7ba0f7e-abfe-4b46-8253-9b6b81e028b1
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-05-01 Wed 13:50-14:40>
+<2024-05-01 Wed 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3072,7 +3072,7 @@ SCHEDULED: <2024-05-01 Wed 13:50-14:40>
 :ID:       86a75dd3-cf07-4654-a64f-c41a9aa1048a
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-17 Wed 14:50-15:40>
+<2024-01-17 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3080,7 +3080,7 @@ SCHEDULED: <2024-01-17 Wed 14:50-15:40>
 :ID:       a5251ec3-6c8c-4271-bd76-ca3003a3a42f
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-24 Wed 14:50-15:40>
+<2024-01-24 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3088,7 +3088,7 @@ SCHEDULED: <2024-01-24 Wed 14:50-15:40>
 :ID:       af0fbdc8-172d-4bdc-ac88-6208cc453390
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-01-31 Wed 14:50-15:40>
+<2024-01-31 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3096,7 +3096,7 @@ SCHEDULED: <2024-01-31 Wed 14:50-15:40>
 :ID:       9b640b03-5707-4429-a81c-e13dee1d92d6
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-07 Wed 14:50-15:40>
+<2024-02-07 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3104,7 +3104,7 @@ SCHEDULED: <2024-02-07 Wed 14:50-15:40>
 :ID:       67bed347-962d-4fb8-9572-e20181e4a48c
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-14 Wed 14:50-15:40>
+<2024-02-14 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3112,7 +3112,7 @@ SCHEDULED: <2024-02-14 Wed 14:50-15:40>
 :ID:       64005de3-9e9d-41e7-b21e-12af2a3371fd
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-21 Wed 14:50-15:40>
+<2024-02-21 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3120,7 +3120,7 @@ SCHEDULED: <2024-02-21 Wed 14:50-15:40>
 :ID:       93f40846-0143-4bc2-a8df-42d9b3eb11a5
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-02-28 Wed 14:50-15:40>
+<2024-02-28 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3128,7 +3128,7 @@ SCHEDULED: <2024-02-28 Wed 14:50-15:40>
 :ID:       000eded5-ad72-4e37-b55b-40991872bdbe
 :END:
 ***** Personal Defense 2
-SCHEDULED: <2024-03-06 Wed 14:50-15:40>
+<2024-03-06 Wed 14:50-15:40>
 :PROPERTIES:
 :LOCATION: BWR
 :TEACHER:  Mr. Ulysses Grant
@@ -3144,7 +3144,7 @@ SCHEDULED: <2024-03-06 Wed 14:50-15:40>
 :ID:       6de3ea26-7249-438f-84c1-341e3bbc50b4
 :END:
 ***** Tennis
-SCHEDULED: <2024-03-21 Thu 08:00-09:15>
+<2024-03-21 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3152,7 +3152,7 @@ SCHEDULED: <2024-03-21 Thu 08:00-09:15>
 :ID:       9e38fe28-3731-4b19-8aaf-74042f64f9a9
 :END:
 ***** Tennis
-SCHEDULED: <2024-03-28 Thu 08:00-09:15>
+<2024-03-28 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3160,7 +3160,7 @@ SCHEDULED: <2024-03-28 Thu 08:00-09:15>
 :ID:       7e4adbef-ed64-4539-b48f-aa32ed4e038d
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-04 Thu 08:00-09:15>
+<2024-04-04 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3168,7 +3168,7 @@ SCHEDULED: <2024-04-04 Thu 08:00-09:15>
 :ID:       764cd3ef-b4e4-445f-8e4e-2415d5475c1b
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-11 Thu 08:00-09:15>
+<2024-04-11 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3176,7 +3176,7 @@ SCHEDULED: <2024-04-11 Thu 08:00-09:15>
 :ID:       a2987d0d-d9e7-450f-a93f-f903e8d5b728
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-18 Thu 08:00-09:15>
+<2024-04-18 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3184,7 +3184,7 @@ SCHEDULED: <2024-04-18 Thu 08:00-09:15>
 :ID:       ca1efbd8-cae2-4d73-8fcd-28a7f4340e5c
 :END:
 ***** Tennis
-SCHEDULED: <2024-04-25 Thu 08:00-09:15>
+<2024-04-25 Thu 08:00-09:15>
 :PROPERTIES:
 :TEACHER:  Ms. Suzanne Behme
 :ORG-TIMED-ALERTS: 15
@@ -3196,7 +3196,7 @@ SCHEDULED: <2024-04-25 Thu 08:00-09:15>
 :ID:       fdfe59ac-3424-4eb4-a816-cf4973f213b4
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-01-18 Thu 09:25-12:05>
+<2024-01-18 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y218
@@ -3204,7 +3204,7 @@ SCHEDULED: <2024-01-18 Thu 09:25-12:05>
 :ID:       c546c675-4ab2-46f3-ac66-18c305cff7f5
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-01-25 Thu 09:25-12:05>
+<2024-01-25 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y218
@@ -3212,7 +3212,7 @@ SCHEDULED: <2024-01-25 Thu 09:25-12:05>
 :ID:       6ab8ba0c-7740-46e5-a6c1-627677cf442f
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-02-01 Thu 09:25-12:05>
+<2024-02-01 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y218
@@ -3220,7 +3220,7 @@ SCHEDULED: <2024-02-01 Thu 09:25-12:05>
 :ID:       4627afb1-026f-49ea-81c8-3ead5fd5690e
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-02-08 Thu 09:25-12:05>
+<2024-02-08 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3228,7 +3228,7 @@ SCHEDULED: <2024-02-08 Thu 09:25-12:05>
 :ID:       dcdfa58c-ff0b-462d-ab7e-bc8bb3d1bfa8
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-02-15 Thu 09:25-12:05>
+<2024-02-15 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3236,7 +3236,7 @@ SCHEDULED: <2024-02-15 Thu 09:25-12:05>
 :ID:       129fa9bc-ac6a-47c4-91ae-40dc19342025
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-02-22 Thu 09:25-12:05>
+<2024-02-22 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3244,7 +3244,7 @@ SCHEDULED: <2024-02-22 Thu 09:25-12:05>
 :ID:       c4461007-3d0c-4daa-9d2e-6adab4ac1374
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-02-29 Thu 09:25-12:05>
+<2024-02-29 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3252,7 +3252,7 @@ SCHEDULED: <2024-02-29 Thu 09:25-12:05>
 :ID:       5460c149-0ae2-48e8-be2d-933373ae9872
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-03-07 Thu 09:25-12:05>
+<2024-03-07 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3260,7 +3260,7 @@ SCHEDULED: <2024-03-07 Thu 09:25-12:05>
 :ID:       31fcd17e-dd7e-4676-97b0-ff9ad9a8fb14
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-03-21 Thu 09:25-12:05>
+<2024-03-21 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3268,7 +3268,7 @@ SCHEDULED: <2024-03-21 Thu 09:25-12:05>
 :ID:       8b0d2de1-f6c9-4a00-a1a8-254f2e436426
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-03-28 Thu 09:25-12:05>
+<2024-03-28 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: TBoats
@@ -3276,7 +3276,7 @@ SCHEDULED: <2024-03-28 Thu 09:25-12:05>
 :ID:       c18c1913-3bfd-4bba-acfb-e89fdf5d38f2
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-04-04 Thu 09:25-12:05>
+<2024-04-04 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: TBoats
@@ -3284,7 +3284,7 @@ SCHEDULED: <2024-04-04 Thu 09:25-12:05>
 :ID:       1bf9a282-4fc4-46a7-9e8e-f38b6ff328b2
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-04-11 Thu 09:25-12:05>
+<2024-04-11 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: TBoats
@@ -3292,7 +3292,7 @@ SCHEDULED: <2024-04-11 Thu 09:25-12:05>
 :ID:       b3d8732e-15f8-49e8-96a7-f0e80c43a240
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-04-18 Thu 09:25-12:05>
+<2024-04-18 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: TBoats
@@ -3300,7 +3300,7 @@ SCHEDULED: <2024-04-18 Thu 09:25-12:05>
 :ID:       e9905f76-31ea-4a95-8321-5bf0d17542e3
 :END:
 ***** Maritime Watch Officer Lab
-SCHEDULED: <2024-04-25 Thu 09:25-12:05>
+<2024-04-25 Thu 09:25-12:05>
 :PROPERTIES:
 :TEACHER:  CW04 Ian Christian
 :LOCATION: Y-020B
@@ -3312,7 +3312,7 @@ SCHEDULED: <2024-04-25 Thu 09:25-12:05>
 :ID:       29cf0151-e772-49f0-9667-6fb235cbdd1c
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-01-18 Thu 13:00-15:40>
+<2024-01-18 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3320,7 +3320,7 @@ SCHEDULED: <2024-01-18 Thu 13:00-15:40>
 :ID:       b0209d36-c9f4-4e17-bcfe-03e1fc39bc9f
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-01-25 Thu 13:00-15:40>
+<2024-01-25 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3328,7 +3328,7 @@ SCHEDULED: <2024-01-25 Thu 13:00-15:40>
 :ID:       5edac4b3-0314-406b-98fa-71296b5c6c55
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-02-01 Thu 13:00-15:40>
+<2024-02-01 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3336,7 +3336,7 @@ SCHEDULED: <2024-02-01 Thu 13:00-15:40>
 :ID:       f78ab8d6-e7e8-4bea-998f-0c88852f1fb6
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-02-08 Thu 13:00-15:40>
+<2024-02-08 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3344,7 +3344,7 @@ SCHEDULED: <2024-02-08 Thu 13:00-15:40>
 :ID:       81af5b9a-d3eb-4418-ae4a-1ab47484d77b
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-02-15 Thu 13:00-15:40>
+<2024-02-15 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3352,7 +3352,7 @@ SCHEDULED: <2024-02-15 Thu 13:00-15:40>
 :ID:       5593eeb4-5572-4409-8442-7d9c5ee27e90
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-02-22 Thu 13:00-15:40>
+<2024-02-22 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3360,7 +3360,7 @@ SCHEDULED: <2024-02-22 Thu 13:00-15:40>
 :ID:       6b128a14-99b8-440e-800a-3b8d59a115bb
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-02-29 Thu 13:00-15:40>
+<2024-02-29 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3368,7 +3368,7 @@ SCHEDULED: <2024-02-29 Thu 13:00-15:40>
 :ID:       365887f4-c0cc-4ceb-8c10-8e29ba628976
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-03-07 Thu 13:00-15:40>
+<2024-03-07 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3376,7 +3376,7 @@ SCHEDULED: <2024-03-07 Thu 13:00-15:40>
 :ID:       819d4116-fba4-4465-9eee-05134d2de3bd
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-03-14 Thu 13:00-15:40>
+<2024-03-14 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3384,7 +3384,7 @@ SCHEDULED: <2024-03-14 Thu 13:00-15:40>
 :ID:       0d84831f-678f-4ff6-8e90-205ff2adc54d
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-03-21 Thu 13:00-15:40>
+<2024-03-21 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3392,7 +3392,7 @@ SCHEDULED: <2024-03-21 Thu 13:00-15:40>
 :ID:       ff9dc30d-4cb8-4d26-a6a5-b75354bb9545
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-03-28 Thu 13:00-15:40>
+<2024-03-28 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3400,7 +3400,7 @@ SCHEDULED: <2024-03-28 Thu 13:00-15:40>
 :ID:       dabc708b-c78e-40ba-b3d0-b7778ad135c6
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-04-04 Thu 13:00-15:40>
+<2024-04-04 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3408,7 +3408,7 @@ SCHEDULED: <2024-04-04 Thu 13:00-15:40>
 :ID:       7a588072-b2d0-4525-9033-26a7e378d75f
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-04-11 Thu 13:00-15:40>
+<2024-04-11 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3416,7 +3416,7 @@ SCHEDULED: <2024-04-11 Thu 13:00-15:40>
 :ID:       9c4f95b5-d6a7-4f01-851a-0a79d3b90512
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-04-18 Thu 13:00-15:40>
+<2024-04-18 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3424,7 +3424,7 @@ SCHEDULED: <2024-04-18 Thu 13:00-15:40>
 :ID:       07fae141-7263-4431-94a9-04770248d275
 :END:
 ***** Software Engineering Lab
-SCHEDULED: <2024-04-25 Thu 13:00-15:40>
+<2024-04-25 Thu 13:00-15:40>
 :PROPERTIES:
 :ORG-TIMED-ALERTS: 15
 :LOCATION: M234
@@ -3440,7 +3440,7 @@ SCHEDULED: <2024-04-25 Thu 13:00-15:40>
 :ID:       c50d2c6d-22ec-4c5b-b7bf-9c9ff4f858a9
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-19 Fri 08:00-08:50>
+<2024-01-19 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3448,7 +3448,7 @@ SCHEDULED: <2024-01-19 Fri 08:00-08:50>
 :ID:       73ae6bd8-3957-4fb2-802b-a34591894c86
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-01-26 Fri 08:00-08:50>
+<2024-01-26 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3456,7 +3456,7 @@ SCHEDULED: <2024-01-26 Fri 08:00-08:50>
 :ID:       96bccbc9-9bcf-460c-bdb2-7540317b47ce
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-02 Fri 08:00-08:50>
+<2024-02-02 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3464,7 +3464,7 @@ SCHEDULED: <2024-02-02 Fri 08:00-08:50>
 :ID:       8e02c42d-7059-46df-92c9-e1777e5452d4
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-09 Fri 08:00-08:50>
+<2024-02-09 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3472,7 +3472,7 @@ SCHEDULED: <2024-02-09 Fri 08:00-08:50>
 :ID:       6c306df2-9a63-47c0-b8b4-4ddc94b6991d
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-16 Fri 08:00-08:50>
+<2024-02-16 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3480,7 +3480,7 @@ SCHEDULED: <2024-02-16 Fri 08:00-08:50>
 :ID:       9dc7a106-1f65-49bf-ac8c-979e55ca04de
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-02-23 Fri 08:00-08:50>
+<2024-02-23 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3488,7 +3488,7 @@ SCHEDULED: <2024-02-23 Fri 08:00-08:50>
 :ID:       95bbd3a5-42d7-4b3b-bfac-d9c6e2e4a1af
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-01 Fri 08:00-08:50>
+<2024-03-01 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3496,7 +3496,7 @@ SCHEDULED: <2024-03-01 Fri 08:00-08:50>
 :ID:       0a9d9865-78ee-48d8-ae1b-bdd986aab690
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-08 Fri 08:00-08:50>
+<2024-03-08 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3504,7 +3504,7 @@ SCHEDULED: <2024-03-08 Fri 08:00-08:50>
 :ID:       9a728788-15e9-496d-9ffc-e5fce6899c56
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-15 Fri 08:00-08:50>
+<2024-03-15 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3512,7 +3512,7 @@ SCHEDULED: <2024-03-15 Fri 08:00-08:50>
 :ID:       a6e71c8e-6d58-4c48-90dd-63506c587189
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-22 Fri 08:00-08:50>
+<2024-03-22 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3520,7 +3520,7 @@ SCHEDULED: <2024-03-22 Fri 08:00-08:50>
 :ID:       df895091-50b3-404a-b683-b6bc39c90f8c
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-03-29 Fri 08:00-08:50>
+<2024-03-29 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3528,7 +3528,7 @@ SCHEDULED: <2024-03-29 Fri 08:00-08:50>
 :ID:       64c7ec2d-58e2-48c2-b058-800b79ecaafe
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-05 Fri 08:00-08:50>
+<2024-04-05 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3536,7 +3536,7 @@ SCHEDULED: <2024-04-05 Fri 08:00-08:50>
 :ID:       50408929-42dc-4e7a-a6ea-decdb5ba35b4
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-12 Fri 08:00-08:50>
+<2024-04-12 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3544,7 +3544,7 @@ SCHEDULED: <2024-04-12 Fri 08:00-08:50>
 :ID:       d8096e78-db7b-4200-8e7d-636b70c45ee8
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-19 Fri 08:00-08:50>
+<2024-04-19 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3552,7 +3552,7 @@ SCHEDULED: <2024-04-19 Fri 08:00-08:50>
 :ID:       8b27f3b3-c3c3-45e2-a824-07469f0e04a8
 :END:
 ***** Maritime Watch Officer
-SCHEDULED: <2024-04-26 Fri 08:00-08:50>
+<2024-04-26 Fri 08:00-08:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick O'Shaughnessy
 :LOCATION: Y002
@@ -3564,7 +3564,7 @@ SCHEDULED: <2024-04-26 Fri 08:00-08:50>
 :ID:       3cd0ce1b-f4f9-4a08-ab2c-894c20271ca0
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-19 Fri 09:00-09:50>
+<2024-01-19 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3572,7 +3572,7 @@ SCHEDULED: <2024-01-19 Fri 09:00-09:50>
 :ID:       d3dadf56-8e6e-4f73-94c2-933694aa89a1
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-01-26 Fri 09:00-09:50>
+<2024-01-26 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3580,7 +3580,7 @@ SCHEDULED: <2024-01-26 Fri 09:00-09:50>
 :ID:       40aeb89d-76de-45a9-8f07-b79659d9869e
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-02 Fri 09:00-09:50>
+<2024-02-02 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3588,7 +3588,7 @@ SCHEDULED: <2024-02-02 Fri 09:00-09:50>
 :ID:       27a5aa80-3006-4b27-826e-a060cad38021
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-09 Fri 09:00-09:50>
+<2024-02-09 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3596,7 +3596,7 @@ SCHEDULED: <2024-02-09 Fri 09:00-09:50>
 :ID:       562da04c-819a-4920-95a8-bafa14552d94
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-16 Fri 09:00-09:50>
+<2024-02-16 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3604,7 +3604,7 @@ SCHEDULED: <2024-02-16 Fri 09:00-09:50>
 :ID:       34be77c3-e3ba-449f-88c0-9acecf0356c9
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-02-23 Fri 09:00-09:50>
+<2024-02-23 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3612,7 +3612,7 @@ SCHEDULED: <2024-02-23 Fri 09:00-09:50>
 :ID:       141b88e8-27fa-4604-9fcf-be8f38ad1679
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-01 Fri 09:00-09:50>
+<2024-03-01 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3620,7 +3620,7 @@ SCHEDULED: <2024-03-01 Fri 09:00-09:50>
 :ID:       5a64f256-746b-4dc8-9abf-07fef512aba7
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-08 Fri 09:00-09:50>
+<2024-03-08 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3628,7 +3628,7 @@ SCHEDULED: <2024-03-08 Fri 09:00-09:50>
 :ID:       fa0236c5-e26f-4a9d-9841-283f8f91ab18
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-15 Fri 09:00-09:50>
+<2024-03-15 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3636,7 +3636,7 @@ SCHEDULED: <2024-03-15 Fri 09:00-09:50>
 :ID:       8e3c9bab-a1e0-4d64-bcc0-05f8c5637a9a
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-22 Fri 09:00-09:50>
+<2024-03-22 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3644,7 +3644,7 @@ SCHEDULED: <2024-03-22 Fri 09:00-09:50>
 :ID:       371ee779-f10b-4db0-b5af-8225585b2c03
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-03-29 Fri 09:00-09:50>
+<2024-03-29 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3652,7 +3652,7 @@ SCHEDULED: <2024-03-29 Fri 09:00-09:50>
 :ID:       7907acc3-6e38-4b35-a78a-716c73ff2d2e
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-05 Fri 09:00-09:50>
+<2024-04-05 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3660,7 +3660,7 @@ SCHEDULED: <2024-04-05 Fri 09:00-09:50>
 :ID:       1504df77-29d4-4244-a331-659e5af8d77a
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-12 Fri 09:00-09:50>
+<2024-04-12 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3668,7 +3668,7 @@ SCHEDULED: <2024-04-12 Fri 09:00-09:50>
 :ID:       9c7a2357-4322-4415-8398-a48ceb485055
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-19 Fri 09:00-09:50>
+<2024-04-19 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3676,7 +3676,7 @@ SCHEDULED: <2024-04-19 Fri 09:00-09:50>
 :ID:       738e090a-8947-4fb6-804e-213fcd88c14c
 :END:
 ***** Discrete Mathematics
-SCHEDULED: <2024-04-26 Fri 09:00-09:50>
+<2024-04-26 Fri 09:00-09:50>
 :PROPERTIES:
 :TEACHER:  Dr Jillian McLeod
 :LOCATION: S134
@@ -3688,7 +3688,7 @@ SCHEDULED: <2024-04-26 Fri 09:00-09:50>
 :ID:       d7eccd02-d2f0-4476-abd8-2f6c74961e99
 :END:
 ***** Digital Signal Processing
-SCHEDULED: <2024-01-19 Fri 10:00-10:50>
+<2024-01-19 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3697,7 +3697,7 @@ SCHEDULED: <2024-01-19 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-02 Fri 10:00-10:50>
+<2024-02-02 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3706,7 +3706,7 @@ SCHEDULED: <2024-02-02 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-09 Fri 10:00-10:50>
+<2024-02-09 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3715,7 +3715,7 @@ SCHEDULED: <2024-02-09 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-16 Fri 10:00-10:50>
+<2024-02-16 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3724,7 +3724,7 @@ SCHEDULED: <2024-02-16 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-02-23 Fri 10:00-10:50>
+<2024-02-23 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3733,7 +3733,7 @@ SCHEDULED: <2024-02-23 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-01 Fri 10:00-10:50>
+<2024-03-01 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3742,7 +3742,7 @@ SCHEDULED: <2024-03-01 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-08 Fri 10:00-10:50>
+<2024-03-08 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3751,7 +3751,7 @@ SCHEDULED: <2024-03-08 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-15 Fri 10:00-10:50>
+<2024-03-15 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3760,7 +3760,7 @@ SCHEDULED: <2024-03-15 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-22 Fri 10:00-10:50>
+<2024-03-22 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3769,7 +3769,7 @@ SCHEDULED: <2024-03-22 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-03-29 Fri 10:00-10:50>
+<2024-03-29 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3778,7 +3778,7 @@ SCHEDULED: <2024-03-29 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-05 Fri 10:00-10:50>
+<2024-04-05 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3787,7 +3787,7 @@ SCHEDULED: <2024-04-05 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-12 Fri 10:00-10:50>
+<2024-04-12 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3796,7 +3796,7 @@ SCHEDULED: <2024-04-12 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-19 Fri 10:00-10:50>
+<2024-04-19 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3805,7 +3805,7 @@ SCHEDULED: <2024-04-19 Fri 10:00-10:50>
 :END:
 
 ***** Digital Signal Processing
-SCHEDULED: <2024-04-26 Fri 10:00-10:50>
+<2024-04-26 Fri 10:00-10:50>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :ORG-TIMED-ALERTS: 15
@@ -3818,7 +3818,7 @@ SCHEDULED: <2024-04-26 Fri 10:00-10:50>
 :ID:       2bb9da43-54dd-4388-8587-7c4cf421712c
 :END:
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-19 Fri 12:50-13:40>
+<2024-01-19 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3827,7 +3827,7 @@ SCHEDULED: <2024-01-19 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-01-26 Fri 12:50-13:40>
+<2024-01-26 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3836,7 +3836,7 @@ SCHEDULED: <2024-01-26 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-02 Fri 12:50-13:40>
+<2024-02-02 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3845,7 +3845,7 @@ SCHEDULED: <2024-02-02 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-09 Fri 12:50-13:40>
+<2024-02-09 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3854,7 +3854,7 @@ SCHEDULED: <2024-02-09 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-16 Fri 12:50-13:40>
+<2024-02-16 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3863,7 +3863,7 @@ SCHEDULED: <2024-02-16 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-02-23 Fri 12:50-13:40>
+<2024-02-23 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3872,7 +3872,7 @@ SCHEDULED: <2024-02-23 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-01 Fri 12:50-13:40>
+<2024-03-01 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3881,7 +3881,7 @@ SCHEDULED: <2024-03-01 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-08 Fri 12:50-13:40>
+<2024-03-08 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3890,7 +3890,7 @@ SCHEDULED: <2024-03-08 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-15 Fri 12:50-13:40>
+<2024-03-15 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3899,7 +3899,7 @@ SCHEDULED: <2024-03-15 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-22 Fri 12:50-13:40>
+<2024-03-22 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3908,7 +3908,7 @@ SCHEDULED: <2024-03-22 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-03-29 Fri 12:50-13:40>
+<2024-03-29 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3917,7 +3917,7 @@ SCHEDULED: <2024-03-29 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-05 Fri 12:50-13:40>
+<2024-04-05 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3926,7 +3926,7 @@ SCHEDULED: <2024-04-05 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-12 Fri 12:50-13:40>
+<2024-04-12 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3935,7 +3935,7 @@ SCHEDULED: <2024-04-12 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-19 Fri 12:50-13:40>
+<2024-04-19 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3944,7 +3944,7 @@ SCHEDULED: <2024-04-19 Fri 12:50-13:40>
 :END:
 
 ***** Automatic Control Systems
-SCHEDULED: <2024-04-26 Fri 12:50-13:40>
+<2024-04-26 Fri 12:50-13:40>
 :PROPERTIES:
 :LOCATION: M210
 :TEACHER:  Dr Tooran Emami
@@ -3957,7 +3957,7 @@ SCHEDULED: <2024-04-26 Fri 12:50-13:40>
 :ID:       2573a7f3-20ea-4740-bbd0-be992373c3b8
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-19 Fri 13:50-14:40>
+<2024-01-19 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3965,7 +3965,7 @@ SCHEDULED: <2024-01-19 Fri 13:50-14:40>
 :ID:       20f5be71-c355-4d39-aee9-34e1e97d5e27
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-01-26 Fri 13:50-14:40>
+<2024-01-26 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3973,7 +3973,7 @@ SCHEDULED: <2024-01-26 Fri 13:50-14:40>
 :ID:       d98d23b0-52e4-4c50-add2-7b2a85138731
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-02 Fri 13:50-14:40>
+<2024-02-02 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3981,7 +3981,7 @@ SCHEDULED: <2024-02-02 Fri 13:50-14:40>
 :ID:       4870138a-9be2-40f4-b0b5-9b36b48107a7
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-09 Fri 13:50-14:40>
+<2024-02-09 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3989,7 +3989,7 @@ SCHEDULED: <2024-02-09 Fri 13:50-14:40>
 :ID:       fd6fe5ba-3a09-408d-b241-ef78c3a5b83b
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-16 Fri 13:50-14:40>
+<2024-02-16 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -3997,7 +3997,7 @@ SCHEDULED: <2024-02-16 Fri 13:50-14:40>
 :ID:       c47c3990-4311-46bc-8520-43459805905a
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-02-23 Fri 13:50-14:40>
+<2024-02-23 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4005,7 +4005,7 @@ SCHEDULED: <2024-02-23 Fri 13:50-14:40>
 :ID:       95515d36-7847-43ec-906d-b06cc9683428
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-01 Fri 13:50-14:40>
+<2024-03-01 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4013,7 +4013,7 @@ SCHEDULED: <2024-03-01 Fri 13:50-14:40>
 :ID:       3a406640-bf48-4d7a-a316-80e94c9560c2
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-08 Fri 13:50-14:40>
+<2024-03-08 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4021,7 +4021,7 @@ SCHEDULED: <2024-03-08 Fri 13:50-14:40>
 :ID:       c437e70e-d66c-4638-a642-ac95e2cc1928
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-15 Fri 13:50-14:40>
+<2024-03-15 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4029,7 +4029,7 @@ SCHEDULED: <2024-03-15 Fri 13:50-14:40>
 :ID:       3fd234e2-d64f-4afd-8ce4-7df776c31529
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-22 Fri 13:50-14:40>
+<2024-03-22 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4037,7 +4037,7 @@ SCHEDULED: <2024-03-22 Fri 13:50-14:40>
 :ID:       6488980d-b5dc-4e1f-8fb9-3cae724389b9
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-03-29 Fri 13:50-14:40>
+<2024-03-29 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4045,7 +4045,7 @@ SCHEDULED: <2024-03-29 Fri 13:50-14:40>
 :ID:       ac6e4bd7-4598-4741-8eb0-0f49832a2ed4
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-05 Fri 13:50-14:40>
+<2024-04-05 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4053,7 +4053,7 @@ SCHEDULED: <2024-04-05 Fri 13:50-14:40>
 :ID:       fd03f571-631e-40e3-a5d2-d394c508a810
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-12 Fri 13:50-14:40>
+<2024-04-12 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4061,7 +4061,7 @@ SCHEDULED: <2024-04-12 Fri 13:50-14:40>
 :ID:       106cbd5f-2d45-4aa4-819d-4707d6918bfb
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-19 Fri 13:50-14:40>
+<2024-04-19 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4069,7 +4069,7 @@ SCHEDULED: <2024-04-19 Fri 13:50-14:40>
 :ID:       c4e63336-8b90-4cef-841b-be2503944a2e
 :END:
 ***** Software Engineering
-SCHEDULED: <2024-04-26 Fri 13:50-14:40>
+<2024-04-26 Fri 13:50-14:40>
 :PROPERTIES:
 :TEACHER:  Dr Mohamed Elwakil
 :LOCATION: M235
@@ -4081,7 +4081,7 @@ SCHEDULED: <2024-04-26 Fri 13:50-14:40>
 :ID:       7a974d35-0bf2-4a98-a00b-7bd26716e38a
 :END:
 ***** Directed Study
-SCHEDULED: <2024-01-26 Fri 14:50-15:40>
+<2024-01-26 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4089,7 +4089,7 @@ SCHEDULED: <2024-01-26 Fri 14:50-15:40>
 :ID:       fd7588e9-ab24-4dca-8691-89baf84e8285
 :END:
 ***** Directed Study
-SCHEDULED: <2024-02-02 Fri 14:50-15:40>
+<2024-02-02 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4097,7 +4097,7 @@ SCHEDULED: <2024-02-02 Fri 14:50-15:40>
 :ID:       6d0a29b4-b7a9-4f8b-b353-7bcafd0c0fcf
 :END:
 ***** Directed Study
-SCHEDULED: <2024-02-09 Fri 14:50-15:40>
+<2024-02-09 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4105,7 +4105,7 @@ SCHEDULED: <2024-02-09 Fri 14:50-15:40>
 :ID:       ff6ede6c-3f86-4221-8591-ffb87a3f8253
 :END:
 ***** Directed Study
-SCHEDULED: <2024-02-16 Fri 14:50-15:40>
+<2024-02-16 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4113,7 +4113,7 @@ SCHEDULED: <2024-02-16 Fri 14:50-15:40>
 :ID:       9ed98630-3823-4aba-9fd7-e190bc3fbc4a
 :END:
 ***** Directed Study
-SCHEDULED: <2024-02-23 Fri 14:50-15:40>
+<2024-02-23 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4121,7 +4121,7 @@ SCHEDULED: <2024-02-23 Fri 14:50-15:40>
 :ID:       b89fd2f0-6ea6-4746-aa63-09fcea82fa9a
 :END:
 ***** Directed Study
-SCHEDULED: <2024-03-01 Fri 14:50-15:40>
+<2024-03-01 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4129,7 +4129,7 @@ SCHEDULED: <2024-03-01 Fri 14:50-15:40>
 :ID:       f4498433-7bec-41e2-8d5d-8f8743049b8e
 :END:
 ***** Directed Study
-SCHEDULED: <2024-03-08 Fri 14:50-15:40>
+<2024-03-08 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
@@ -4137,7 +4137,7 @@ SCHEDULED: <2024-03-08 Fri 14:50-15:40>
 :ID:       e9d412ac-aa0c-4f88-ae03-a2d41550a881
 :END:
 ***** Directed Study
-SCHEDULED: <2024-03-15 Fri 14:50-15:40>
+<2024-03-15 Fri 14:50-15:40>
 :PROPERTIES:
 :TEACHER:  LT Patrick Ledzian
 :LOCATION: None
