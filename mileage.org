@@ -1,0 +1,57 @@
+#+TITLE: Mileage Tracker
+
+
+* Mileage
+#+NAME: Miles
+| Date | Reason | Start | End | Code |
+|------+--------+-------+-----+------+
+|      |        |       |     |      |
+
+* Gas
+
+#+NAME: Gas
+| Date      | Trip Mileage | Total Gallons | Total Cost |       MPG |       CPG |        CPM |
+|-----------+--------------+---------------+------------+-----------+-----------+------------|
+| 07Jun2024 |          230 |            30 |         32 | 7.6666667 | 1.0666667 | 0.13913043 |
+| 08Jun2024 |          250 |          34.4 |      35.67 | 7.2674419 | 1.0369186 |    0.14268 |
+|           |              |               |            |           |           |            |
+#+TBLFM: $5=$2 / $3::$6=$4 / $3::$7=$4 / $2
+
+#+begin_src python :results output :var gas=Gas :colnames yes
+  from datetime import datetime
+  from pprint import pprint
+
+  miles= [row[1] for row in gas if row[1] != '']
+  gals = [row[2] for row in gas if row[2] != '']
+  cost = [row[3] for row in gas if row[3] != '']
+  MPG = [row[4] for row in gas if row[4] != '']
+  CPG = [row[5] for row in gas if row[5] != '']
+  CPM = [row[6] for row in gas if row[6] != '']
+
+  total_miles=sum(miles)
+  average_miles_per_period=total_miles/len(miles)
+  total_fuel=sum(gals)
+  total_fuel_cost=sum(cost)
+  fuel_efficiency = total_miles/total_fuel
+  average_fuel_per_mile = total_fuel_cost / total_miles if total_miles != 0 else 0
+
+  # Output the metrics
+  metrics = {
+      'Total Miles Driven': total_miles,
+      'Average Miles Driven per Period': average_miles_per_period,
+      'Total Fuel Consumption (gallons)': total_fuel,
+      'Total Fuel Cost': total_fuel_cost,
+      'Fuel Efficiency (MPG)': fuel_efficiency,
+      'Average Fuel Cost per Mile': average_fuel_per_mile
+    }
+
+  pprint(metrics)
+#+end_src
+
+#+RESULTS:
+: {'Average Fuel Cost per Mile': 0.14097916666666668,
+:  'Average Miles Driven per Period': 240.0,
+:  'Fuel Efficiency (MPG)': 7.453416149068322,
+:  'Total Fuel Consumption (gallons)': 64.4,
+:  'Total Fuel Cost': 67.67,
+:  'Total Miles Driven': 480}
