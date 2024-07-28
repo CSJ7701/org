@@ -24,6 +24,8 @@ SCHEDULED: <2024-07-23 Tue> DEADLINE: <2024-07-23 Tue>
 :ID:       1a2ffb88-fd60-4b76-82fc-f0b990d02452
 :END:
 
+** TODO Fix cj/org-roam-filter-by-tag exclusion
+Once this works, add an exclusion for the 'Archive' tag to =cj/org-roam-find-project=
 
 * Fireworks
 :PROPERTIES:
